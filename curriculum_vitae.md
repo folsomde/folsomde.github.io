@@ -31,7 +31,7 @@ sidebar_link: true
 
 <dl>
   <dt>NSF Physics Research Experience for Undergraduates</dt>
-  <dd>at Oklahoma State University <br> 2019</dd>
+  <dd>at Oklahoma State University <br> Summer 2019</dd>
 </dl>
 <div class="message">
 <ul>
