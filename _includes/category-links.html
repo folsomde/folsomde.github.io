@@ -5,8 +5,8 @@
 {% for node in pages_list %}
   {% if node.title != null %}
     {% if node.layout == "category" %}
-      <a class="category-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ node.url | relative_url }}">{{ node.title }}</a>
+      <text>&ensp;&ndash; <a class="category-link {% if page.url == node.url %} active{% endif %}"
+          href="{{ node.url | relative_url }}">{{ node.title }}</a></text>
     {% endif %}
   {% endif %}
 {% endfor %}
