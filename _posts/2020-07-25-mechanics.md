@@ -1,11 +1,12 @@
 ---
-title: "Goldstein Notes"
+title: "Mechanics Notes"
 layout: post
 categories:
+  - Prelims
   - Notes
 tags:
-  - Classical Mechanics
-  - Graduate Physics
+  - Mechanics
+permalink: /:categories/mechanics:output_ext
 comments: false
 ---
 (under construction)
@@ -250,7 +251,14 @@ where the entropy and pressure are the partial derivatives of $U$. Given our var
   G = H - TS
 \end{equation}
 
+To get Hamilton's equations, we use a Legendre transform to swap $\dot{q}$ for $p$ in the Lagrangian:
+\begin{align*}
+	H &= \dot{q}p - L \newline &\implies\quad \dot{q} = \pdv{H}{p},\quad \dot{p} = -\pdv{H}{q},\quad \pdv{H}{t} = -\pdv{L}{t}
+\end{align*}
+
+
 ### Symplectic formalism
+
 
 ### The Routhian
 

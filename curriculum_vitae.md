@@ -21,7 +21,7 @@ sidebar_link: true
 <div class="message">
 <ul>
   <li> Supervised by Dr.&nbsp;Joseph Haley and Dr.&nbsp;Will Johns </li>
- <li> Used <tt>MadGraph5_aMC@NLO</tt> to generate samples of vector-like top partner pair production and decay in the <em>Wb+X</em> decay pathway, including showering in <tt>Pythia</tt> and analysis in <tt>Delphes</tt> </li>
+ <li> Used <code>MadGraph5_aMC@NLO</code> to generate samples of vector-like top partner pair production and decay in the <em>Wb+X</em> decay pathway, including showering in <code>Pythia</code> and analysis in <code>Delphes</code> </li>
  <li> Compared kinematics of the pair production events at leading-order and next-to-leading order in QCD perturbation</li>
  <li> Presented findings to the ATLAS Heavy Quarks and Top physics subgroup</li>
  <li> Findings to be included in the ATLAS <em>Wb+X</em> analysis internal note</li>
@@ -37,7 +37,7 @@ sidebar_link: true
 <ul>
   <li> Supervised by Dr.&nbsp;Joseph Haley </li>
   <li> Contributed to an analysis searching for vector-like top partners decaying to a Higgs boson and top quark, attending and presenting at weekly meetings </li>
-  <li> Analyzed data from RUN 2 of the ATLAS experiment at CERN to assess the efficiency of triggers used for the study, using the <tt>ROOT</tt> library </li>
+  <li> Analyzed data from RUN 2 of the ATLAS experiment at CERN to assess the efficiency of triggers used for the study, using the <code>ROOT</code> library </li>
   <li> Findings included in the internal note "Search for Single Vector-Like Quark Production Decaying to a Top Quark and a Higgs Boson in the Run 2 ATLAS Data," to be circulated to the ATLAS collaboration in September 2020</li>
 </ul>
 </div>

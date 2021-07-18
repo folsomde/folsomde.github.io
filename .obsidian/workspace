@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "ec8afbb08167e0ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b5d94466959fc9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "category/expository.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc728945bb33fefc",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa96c3ebe4397f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae4a36c2f2922be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be6a2296f40243b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef0453914b9b7b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "f455a5ba9ab2ef65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35a7b488894b19e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "category/expository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "category/expository.md",
+    "category/notes.md",
+    "favicon/favicon-32x32.png",
+    "favicon/favicon-16x16.png",
+    "favicon/apple-touch-icon.png",
+    "favicon/android-chrome-512x512.png",
+    "favicon/android-chrome-192x192.png",
+    "contact.md",
+    "curriculum_vitae.md",
+    "_posts/2020-07-25-goldstein.md"
+  ]
+}

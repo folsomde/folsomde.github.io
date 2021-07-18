@@ -1,8 +1,9 @@
 ---
 layout: category
+permalink: /prelims/notes:output_ext
 title: Notes
 ---
 
-Any blog posts containing my notes will appear below! As a disclaimer, these notes are primarily here for my own quick reference; in general, they do not aim to be comprehensive or instructive.
+Hosted here are the notes I wrote for myself when studying for the prelims. Any other resource suggestions are highly recommended!
 
 -----
