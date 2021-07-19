@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Dylan Folsom
 tagline:          'Personal Website'
 description:      'Ph.D. Student at the Princeton University <a href="https://phy.princeton.edu" target="_blank">Department of Physics</a>.'
-url:              https://fongandrew.github.io
+url:              https://dfolsom.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
