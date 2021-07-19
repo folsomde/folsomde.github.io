@@ -18,8 +18,8 @@ author:
   name:           'Andrew Fong'
   url:            https://twitter.com/fongandrewc
 
-paginate:         5
-paginate_path:    '/prelims/:num'
+# paginate:         5
+# paginate_path:    '/prelims/:num'
 
 
 plugins:

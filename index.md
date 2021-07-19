@@ -10,4 +10,4 @@ I earned my undergraduate degree from Vanderbilt University in 2020. As an under
 
 --- 
 
-This is my personal website, a central hub for my academic online presence! Here you can find [the rest of my online presence]({{ "/contact"|relative_url}}), a digital version of [my curriculum vit&aelig;]({{ "/curriculum_vitae"|relative_url}}) containing information on my current and past projects, as well as a [blog]({{ "/blog"|relative_url}}) where I host my notes for the Princeton preliminary exam!
+This is my personal website, a central hub for my academic online presence! Here you can find [the rest of my online presence]({{ "/contact"|relative_url}}), a digital version of [my curriculum vit&aelig;]({{ "/curriculum_vitae"|relative_url}}) containing information on my current and past projects, as well as a [page]({{ "/prelims"|relative_url}}) where I host my notes for the Princeton preliminary exam!

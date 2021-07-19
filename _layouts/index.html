@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="content">
-  {% include pagination-newer.html %}
 
   {{ content }}
 
-  {% for post in paginator.posts %}
+  {% assign posts = site.posts | where_exp: 'post', 'post.categories contains "Notes"' %}
+  {% for post in posts %}
   <article class="post-body">
     <h2 class="post-title">
       <a href="{{ post.url | relative_url }}">
@@ -38,5 +38,4 @@ layout: default
   </article>
   {% endfor %}
 
-  {% include pagination-older.html %}
 </div>
