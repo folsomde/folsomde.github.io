@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "29b5d94466959fc9",
+        "id": "91a8766b95e94fa9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "category/expository.md",
+            "file": "_posts/1998-01-01-M1-Hanging-rope.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category/expository.md",
+                "file": "_posts/1998-01-01-M1-Hanging-rope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "91a8766b95e94fa9",
   "lastOpenFiles": [
-    "category/expository.md",
-    "category/notes.md",
-    "favicon/favicon-32x32.png",
-    "favicon/favicon-16x16.png",
-    "favicon/apple-touch-icon.png",
-    "favicon/android-chrome-512x512.png",
-    "favicon/android-chrome-192x192.png",
+    "_posts/1998-01-01-M1-Hanging-rope.md",
     "contact.md",
+    "README.md",
+    "category/problems.md",
+    "category/notes.md",
+    "_posts/2020-07-25-mechanics.md",
+    "index.md",
     "curriculum_vitae.md",
-    "_posts/2020-07-25-goldstein.md"
+    "category/expository.md",
+    "favicon/favicon-32x32.png"
   ]
 }
