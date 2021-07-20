@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J03
-  - Normal Modes
+  - Small Oscillations
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

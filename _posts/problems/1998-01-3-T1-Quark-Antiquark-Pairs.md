@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J98
-  - Misc Statmech
+  - Chemical Potential
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

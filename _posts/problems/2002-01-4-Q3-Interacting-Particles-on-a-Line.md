@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J02
-  - Perturbation Theory
+  - Van der Waals Gas
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

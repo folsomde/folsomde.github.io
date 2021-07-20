@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J03
-  - Classical Scattering
+  - Radiation
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "M09Q2 &ndash; Dynamics of Spin-one-half Particles"
+title: "M09Q2 &ndash; Dynamics of Spin one-half Particles"
 layout: post
 categories:
   - Prelims

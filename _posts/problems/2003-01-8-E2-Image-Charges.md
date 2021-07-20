@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J03
-  - Method of Images
+  - EM Waves
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false
 ---

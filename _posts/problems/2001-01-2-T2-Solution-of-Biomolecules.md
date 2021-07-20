@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J01
-  - Chemical Potential
+  - Ising Model
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

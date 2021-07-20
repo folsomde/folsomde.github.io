@@ -1,5 +1,5 @@
 ---
-title: "J10Q3 &ndash; Spin Dependent Scattering"
+title: "J10Q3 &ndash; Spin-Dependent Scattering"
 layout: post
 categories:
   - Prelims

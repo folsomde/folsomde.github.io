@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J98
-  - Perturbation Theory
+  - 1D QM
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false
 ---

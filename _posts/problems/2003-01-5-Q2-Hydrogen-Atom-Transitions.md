@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J03
-  - TDPT
+  - Central Force Motion
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

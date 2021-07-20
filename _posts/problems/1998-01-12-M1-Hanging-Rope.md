@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J98
-  - Continuous Media
+  - Normal Modes
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

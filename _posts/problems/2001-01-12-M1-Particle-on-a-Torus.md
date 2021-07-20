@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J01
-  - Small Oscillations
+  - Rigid Body Motion
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

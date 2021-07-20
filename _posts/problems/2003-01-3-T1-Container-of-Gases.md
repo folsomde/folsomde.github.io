@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J03
-  - Gas in Container
+  - TDPT
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

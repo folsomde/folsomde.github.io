@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J03
-  - Spin
+  - Quantum Scattering
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

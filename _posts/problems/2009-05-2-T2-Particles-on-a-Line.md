@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M09
-  - Particles on a Line
+  - Crystal Lattice, Particles on a Line
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J99
-  - Chemical Potential
+  - Phase Transitions
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

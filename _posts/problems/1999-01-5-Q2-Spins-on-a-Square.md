@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J99
-  - Spin
+  - TDPT
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

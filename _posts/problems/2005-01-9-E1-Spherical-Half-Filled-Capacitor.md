@@ -1,5 +1,5 @@
 ---
-title: "J05E1 &ndash; Spherical Half Filled Capacitor"
+title: "J05E1 &ndash; Spherical Half-Filled Capacitor"
 layout: post
 categories:
   - Prelims
@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J05
-  - Capacitors
+  - Curvilinear Coordinates, Capacitors
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

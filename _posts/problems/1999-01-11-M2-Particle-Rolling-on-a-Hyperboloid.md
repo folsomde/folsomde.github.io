@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J99
-  - Lagrangian Mechanics
+  - Central Force Motion
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---
