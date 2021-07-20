@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - M02
-  - Magnetostatics
+  - magnetostatics
+
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

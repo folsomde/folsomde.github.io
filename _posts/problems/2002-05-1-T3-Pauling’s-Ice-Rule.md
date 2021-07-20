@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M02
-  - Phase Transitions
+  - phase transitions
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

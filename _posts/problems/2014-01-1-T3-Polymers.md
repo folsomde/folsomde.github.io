@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J14
-  - Polymers
+  - polymers
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

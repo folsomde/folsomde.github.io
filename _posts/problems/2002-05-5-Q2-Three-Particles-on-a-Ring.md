@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M02
-  - Eigenstates
+  - eigenstates
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

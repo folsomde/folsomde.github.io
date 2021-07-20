@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J07
-  - Curvilinear Coordinates
+  - curvilinear coordinates
+
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false
 ---

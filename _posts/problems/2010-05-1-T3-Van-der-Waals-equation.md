@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M10
-  - Van der Waals Gas
+  - van der waals gas
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J03
-  - Central Force Motion
+  - central force motion
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

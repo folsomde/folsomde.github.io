@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J03
-  - Method of Images
+  - method of images
+
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false
 ---

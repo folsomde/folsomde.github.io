@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M99
-  - Heat Engines
+  - heat engines
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

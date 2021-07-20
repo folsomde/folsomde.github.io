@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J04
-  - Fermi Gas
+  - fermi gas
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

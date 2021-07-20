@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M10
-  - Small Oscillations
+  - small oscillations
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - M05
-  - Waveguides and Cavities
+  - waveguides and cavities
+
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false
 ---

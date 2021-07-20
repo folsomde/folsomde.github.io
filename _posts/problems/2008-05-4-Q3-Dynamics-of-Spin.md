@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M08
-  - Spin
+  - spin
+
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

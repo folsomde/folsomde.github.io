@@ -7,7 +7,9 @@ categories:
 tags:
   - Statmech
   - J12
-  - Heat Engines, Phase Transitions
+  - heat engines
+  - phase transitions
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

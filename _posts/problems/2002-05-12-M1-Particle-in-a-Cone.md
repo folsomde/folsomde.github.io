@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M02
-  - Lagrangian Mechanics
+  - lagrangian mechanics
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

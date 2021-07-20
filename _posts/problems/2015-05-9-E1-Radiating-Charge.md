@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - M15
-  - Radiation
+  - radiation
+
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

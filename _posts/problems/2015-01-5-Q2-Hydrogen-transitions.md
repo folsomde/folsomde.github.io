@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J15
-  - TDPT
+  - tdpt
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

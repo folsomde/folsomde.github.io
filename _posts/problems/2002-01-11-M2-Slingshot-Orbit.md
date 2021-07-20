@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J02
-  - Eigenstates
+  - eigenstates
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

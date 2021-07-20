@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J03
-  - Spin
+  - spin
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

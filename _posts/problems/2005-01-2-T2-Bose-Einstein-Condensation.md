@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J05
-  - Bose-Einsten Condensation
+  - bose-einsten condensation
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

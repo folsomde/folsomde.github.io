@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J11
-  - Rigid Body Motion
+  - rigid body motion
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M09
-  - Fluid Mechanics
+  - fluid mechanics
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

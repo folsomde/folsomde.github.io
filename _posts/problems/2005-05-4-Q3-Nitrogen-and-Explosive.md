@@ -8,6 +8,7 @@ tags:
   - QM
   - M05
   - untagged
+
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

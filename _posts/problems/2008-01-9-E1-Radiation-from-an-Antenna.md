@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J08
-  - Magnetic Vector Potential
+  - magnetic vector potential
+
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

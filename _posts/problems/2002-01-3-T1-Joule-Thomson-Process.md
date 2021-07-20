@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J02
-  - Magnetic Fields
+  - magnetic fields
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

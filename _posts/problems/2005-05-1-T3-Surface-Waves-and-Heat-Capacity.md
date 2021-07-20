@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M05
-  - Waves
+  - waves
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M99
-  - Classical Scattering
+  - classical scattering
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

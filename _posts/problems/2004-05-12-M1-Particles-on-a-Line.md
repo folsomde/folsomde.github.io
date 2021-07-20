@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M04
-  - Misc Mechanics
+  - misc mechanics
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

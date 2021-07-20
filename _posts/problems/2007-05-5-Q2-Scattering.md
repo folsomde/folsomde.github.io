@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M07
-  - Quantum Scattering
+  - quantum scattering
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

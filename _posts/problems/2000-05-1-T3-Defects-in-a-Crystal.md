@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M00
-  - Crystal Lattice
+  - crystal lattice
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M10
-  - Friction
+  - friction
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

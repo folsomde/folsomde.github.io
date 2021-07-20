@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J01
-  - Waveguides and Cavities
+  - waveguides and cavities
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

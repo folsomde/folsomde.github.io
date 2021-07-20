@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J98
-  - Phase Transitions
+  - phase transitions
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

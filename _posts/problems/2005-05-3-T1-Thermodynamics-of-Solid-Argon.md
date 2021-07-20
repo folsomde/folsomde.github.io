@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M05
-  - Fermi Gas
+  - fermi gas
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

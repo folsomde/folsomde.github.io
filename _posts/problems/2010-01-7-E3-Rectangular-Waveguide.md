@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J10
-  - Waveguides and Cavities
+  - waveguides and cavities
+
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false
 ---

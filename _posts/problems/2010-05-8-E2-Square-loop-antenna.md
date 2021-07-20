@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - M10
-  - Magnetic Vector Potential
+  - magnetic vector potential
+
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false
 ---

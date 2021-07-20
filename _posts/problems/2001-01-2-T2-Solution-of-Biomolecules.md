@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J01
-  - Ising Model
+  - ising model
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

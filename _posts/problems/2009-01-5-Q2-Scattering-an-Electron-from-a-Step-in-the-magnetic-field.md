@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J09
-  - EM in QM
+  - em in qm
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

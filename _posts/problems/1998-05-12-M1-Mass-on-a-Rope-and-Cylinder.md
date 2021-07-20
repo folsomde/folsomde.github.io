@@ -7,7 +7,9 @@ categories:
 tags:
   - Mechanics
   - M98
-  - Rolling Constraints, Friction
+  - rolling constraints
+  - friction
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

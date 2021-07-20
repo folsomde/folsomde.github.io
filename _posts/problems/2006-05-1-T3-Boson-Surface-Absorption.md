@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M06
-  - Bose-Einsten Condensation
+  - bose-einsten condensation
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

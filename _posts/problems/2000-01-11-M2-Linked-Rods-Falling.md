@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J00
-  - Lagrangian Mechanics
+  - lagrangian mechanics
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

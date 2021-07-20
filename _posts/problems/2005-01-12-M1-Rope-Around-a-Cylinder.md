@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J05
-  - Friction
+  - friction
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

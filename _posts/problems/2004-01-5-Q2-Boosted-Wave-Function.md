@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J04
-  - Misc Quantum
+  - misc quantum
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

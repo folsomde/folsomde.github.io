@@ -7,7 +7,9 @@ categories:
 tags:
   - Statmech
   - J11
-  - Chemical Potential, Phase Transitions
+  - chemical potential
+  - phase transitions
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

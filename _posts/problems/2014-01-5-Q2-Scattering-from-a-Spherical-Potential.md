@@ -8,6 +8,7 @@ tags:
   - QM
   - J14
   - untagged
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

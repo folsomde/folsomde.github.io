@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J98
-  - 1D QM
+  - 1d qm
+
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false
 ---

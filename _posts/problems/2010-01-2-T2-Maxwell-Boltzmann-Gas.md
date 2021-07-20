@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J10
-  - Misc Statmech
+  - misc statmech
+
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false
 ---

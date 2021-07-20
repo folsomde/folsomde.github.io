@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J10
-  - Quantum Scattering
+  - quantum scattering
+
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

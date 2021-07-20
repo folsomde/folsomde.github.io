@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J02
-  - Central Force Motion
+  - central force motion
+
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J07
-  - Waves
+  - waves
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

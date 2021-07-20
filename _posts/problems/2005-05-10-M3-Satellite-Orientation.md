@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M05
-  - Central Force Motion
+  - central force motion
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---

@@ -7,7 +7,9 @@ categories:
 tags:
   - E&M
   - J05
-  - Curvilinear Coordinates, Capacitors
+  - curvilinear coordinates
+  - capacitors
+
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

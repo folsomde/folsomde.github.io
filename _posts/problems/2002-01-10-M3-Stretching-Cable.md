@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J02
-  - Misc Quantum
+  - misc quantum
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---

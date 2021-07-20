@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M06
-  - Particles on a Line
+  - particles on a line
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

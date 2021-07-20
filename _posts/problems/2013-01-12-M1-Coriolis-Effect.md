@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J13
-  - Non-Inertial Reference Frames
+  - non-inertial reference frames
+
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M04
-  - Normal Modes
+  - normal modes
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

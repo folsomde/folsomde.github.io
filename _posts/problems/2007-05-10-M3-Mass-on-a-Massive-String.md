@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M07
-  - Oscillators
+  - oscillators
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---

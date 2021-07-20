@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J98
-  - Misc Statmech
+  - misc statmech
+
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M12
-  - Eigenstates
+  - eigenstates
+
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false
 ---

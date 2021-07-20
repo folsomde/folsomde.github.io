@@ -8,6 +8,7 @@ tags:
   - Mechanics
   - M17
   - untagged
+
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - M02
-  - Non-Inertial Reference Frames
+  - non-inertial reference frames
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---

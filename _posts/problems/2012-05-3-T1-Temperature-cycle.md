@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M12
-  - Altitude
+  - altitude
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

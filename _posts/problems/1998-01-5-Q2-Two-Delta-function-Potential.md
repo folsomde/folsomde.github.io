@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J98
-  - Spin
+  - spin
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

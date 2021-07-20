@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M08
-  - QHO
+  - qho
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

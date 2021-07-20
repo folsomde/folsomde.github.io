@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - M03
-  - Gas in Container
+  - gas in container
+
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J13
-  - Radiation
+  - radiation
+
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false
 ---

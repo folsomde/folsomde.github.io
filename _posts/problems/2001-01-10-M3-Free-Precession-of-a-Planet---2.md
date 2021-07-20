@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J01
-  - Perturbation Theory
+  - perturbation theory
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---

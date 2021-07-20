@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - M99
-  - Atomic QM
+  - atomic qm
+
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Statmech
   - J03
-  - TDPT
+  - tdpt
+
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J03
-  - Normal Modes
+  - normal modes
+
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false
 ---

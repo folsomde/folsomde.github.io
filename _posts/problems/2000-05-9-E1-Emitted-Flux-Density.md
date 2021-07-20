@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - M00
-  - EM Waves
+  - em waves
+
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false
 ---

@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J15
-  - Rolling Constraints
+  - rolling constraints
+
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false
 ---
