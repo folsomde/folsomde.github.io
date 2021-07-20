@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J04
-  - central force motion
+  - Central Force Motion
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

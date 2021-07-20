@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J11
-  - magnetostatics
+  - Magnetostatics
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

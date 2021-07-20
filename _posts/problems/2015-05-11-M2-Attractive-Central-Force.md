@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - M15
-  - central force motion
+  - Central Force Motion
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J11
-  - eigenstates
+  - Eigenstates
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

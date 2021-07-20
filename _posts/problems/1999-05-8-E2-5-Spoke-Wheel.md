@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M99
-  - induction
+  - Induction
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

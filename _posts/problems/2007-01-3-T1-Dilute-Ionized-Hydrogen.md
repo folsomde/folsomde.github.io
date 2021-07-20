@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J07
-  - hydrogen formation
+  - Hydrogen Formation
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

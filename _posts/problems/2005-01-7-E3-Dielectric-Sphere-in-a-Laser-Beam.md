@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J05
-  - em fields in matter
+  - EM Fields in Matter
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

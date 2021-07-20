@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M06
-  - 1d qm
+  - 1D QM
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

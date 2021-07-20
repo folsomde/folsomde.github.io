@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M07
-  - method of images
+  - Method of Images
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J09
-  - capacitors
+  - Capacitors
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

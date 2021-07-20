@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J00
-  - gas in container
+  - Gas in Container
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

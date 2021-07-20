@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J15
-  - bose-einsten condensation
+  - Bose-Einsten Condensation
 
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false

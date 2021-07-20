@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M00
-  - spin
+  - Spin
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

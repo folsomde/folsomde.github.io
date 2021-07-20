@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M15
-  - qho
+  - QHO
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M08
-  - brownian motion
+  - Brownian Motion
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

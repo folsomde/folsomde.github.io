@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M01
-  - misc statmech
+  - Misc Statmech
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

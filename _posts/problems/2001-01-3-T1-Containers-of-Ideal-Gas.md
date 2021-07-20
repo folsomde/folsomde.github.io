@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J01
-  - chemical potential
+  - Chemical Potential
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

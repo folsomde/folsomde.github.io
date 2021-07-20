@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J15
-  - em waves
+  - EM Waves
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

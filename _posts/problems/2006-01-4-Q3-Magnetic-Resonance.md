@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J06
-  - tdpt
+  - TDPT
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

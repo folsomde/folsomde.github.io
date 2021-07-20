@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M01
-  - capacitors
+  - Capacitors
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M02
-  - em in qm
+  - EM in QM
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

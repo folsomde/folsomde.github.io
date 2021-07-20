@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M15
-  - quantum scattering
+  - Quantum Scattering
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

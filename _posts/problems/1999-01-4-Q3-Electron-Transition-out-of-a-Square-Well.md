@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J99
-  - chemical potential
+  - Chemical Potential
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

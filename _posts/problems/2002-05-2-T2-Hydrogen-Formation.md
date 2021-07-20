@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M02
-  - hydrogen formation
+  - Hydrogen Formation
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

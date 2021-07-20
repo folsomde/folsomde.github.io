@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M06
-  - diatomic gas in e-fields
+  - Diatomic Gas in E-Fields
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

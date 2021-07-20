@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J06
-  - small oscillations
+  - Small Oscillations
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

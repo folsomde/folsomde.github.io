@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J99
-  - phase transitions
+  - Phase Transitions
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

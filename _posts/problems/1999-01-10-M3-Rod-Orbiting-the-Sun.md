@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J99
-  - atomic qm
+  - Atomic QM
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

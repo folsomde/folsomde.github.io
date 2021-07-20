@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M98
-  - heat engines
+  - Heat Engines
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J06
-  - magnetostatics
+  - Magnetostatics
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

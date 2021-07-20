@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - M99
-  - rolling constraints
+  - Rolling Constraints
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

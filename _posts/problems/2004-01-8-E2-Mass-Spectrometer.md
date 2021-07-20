@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J04
-  - magnetic fields
+  - Magnetic Fields
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

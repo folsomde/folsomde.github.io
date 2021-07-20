@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J04
-  - radiation
+  - Radiation
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

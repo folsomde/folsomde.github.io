@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M09
-  - perturbation theory
+  - Perturbation Theory
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

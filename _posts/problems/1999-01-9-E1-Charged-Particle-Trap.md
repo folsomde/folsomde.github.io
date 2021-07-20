@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J99
-  - em waves
+  - EM Waves
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M15
-  - magnetic fields
+  - Magnetic Fields
 
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false

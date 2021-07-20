@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M99
-  - radiation
+  - Radiation
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

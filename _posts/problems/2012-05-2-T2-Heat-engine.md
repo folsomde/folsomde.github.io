@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M12
-  - heat engines
+  - Heat Engines
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

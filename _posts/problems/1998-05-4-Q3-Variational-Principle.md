@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M98
-  - misc quantum
+  - Misc Quantum
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J00
-  - perturbation theory
+  - Perturbation Theory
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

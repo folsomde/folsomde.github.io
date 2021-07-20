@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M04
-  - curvilinear coordinates
+  - Curvilinear Coordinates
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

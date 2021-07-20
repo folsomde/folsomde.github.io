@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J04
-  - capacitors
+  - Capacitors
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

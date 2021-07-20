@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J98
-  - continuous media
+  - Continuous Media
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

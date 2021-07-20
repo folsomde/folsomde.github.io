@@ -7,8 +7,8 @@ categories:
 tags:
   - Statmech
   - M07
-  - ising model
-  - phase transitions
+  - Ising Model
+  - Phase Transitions
 
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false

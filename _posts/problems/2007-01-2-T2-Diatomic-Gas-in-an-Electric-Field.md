@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J07
-  - diatomic gas in e-fields
+  - Diatomic Gas in E-Fields
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

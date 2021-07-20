@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J98
-  - curvilinear coordinates
+  - Curvilinear Coordinates
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

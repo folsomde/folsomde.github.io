@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J09
-  - continuous media
+  - Continuous Media
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

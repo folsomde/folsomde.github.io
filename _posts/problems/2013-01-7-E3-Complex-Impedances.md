@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J13
-  - induction
+  - Induction
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

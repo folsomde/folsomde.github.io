@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M02
-  - gas in container
+  - Gas in Container
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

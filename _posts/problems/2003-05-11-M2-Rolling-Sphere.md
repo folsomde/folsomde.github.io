@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - M03
-  - rolling constraints
+  - Rolling Constraints
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

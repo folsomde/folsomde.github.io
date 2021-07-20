@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J12
-  - rigid body motion
+  - Rigid Body Motion
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

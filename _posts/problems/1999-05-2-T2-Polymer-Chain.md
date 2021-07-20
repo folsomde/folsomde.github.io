@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M99
-  - polymers
+  - Polymers
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

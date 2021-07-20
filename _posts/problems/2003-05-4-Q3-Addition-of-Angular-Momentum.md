@@ -7,8 +7,8 @@ categories:
 tags:
   - QM
   - M03
-  - spin
-  - eigenstates
+  - Spin
+  - Eigenstates
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

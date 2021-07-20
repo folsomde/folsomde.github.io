@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M01
-  - atomic qm
+  - Atomic QM
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

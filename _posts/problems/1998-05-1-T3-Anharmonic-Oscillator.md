@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M98
-  - oscillators
+  - Oscillators
 
 permalink: /:categories/:year/:month/T3:output_ext
 comments: false

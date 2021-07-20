@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J03
-  - oscillators
+  - Oscillators
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

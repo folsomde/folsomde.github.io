@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J04
-  - rigid body motion
+  - Rigid Body Motion
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

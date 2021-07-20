@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J01
-  - small oscillations
+  - Small Oscillations
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

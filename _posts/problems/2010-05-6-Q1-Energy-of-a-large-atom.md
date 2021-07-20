@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M10
-  - eigenstates
+  - Eigenstates
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

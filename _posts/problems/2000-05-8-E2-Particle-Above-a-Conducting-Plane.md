@@ -7,8 +7,8 @@ categories:
 tags:
   - E&M
   - M00
-  - radiation
-  - method of images
+  - Radiation
+  - Method of Images
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

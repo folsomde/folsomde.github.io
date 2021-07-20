@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J07
-  - em waves
+  - EM Waves
 
 permalink: /:categories/:year/:month/E3:output_ext
 comments: false

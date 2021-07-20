@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J11
-  - altitude
+  - Altitude
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

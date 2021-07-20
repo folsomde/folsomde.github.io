@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J02
-  - gas in container
+  - Gas in Container
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M10
-  - polymers
+  - Polymers
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

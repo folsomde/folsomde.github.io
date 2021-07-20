@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J11
-  - normal modes
+  - Normal Modes
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

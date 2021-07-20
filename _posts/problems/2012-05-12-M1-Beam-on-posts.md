@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - M12
-  - oscillators
+  - Oscillators
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

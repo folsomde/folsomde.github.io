@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J04
-  - misc statmech
+  - Misc Statmech
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

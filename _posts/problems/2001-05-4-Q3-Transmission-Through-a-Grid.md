@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M01
-  - quantum scattering
+  - Quantum Scattering
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

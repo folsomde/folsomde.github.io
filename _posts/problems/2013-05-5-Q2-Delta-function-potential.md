@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M13
-  - tdpt
+  - TDPT
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

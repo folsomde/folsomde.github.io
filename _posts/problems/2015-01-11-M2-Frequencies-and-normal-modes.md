@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J15
-  - normal modes
+  - Normal Modes
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

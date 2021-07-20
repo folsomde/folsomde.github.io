@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J13
-  - central force motion
+  - Central Force Motion
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

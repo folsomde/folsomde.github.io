@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M12
-  - induction
+  - Induction
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

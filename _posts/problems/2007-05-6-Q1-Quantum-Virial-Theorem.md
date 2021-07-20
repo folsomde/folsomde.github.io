@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M07
-  - misc quantum
+  - Misc Quantum
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

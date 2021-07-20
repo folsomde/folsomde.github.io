@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - M15
-  - ising model
+  - Ising Model
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false
