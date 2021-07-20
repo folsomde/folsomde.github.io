@@ -5,6 +5,7 @@ layout: page
 <!-- With added pipe to handle lack of sort_natural -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first | downcase }}|{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_tags: {{ site_tags }} -->
+<!-- site.tags: {{ site.tags }} -->
 {% assign tag_words = site_tags | split:',' | sort %}
 <!-- tag_words: {{ tag_words }} -->
 {% assign used_tags = "" | split: "|" %}
@@ -23,16 +24,27 @@ layout: page
 
   <h2>Exams</h2>
   <div class="tags-list">
+    <table class='empty'>
+  <tr>
       {% for year in (1998..2018) %}
       {% for exam in (0..1) %}
       {% capture tag %}{% cycle 'J', 'M'%}{{ year | slice: -2,2 }}{% endcapture %}
-  	{% assign used_tags = used_tags | push: tag%}
-      <a href="#{{ tag | slugify }}" class="tag-link">
+  	{% assign used_tags = used_tags | push: tag %}
+    {% assign uses = site.tags[tag] | size%}
+    {% if uses == 0%}
+    <td><a class="tag-link">
+        <span class="tag-name zero-text">{{ tag }}</span>
+        <span class="tag-count zero-count">{{ site.tags[tag] | size }}</span></a></td>
+    {% else%}
+      <td><a href="#{{ tag | slugify }}" class="tag-link">
         <span class="tag-name">{{ tag }}</span>
         <span class="tag-count">{{ site.tags[tag] | size }}</span>
-      </a>
+      </a></td>
+      {%endif%}
       {% endfor %}
+    {% cycle '', '', '</tr><tr>'%}
       {% endfor %}
+    </tr></table>
   </div>
 
 

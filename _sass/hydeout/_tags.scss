@@ -14,6 +14,19 @@
   padding-right: 0.6em;
 }
 
+
+
+.tags-list a .zero-count {
+  background: $sidebar-bg-color;
+  opacity:0.5;
+}
+
+.tags-list a .zero-text {
+  opacity:0.5;
+  color: $sidebar-bg-color;
+}
+
+
 .tags-list a:hover {
   opacity: 1;
   text-decoration: none;
