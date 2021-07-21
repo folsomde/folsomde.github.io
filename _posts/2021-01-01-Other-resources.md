@@ -5,7 +5,7 @@ categories:
   - Prelims
   - Notes
 permalink: /:categories/other-resources:output_ext
-excerpt: "Including an overview of some mathematical facts that are good to know."
+excerpt: "Some mathematical facts that are good to know."
 comments: false
 ---
 
