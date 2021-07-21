@@ -1,7 +1,7 @@
 import numpy as np 
 
 metadata_file = np.load('metadata.npz',allow_pickle=True)
-metadata = metadata_file['metadata']
+metadata = metadata_file['metadata'][()]
 
 nl='\n'
 
@@ -30,4 +30,4 @@ permalink: /:categories/:year/:month/{s}{problem}:output_ext
 comments: false
 ---
 <object data="{year}{mlett}{problem}{s}.pdf" type="application/pdf" width="100%" height="500"></object>
-<div class="message"><a href='https://princetonprelim.com/prelim/{2*y+(0 if m == '01' else 1) -(1 if y > 11 else 0) -(1 if y > 14 else 0)-(1 if y > 16 else 0)}/'>Check for solutions to this year's exam</a></div>''')
+<div class="message"><a href='https://princetonprelim.com/prelim/{2*y+(0 if m == '01' else 1) -(1 if y > 13 else 0) -(1 if y > 16 else 0)-(1 if y > 18 else 0)}/'>Check for solutions to this year's exam</a></div>''')
