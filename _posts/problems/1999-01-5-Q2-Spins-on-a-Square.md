@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J99
-  - TDPT
+  - Angular Momentum and Spin
+  - Eigenstates
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

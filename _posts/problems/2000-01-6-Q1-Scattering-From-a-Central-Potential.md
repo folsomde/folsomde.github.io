@@ -8,6 +8,7 @@ tags:
   - QM
   - J00
   - Quantum Scattering
+  - Born Approximation
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

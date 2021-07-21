@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M98
-  - Spin
+  - Angular Momentum and Spin
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

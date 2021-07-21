@@ -7,6 +7,7 @@ categories:
 tags:
   - Statmech
   - M98
+  - Bose Gas
   - Gas in Container
 
 permalink: /:categories/:year/:month/T2:output_ext

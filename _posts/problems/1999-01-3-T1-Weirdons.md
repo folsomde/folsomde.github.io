@@ -7,7 +7,9 @@ categories:
 tags:
   - Statmech
   - J99
-  - Phase Transitions
+  - Chemical Potential
+  - Gas in Container
+  - Particles on a Line
 
 permalink: /:categories/:year/:month/T1:output_ext
 comments: false

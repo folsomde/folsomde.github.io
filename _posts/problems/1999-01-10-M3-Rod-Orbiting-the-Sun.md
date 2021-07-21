@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J99
-  - Atomic QM
+  - Rigid Body Motion
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - M00
-  - Radiation
+  - EM Fields in Matter
   - Method of Images
 
 permalink: /:categories/:year/:month/E2:output_ext

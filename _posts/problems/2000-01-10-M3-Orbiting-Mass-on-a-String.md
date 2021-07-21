@@ -8,6 +8,7 @@ tags:
   - Mechanics
   - J00
   - Central Force Motion
+  - Misc Mechanics
 
 permalink: /:categories/:year/:month/M3:output_ext
 comments: false

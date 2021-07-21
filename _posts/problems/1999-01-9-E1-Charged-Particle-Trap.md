@@ -7,7 +7,8 @@ categories:
 tags:
   - E&M
   - J99
-  - EM Waves
+  - EM Fields in Matter
+  - Misc EM
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

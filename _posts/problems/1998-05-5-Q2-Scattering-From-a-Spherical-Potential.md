@@ -8,6 +8,7 @@ tags:
   - QM
   - M98
   - Quantum Scattering
+  - Born Approximation
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

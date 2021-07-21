@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - M98
-  - Misc Quantum
+  - Perturbation Theory
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

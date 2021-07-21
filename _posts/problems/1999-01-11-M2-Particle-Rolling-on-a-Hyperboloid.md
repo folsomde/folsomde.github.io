@@ -8,6 +8,7 @@ tags:
   - Mechanics
   - J99
   - Central Force Motion
+  - Oscillations
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

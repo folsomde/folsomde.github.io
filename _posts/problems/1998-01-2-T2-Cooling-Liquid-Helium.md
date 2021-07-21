@@ -7,6 +7,8 @@ categories:
 tags:
   - Statmech
   - J98
+  - Bose Gas
+  - Chemical Potential
   - Phase Transitions
 
 permalink: /:categories/:year/:month/T2:output_ext

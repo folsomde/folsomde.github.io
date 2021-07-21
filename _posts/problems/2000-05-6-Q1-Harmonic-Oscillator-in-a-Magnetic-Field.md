@@ -7,7 +7,9 @@ categories:
 tags:
   - QM
   - M00
+  - QHO
   - Perturbation Theory
+  - Particles in EM Fields
 
 permalink: /:categories/:year/:month/Q1:output_ext
 comments: false

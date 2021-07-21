@@ -7,7 +7,7 @@ categories:
 tags:
   - Mechanics
   - J98
-  - Rolling Constraints
+  - Misc Mechanics
 
 permalink: /:categories/:year/:month/M2:output_ext
 comments: false

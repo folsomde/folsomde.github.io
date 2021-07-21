@@ -7,7 +7,7 @@ categories:
 tags:
   - QM
   - J98
-  - Spin
+  - 1D QM
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

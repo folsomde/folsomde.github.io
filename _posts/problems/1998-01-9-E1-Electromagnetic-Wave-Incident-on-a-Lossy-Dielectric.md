@@ -8,6 +8,7 @@ tags:
   - E&M
   - J98
   - EM Waves
+  - EM Fields in Matter
 
 permalink: /:categories/:year/:month/E1:output_ext
 comments: false

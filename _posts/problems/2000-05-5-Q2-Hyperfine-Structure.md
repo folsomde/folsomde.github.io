@@ -7,7 +7,9 @@ categories:
 tags:
   - QM
   - M00
-  - Spin
+  - Angular Momentum and Spin
+  - Eigenstates
+  - Particles in EM Fields
 
 permalink: /:categories/:year/:month/Q2:output_ext
 comments: false

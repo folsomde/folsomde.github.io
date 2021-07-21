@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J99
-  - EM Waves
+  - Energy and Momentum of EM Fields
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

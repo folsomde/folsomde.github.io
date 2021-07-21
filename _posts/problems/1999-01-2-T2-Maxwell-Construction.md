@@ -7,7 +7,7 @@ categories:
 tags:
   - Statmech
   - J99
-  - Misc Statmech
+  - Van der Waals Gas
 
 permalink: /:categories/:year/:month/T2:output_ext
 comments: false

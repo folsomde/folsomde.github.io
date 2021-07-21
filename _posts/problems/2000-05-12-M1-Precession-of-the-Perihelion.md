@@ -8,6 +8,7 @@ tags:
   - Mechanics
   - M00
   - Central Force Motion
+  - Oscillations
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

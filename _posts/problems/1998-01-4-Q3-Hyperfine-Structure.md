@@ -7,7 +7,8 @@ categories:
 tags:
   - QM
   - J98
-  - Misc Statmech
+  - Angular Momentum and Spin
+  - TDPT
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

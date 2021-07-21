@@ -8,6 +8,7 @@ tags:
   - E&M
   - M98
   - EM Fields in Matter
+  - Magnetostatics
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

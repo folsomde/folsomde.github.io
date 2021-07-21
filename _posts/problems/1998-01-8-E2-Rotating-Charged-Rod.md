@@ -7,7 +7,7 @@ categories:
 tags:
   - E&M
   - J98
-  - Curvilinear Coordinates
+  - Radiation
 
 permalink: /:categories/:year/:month/E2:output_ext
 comments: false

@@ -7,7 +7,9 @@ categories:
 tags:
   - QM
   - J99
-  - Chemical Potential
+  - Perturbation Theory
+  - 1D QM
+  - TDPT
 
 permalink: /:categories/:year/:month/Q3:output_ext
 comments: false

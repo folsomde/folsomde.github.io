@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J99
-  - Lagrangian Mechanics
+  - Rigid Body Motion
+  - Rolling Constraints
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false

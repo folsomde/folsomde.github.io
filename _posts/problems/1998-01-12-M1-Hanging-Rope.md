@@ -7,7 +7,8 @@ categories:
 tags:
   - Mechanics
   - J98
-  - Normal Modes
+  - Lagrangian Mechanics
+  - Continuous Media
 
 permalink: /:categories/:year/:month/M1:output_ext
 comments: false
