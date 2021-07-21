@@ -26,21 +26,21 @@ comments: false
 ## Lagrangians Overview <a name="chapter1"></a>
 
 Assuming Newton's second, we derive the euler lagrange equations
-\begin{equation}
-	m\ddot{\vb{r}}_\alpha = -\nabla V\eval_{\vb{r}_\alpha} + \vb{F}_\alpha^{\text{n-c}} \implies \dv{t}\pdv{L}{\dot{q}}-\pdv{L}{q} = \sum\pdv{\vb{r}_\alpha}{q}\cdot \vb{F}_\alpha^\text{n-c}
-\end{equation}
+<div><div>\begin{equation}
+	m\ddot{\vb{r}}_\alpha = -\nabla V\eval{}_{\vb{r}_\alpha} + \vb{F}_\alpha^{\text{n-c}} \implies \dv{t}\pdv{L}{\dot{q}}-\pdv{L}{q} = \sum\pdv{\vb{r}_\alpha}{q}\cdot \vb{F}_\alpha^\text{n-c}
+\end{equation}</div></div>
 where we absorb the conservative forces into $L$. Some nonconservative forces can also be written as a velocity-dependent potential; an example is the Rayleigh dissipation function 
-\begin{equation}
+<div>\begin{equation}
 \mathcal{F} = \frac{1}{2}\sum(k_x v_{ix}^2 + k_y v_{iy}^2 + k_z v_{iz}^2)
-\end{equation}
+\end{equation}</div>
 for which the force is given by 
-\begin{equation}
+<div>\begin{equation}
 \pdv{\vb{r}_\alpha}{q}\cdot \vb{F}_\alpha^\text{n-c} = -\pdv{\mathcal{F}}{\dot{q}_j}
-\end{equation}
+\end{equation}</div>
 if there is a dissipation function $\mathcal{F}$, we have
-\begin{equation}
+<div>\begin{equation}
 	\dv{h}{t} = - 2\mathcal{F} - \pdv{L}{t}
-\end{equation} 
+\end{equation}</div> 
 as the rate of energy loss.
 
 ### Constraints and Lagrange Multipliers
@@ -56,14 +56,14 @@ Fun vocabulary:
 <br>We include these constraints using Lagrange multipliers:
 <ol>
 	<li> Since the constraint equations $f_\alpha$ are identically zero, we can say
-\begin{equation}
+<div>\begin{equation}
 \delta\int(L-\lambda^\alpha(t) f_\alpha) \dd{t} = 0
-\end{equation}
+\end{equation}</div>
 	</li>
 	<li> Solving the variation gives the nonhomogeneous Euler-Lagrange equations for forces of constraint
-\begin{equation}
+<div>\begin{equation}
 	\dv{t}\pdv{L}{\dot{q}}-\pdv{L}{q} = \sum \lambda^\alpha \qty[\pdv{f_\alpha}{q} - \dv{t}\pdv{f_\alpha}{\dot{q}}] - \dv{\lambda^\alpha}{t} \pdv{f_\alpha}{\dot{q}}
-\end{equation}
+\end{equation}</div>
 	Note that this right hand side simplifies a lot if the constraint is holonomic
 	</li>
 </ol>
@@ -72,72 +72,72 @@ Fun vocabulary:
 cyclic coords (lagrangian does not explictly depend on them) immediately give conserved quantities, and typically energy is conserved as well. 
 
 Noethers theorem says if
-\begin{equation}
+<div>\begin{equation}
  q_i\to q_i+\delta q_i \implies \delta L = \dv{f}{t} 
-\end{equation}
+\end{equation}</div>
 for some $f(q,\,t)$, then $Q=p_i\delta q^i - f$ is constant when the EoM is followed
 
 
 [Return to Table of Contents](#toc)
 ## Hamiltonians <a name="chapter2"></a> 
-\begin{equation}
+<div>\begin{equation}
 	H(p,\,q) = p_i\dot{q}^i - L
-\end{equation}
+\end{equation}</div>
 with equations of motion
-\begin{equation}
+<div>\begin{equation}
 	\pdv{H}{q}=-\dot{p}\qq{and}\pdv{H}{p}=\dot{q}
-\end{equation}
+\end{equation}</div>
 
 [Return to Table of Contents](#toc)
 ## Oscillations <a name="chapter3"></a>
 ### One dimension: driving and damping
 Consider the EoM 
-\begin{equation}
+<div>\begin{equation}
 	m\ddot{x} = -kx -\gamma\dot{x}+F_D(t)
-\end{equation}
+\end{equation}</div>
 define the undamped frequency and the quality factor
-\begin{equation}
+<div>\begin{equation}
 	\omega_0 = \sqrt{\frac{k}{m}} \qquad Q = \frac{\sqrt{mk}}{\gamma} \implies \ddot{x} + \frac{\omega_0}{Q}\dot{x} + \omega_0^2x = \frac{1}{m}F_D
-\end{equation}
+\end{equation}</div>
 if we take $x\sim e^{rt}$ and solve the homogeneous, we get the characteristic equation
-\begin{equation}
+<div>\begin{equation}
 	r^{2}+\frac{\omega_0}{Q}r + \omega_0^2 = 0\implies r_{\pm} = \frac{\omega_0}{2Q}\qty[-1\pm\sqrt{1-4Q^2}] 
-\end{equation}
+\end{equation}</div>
 which has three cases:
 <bl>
-	<li> $Q> 1/2$ "underdamped" --- decaying packet times an oscillatory solution</li>
-	\begin{equation}
+	<li> $Q> 1/2$ "underdamped" &mdash; decaying packet times an oscillatory solution</li>
+	<div>\begin{equation}
 		x(t) = e^{-\omega_0t/2Q} \cos(\omega_0\sqrt{1-1/4Q^2} + \phi)
-	\end{equation}
+	\end{equation}</div>
 	<li> $Q=1/2$ "critically damped"</li>
-	\begin{equation}
+	<div>\begin{equation}
 		x(t) = [x_0 + (v_0+x_0\omega_0)t]e^{-\omega_0t}
-	\end{equation}
+	\end{equation}</div>
 	you can shove it hard enough to overshoot the equilibrium point but it'll approach it exponentially from there 
-	<li> $Q> 1/2$ "overdamped" --- real and distinct roots give a lincomb</li>
-	\begin{equation}
+	<li> $Q> 1/2$ "overdamped" &mdash; real and distinct roots give a lincomb</li>
+	<div>\begin{equation}
 		x(t) = Ae^{r_+t} + Be^{r_-t}
-	\end{equation}
+	\end{equation}</div>
 </bl>
 
 <br>To get a particular solution in the case of a driving force, generally nice to solve in the complex plane. $x = \Re[z(t)]$ for $z(t) = Ae^{-i\omega t}$ where $\omega$ is the driving frequency and $A$ is in general complex. We can pull this out into a real amplitude and a phase lag. For a periodic driving force, we get resonance: $|A|$ is big when $\omega\sim\omega_0$ and $Q$ large. 
-\begin{equation}
+<div>\begin{equation}
 	|A| \text{ maximized when }\omega = \omega_0\sqrt{1-1/2Q^2}
-\end{equation}
+\end{equation}</div>
 in $A-\omega$ space this gives a lorentzian with width $\Gamma = \omega/Q$ that looks like
-\begin{equation}
+<div>\begin{equation}
 	A(\omega) \sim \frac{\Gamma^2/4}{(\omega-\omega_0)^2+\Gamma^2/4}E_\text{max}
-\end{equation}
+\end{equation}</div>
 
 ### Higher dimensions
 If we have a Lagrangian of the form
-\begin{equation}
+<div>\begin{equation}
 	L = \frac{1}{2}T_{ij}\dot{q}_i\dot{q}_j - \frac{1}{2}V_{ij}q_iq_j + \mathcal{O}(q^3) = \frac{1}{2}\dot{\vb{q}}^T\mathbb{T}\dot{\vb{q}} - \frac{1}{2}\vb{q}^T\mathbb{V}\vb{q}
-\end{equation}
+\end{equation}</div>
 then the equations of motion read
-\begin{equation}
+<div>\begin{equation}
 	T_{ij}\ddot{q}_j + V_{ij}q_j = 0 \implies q_j = v_je^{i\omega t} \implies (-\omega^2 \mathbb{T} + \mathbb{V})\vb{v} = 0
-\end{equation}
+\end{equation}</div>
 so we find valid $\omega^2$s by $\det(-\omega^2\mathbb{T}-\mathbb{V}) = 0$, and the sign determines the time dependence of $q$:
 <bl>
 	<li> if $\omega^2_\alpha > 0$, $\vb{q} = \vb{v}_\alpha\qty[A_\alpha\cos(\omega t) + B_\alpha\sin(\omega t)]$</li>
@@ -145,24 +145,24 @@ so we find valid $\omega^2$s by $\det(-\omega^2\mathbb{T}-\mathbb{V}) = 0$, and 
 	<li> if $\omega^2_\alpha < 0$, $\vb{q} = \vb{v}_\alpha\qty[A_\alpha e^{|\omega_\alpha|t} + B_\alpha e^{-|\omega_\alpha|t}]$</li>
 </bl>
 and the different $\vb{v}_\alpha$ are $\mathbb{T}$-orthornomal, meaning
-\begin{equation}
+<div>\begin{equation}
 	\vb{v}_\alpha^T\mathbb{T}\vb{v}_\beta = \delta_{\alpha\beta}
-\end{equation}
+\end{equation}</div>
 so in a 2D system knowing one determines the other
 
 [Return to Table of Contents](#toc)
 ## The Central Force Problem <a name="chapter4"></a>
-\begin{equation}
+<div>\begin{equation}
 	L = \frac{1}{2}m\dot{r}^2 + \frac{1}{2}m(r\dot{\phi})^2 - V(r)
-\end{equation}
+\end{equation}</div>
 can transform to the hammy or to the routhian ($R= p_\phi \dot{\phi}-L$, but we leave $r$ as in the lagrangian formalism)
-\begin{equation}
+<div>\begin{equation}
 	H = \frac{p_r^2}{2m} + \underbrace{\frac{p_\phi^2}{2mr^2} + V(r)}_{V_\text{eff}}
-\end{equation}
+\end{equation}</div>
 we usually care about $r(\phi)$, so we convert the time derivatives to phi derivatives:
-\begin{equation}
+<div>\begin{equation}
 	\dot{r} = \dv{r}{\phi}\dot{\phi}=r'\frac{p_\phi}{mr^2}\implies E = \frac{p_\phi^2}{2m}\frac{r'^2}{r^4} + V_\text{eff}
-\end{equation}
+\end{equation}</div>
 note it's also often nice to swap variables to $u = 1/r$
 
 ### The Kepler problem
@@ -172,10 +172,10 @@ note it's also often nice to swap variables to $u = 1/r$
 	 &= \frac{p_\phi^2}{2m}\qty[u'^2 + \qty(u- \frac{km}{p_\phi^2})^2] - \frac{mk^2}{2p_\phi^2}
 \end{align}
 which is an offset SHO! customary names:
-\begin{gather}
+<div>\begin{gather}
 	u_0 = \frac{km}{p_\phi^2} = \frac{1}{p} \qquad \varepsilon = Ap \implies r(\phi) = \frac{p}{1+\varepsilon\cos(\phi-\phi_0)}\\
 	E = \frac{p_\phi^2}{2m}A^2 - \frac{mk^2}{2p_\phi^2} = \frac{k}{2p}(\varepsilon^2-1)
-\end{gather}
+\end{gather}</div>
 
 geometry of an ellipse:
 <bl>
@@ -189,22 +189,22 @@ geometry of an ellipse:
 
 ### The Laplace-Runge-Lenz vector
 For a general central force, where $\dot{\vb{p}} = f(r)\frac{\vb{r}}{r}$, we can show
-\begin{equation}
+<div>\begin{equation}
 \dv{t}\qty(\vb{p}\times\vb{L}) = -mr^2\,f(r) \dv{t}(\frac{\vb{r}}{r})
-\end{equation}
+\end{equation}</div>
 in the Kepler problem, where $f(r) = -\frac{k}{r^2}$, this ensures the conservation of the vector
-\begin{equation}
+<div>\begin{equation}
 \vb{A} = \vb{p}\times\vb{L} -mk\frac{\vb{r}}{r}
-\end{equation}
+\end{equation}</div>
 This vector lies in the plane of orbit, and $A^2 = m^2k^2 + 2mE\ell^2$.
 
 
 [Return to Table of Contents](#toc)
 ## Scattering Theory <a name="chapter5"></a>
 This is kinda a mess of angle names and things, but the crucial thing to remember is
-\begin{equation}
+<div>\begin{equation}
 	\dv{\sigma}{\Omega} = \frac{2\pi b\dd{b}}{2\pi\sin\theta\dd{\theta}} = \frac{b}{\sin\theta}\dv{b}{\theta}
-\end{equation}
+\end{equation}</div>
 
 [Return to Table of Contents](#toc)
 ## Rigid Body Motion <a name="chapter6"></a>
@@ -223,45 +223,45 @@ components of rotational motion:
 
 
 basic strategy: decompose motion into CM + movement about the CM
-\begin{gather}
+<div>\begin{gather}
 	\vb{F}_\text{ext} = M \vb{a}_\text{CM} \qquad \vb{r}_\text{CM}\times\vb{F}_\text{ext} = \dv{t}\vb{L}_\text{CM}=\vb{N}_\text{about CM}\\
 	\vb{L}_\text{tot} = \underbrace{\vb{L}_\text{CM}}_{\mathclap{\vb{r}_\text{CM}\times M\vb{v}_\text{CM}}} + \vb{L}_\text{about CM} \qquad T = T_\text{CM} + T_\text{rot}
-\end{gather}
+\end{gather}</div>
 
 In general, if a vector $\vb{A}$ of fixed length rotates with an angular velocity $\vb*{\omega}$, then
-\begin{equation}
+<div>\begin{equation}
 	\dv{\vb{A}}{t} = \vb*{\omega}\times\vb{A}
-\end{equation}
+\end{equation}</div>
 In particular, when measuring $\vb{r}$ from a point $\vb{R}$ on a rotating body,
-\begin{equation}
+<div>\begin{equation}
 	\qty(\dv{\vb{r}}{t})_f = \qty(\dv{\vb{r}}{t})_r + \vb*{\omega}\times\vb{r}
-\end{equation}
+\end{equation}</div>
 and we typically take $p$ to be the CM. Taking the second derivative,
-\begin{equation}
+<div>\begin{equation}
 	\vb{a}_f = \vb{a}_r + \underbrace{\ddot{\vb{R}}_f}_{\mathclap{\text{translation}}} + \underbrace{\dot{\omega}\times\vb{r}}_{\mathclap{\text{rotation}}} + \underbrace{2\omega\times\vb{v}_r}_{\mathclap{\text{coriolis}}} +\underbrace{\omega\times(\omega\times \vb{r})}_{\mathclap{\text{centrifugal}}}
-\end{equation}
+\end{equation}</div>
 Note that if we have angular momentum in a fixed frame, we can look at the torque in the fixed frame by considering $\dv{L}{t}$ in the body frame; this gives us Euler's equations
 
 ### Inertia tensor
 We define the inertia tensor by
-\begin{equation}
+<div>\begin{equation}
 	I_{jk} = \int \rho(\vb{r})\,(r^2\delta_{ij} - x_ix_j)\dd{V}
-\end{equation}
+\end{equation}</div>
 
 
 With $\vb{L} = \mathbb{I}\cdot\vb*{\omega}$, kinetic energy is given by
-\begin{equation}
+<div>\begin{equation}
 	T = \frac{1}{2}\vb*{\omega}\cdot\mathbb{I}\cdot\vb*{\omega} = \frac{1}{2}\vb{L}\cdot\mathbb{I}^{-1}\cdot\vb{L}
-\end{equation}
+\end{equation}</div>
 We can diagonalize $\mathbb{I}$ using principle axes, which in general are time-dependent. 
 
 
 Forget about the parallel axis theorem, but it's good to know the 
 
 **perpendicular axis theorem:** For a planar object, the sum of the moments of inertia in the plane equals the moment of inertia perpendicular to the plane
-\begin{equation}
+<div>\begin{equation}
 	I_{1,\,\parallel} + I_{2,\,\parallel} = I_\bot 
-\end{equation}
+\end{equation}</div>
 
 
 Table of $I$s for basic shapes (memorize these):
@@ -277,7 +277,7 @@ The rolling without slipping constraint is that <em>the velocity of the point of
 
 Use Newton's 2nd and the torque equation $r\times F = N = \dv{L}{t}$. For the torque equation, we can choose torque wrt center of mass, the contact point, or about some arbitrary point (the most useful is usually CM though). You can also solve this with Lagrangians, so long as you can integrate the semiholonomic constraint into one that doesnt depend on the velocities or include it with lagrange multipliers.
 
-Note that the angular momentum can often be weird! For the right hand side, you don't necessarily want to rely on the parallel axis theorem to get $I$ so that you can just use $I\omega$; you should directly find $\vb{L} = \vb{L}_\text{CM} + \vb{L}_\text{rot}$ and take its derivative. (In particular $\vb{L}_\text{CM}$ is the weird one; the momentum about the CM is typically fine to think of as $I\omega$)
+Note that the angular momentum can often be weird! For the right hand side, you don't necessarily want to rely on the parallel axis theorem to get $I$ so that you can just use $I\omega$; you should directly find $$\vb{L} = \vb{L}_\text{CM} + \vb{L}_\text{rot}$$ and take its derivative. (In particular $$\vb{L}_\text{CM}$$ is the weird one; the momentum about the CM is typically fine to think of as $I\omega$)
 
 
 [Return to Table of Contents](#toc)
@@ -288,9 +288,9 @@ Can solve these using forces: consider a $\dd{\ell}$ or $\dd{A}$ and look at the
 Or can solve them variationally, by minimizing the potential energy with a fixed boundary and length and stuff. To include the length constraint, do it with a multiplier. You can often find ``energy'' conserved by legendre transforming. 
 
 It's good to know that waves on strings follow the wave equation with a velocity
-\begin{equation}
+<div>\begin{equation}
 	v = \sqrt{\frac{T\ell}{m}}
-\end{equation}
+\end{equation}</div>
 
 ### Fluids
 Generally done by looking at forces and energy in a small part of the fluid. 
@@ -298,22 +298,22 @@ Generally done by looking at forces and energy in a small part of the fluid.
 Pressure $p$ is such that $-\nabla p$ acts as a force per unit volume: it's the force on a $\dd{V}$ due to the rest of the fluid. Thus there is a potential energy associated to being surrounded by fluid. 
 
 In static fluids, the potential energy is constant, since there is no energy cost to slow mixing. Typically see things like
-\begin{equation}
+<div>\begin{equation}
 	U = p + \psi = \text{const}
-\end{equation}
+\end{equation}</div>
 with $\psi$ the potential energy per unit volume due to external forces (e.g. $\psi = \rho g h$ for gravity, but we can also have centrifugal energy $-\frac{1}{2}\rho\Omega^2r^2$ or something)
 
 In a flowing fluid with no viscosity, we have a similar energy conservation:
-\begin{equation}
+<div>\begin{equation}
 	p + \psi + \frac{1}{2}\rho u^2 = \text{const} \qq{and}\nabla\cdot(\rho \vb{u}) = -\pdv{\rho}{t}
-\end{equation}
+\end{equation}</div>
 for an incompressible fluid, the density never changes, so we have that the divergence of the velocity field is zero. 
 
 If the velocity field is rotationless, we can write it as the gradient of some potential $\vb{u} = \nabla\phi$, and incompressibility makes that potential satisfy laplace's equation $\nabla^2\phi=0$
 
 Viscosity makes it so that layers of fluid will try to pull on the surrounding layers; say we look at $u_x(z)$ for some fluid flowing in the $x$ direction where lower layers move slower than higher layers. We have
-\begin{equation}
+<div>\begin{equation}
 	F_x/A = \eta\dv{u_x}{z}\qq{for some constant $\eta$}
-\end{equation}
+\end{equation}</div>
 
 [Return to Table of Contents](#toc)
