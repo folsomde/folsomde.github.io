@@ -7,6 +7,7 @@ categories:
 tags:
   - Mechanics
 permalink: /:categories/mechanics:output_ext
+excerpt: "Including an overview of Lagrangians, Hamiltonians, oscillations, central force motion, scattering theory, rigid body motion, and continuous media."
 comments: false
 ---
 <a name="toc"></a>
