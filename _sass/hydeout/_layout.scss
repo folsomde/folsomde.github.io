@@ -108,6 +108,10 @@ body {
   // Center sidebar content
   text-align: center;
 
+  .category-link {
+    display:none;
+  }
+
   // Bigger title
   .site-title {
     font-size: 3.25rem;
@@ -153,7 +157,9 @@ body {
   .home #sidebar {
     text-align: left;
     width: $sidebar-width;
-
+    .category-link {
+      display: inherit;
+    }
     > *:last-child {
       margin-bottom: 0;
     }
