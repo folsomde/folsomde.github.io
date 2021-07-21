@@ -166,11 +166,11 @@ we usually care about $r(\phi)$, so we convert the time derivatives to phi deriv
 note it's also often nice to swap variables to $u = 1/r$
 
 ### The Kepler problem
-\begin{align}
+<div>\begin{align}
 	 E &= \frac{p_\phi^2}{2m}\frac{r'^2}{r^4} +\frac{p_\phi^2}{2mr^2} -\frac{k}{r} \\
 	 &=  \frac{p_\phi^2}{2m}u'^2 +\frac{p_\phi^2}{2m}u^2 -ku\\
 	 &= \frac{p_\phi^2}{2m}\qty[u'^2 + \qty(u- \frac{km}{p_\phi^2})^2] - \frac{mk^2}{2p_\phi^2}
-\end{align}
+\end{align}</div>
 which is an offset SHO! customary names:
 <div>\begin{gather}
 	u_0 = \frac{km}{p_\phi^2} = \frac{1}{p} \qquad \varepsilon = Ap \implies r(\phi) = \frac{p}{1+\varepsilon\cos(\phi-\phi_0)}\\
@@ -265,9 +265,53 @@ Forget about the parallel axis theorem, but it's good to know the
 
 
 Table of $I$s for basic shapes (memorize these):
-\begin{center}
-\includegraphics[width=0.9\textwidth]{moments.png}
-\end{center}
+<table>
+	<tr>
+    <th>Shape</th>
+    <th>Rotation</th>
+    <th>Moment of Inertia</th>
+  </tr>
+  <tr>
+    <td>Thin Ring<br>(radius $R$)</td>
+    <td>About center</td>
+    <td>$MR^2$</td>
+  </tr>
+  <tr>
+    <td>Ring of Ribbon<br>(radius $R$, width $w$)</td>
+    <td>About central diameter</td>
+    <td>$\frac{1}{2}MR^2 + \frac{1}{12}Mw^2$</td>
+  </tr>
+  <tr>
+    <td>Solid cylinder<br>(radius $R$)</td>
+    <td>About center</td>
+    <td>$\frac{1}{2}MR^2$</td>
+  </tr>
+  <tr>
+    <td>Hollow cylinder<br>(outer radius $R$, inner radius $r$)</td>
+    <td>About center</td>
+    <td>$\frac{1}{2}M(R^2 + r^2)$</td>
+  </tr>
+  <tr>
+    <td>Solid ball<br>(radius $R$)</td>
+    <td>About center</td>
+    <td>$\frac{2}{5}MR^2$</td>
+  </tr>
+  <tr>
+    <td>Solid rod<br>(length $\ell$)</td>
+    <td>About center</td>
+    <td>$\frac{1}{12}M\ell^2$</td>
+  </tr>
+  <tr>
+    <td>Solid rod<br>(length $\ell$)</td>
+    <td>About end</td>
+    <td>$\frac{1}{3}M\ell^2$</td>
+  </tr>
+  <tr>
+    <td>Thin rectangular plate<br>(length $\ell$, width $w$)</td>
+    <td>About center</td>
+    <td>$\frac{1}{12}M(\ell^2 + w^2)$</td>
+  </tr>
+</table>
 
 ### Rotation under torque: the massive top
 This is fairly straightforward: construct the lagrangian in terms of three angles: a rotation of the top itself, the precession of the top around in a circle, and a nutation angle that allows the top to bob up and down under the influence of gravity. Introduce the conserved quantities (energy and two conjugate momenta to the rotation and precession angles) and make the substitution $u = -\sin\theta$ for $\theta$ the nutation angle, with $\theta=0$ taken to be horizontal. Then $u=1$ means the top is upright, $u=0$ means it's horizontal, and $u=-1$ means it's upside down. We get an equation that looks like $\dot{u} = $ a cubic polynomial, so we have 3 cases for where the roots lie: 3 distinct real roots, a double root and a crossing point, or only one real root.  

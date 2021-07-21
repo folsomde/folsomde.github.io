@@ -56,6 +56,20 @@ img {
   max-width: 100%;
 }
 
+table.empty {
+    border:0px;
+    font-size: 100%;
+}
+table.empty td,th {
+  border: 0px;
+  padding:0px;
+}
+
+table.empty tbody tr:nth-child(odd) td,
+table.empty tbody tr:nth-child(odd) th {
+  background-color: $body-bg;
+}
+
 table {
   border: 1px solid $border-color;
   border-collapse: collapse;
@@ -79,19 +93,6 @@ tbody tr:nth-child(odd) th {
   background-color: $gray-1;
 }
 
-table.empty {
-    border:0px;
-    font-size: 100%;
-}
-table.empty td,th {
-  border: 0px;
-  padding:0px;
-}
-
-table.empty tbody tr:nth-child(odd) td,
-table.empty tbody tr:nth-child(odd) th {
-  background-color: $body-bg;
-}
 
 button,
 input[type='text'],
