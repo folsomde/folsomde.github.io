@@ -33,7 +33,7 @@ for y in range(21):
 
 for i, data in enumerate(data_list):
 	if data['pstring'] in metadata:
-		file = open(f'./_posts/problems/{data["fname"]}.md','w')
+		file = open(f'../_posts/problems/{data["fname"]}.md','w')
 		file.write(f'''---
 title: "{data["pstring"]} &ndash; {metadata[data["pstring"]][0] if data["pstring"] in metadata else "NEED TITLE"}"
 layout: post
