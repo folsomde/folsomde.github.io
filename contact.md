@@ -4,8 +4,7 @@ title: Contact Me
 sidebar_link: true
 ---
 
-## Email
-To avoid automated spam, I won't be explicitly posting my email address, but it is the first letter of my first name, followed by my last name, at princeton.edu
+You can visit my office at 421 Jadwin Hall if you're on the Princeton campus, or you may contact me via email at <a href='mailto:dfolsom@princeton.edu'>dfolsom@princeton.edu</a>
 
 
 ## Other accounts

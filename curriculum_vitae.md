@@ -24,7 +24,7 @@ sidebar_link: true
  <li> Used <code>MadGraph5_aMC@NLO</code> to generate samples of vector-like top partner pair production and decay in the <em>Wb+X</em> decay pathway, including showering in <code>Pythia</code> and analysis in <code>Delphes</code> </li>
  <li> Compared kinematics of the pair production events at leading-order and next-to-leading order in QCD perturbation</li>
  <li> Presented findings to the ATLAS Heavy Quarks and Top physics subgroup</li>
- <li> Findings to be included in the ATLAS <em>Wb+X</em> analysis internal note</li>
+ <li> Findings included in ATLAS internal note</li>
  <li> Earned highest departmental honors for the thesis and its defense</li>
 </ul>
 </div>
@@ -38,24 +38,57 @@ sidebar_link: true
   <li> Supervised by Dr.&nbsp;Joseph Haley </li>
   <li> Contributed to an analysis searching for vector-like top partners decaying to a Higgs boson and top quark, attending and presenting at weekly meetings </li>
   <li> Analyzed data from RUN 2 of the ATLAS experiment at CERN to assess the efficiency of triggers used for the study, using the <code>ROOT</code> library </li>
-  <li> Findings included in the internal note "Search for Single Vector-Like Quark Production Decaying to a Top Quark and a Higgs Boson in the Run 2 ATLAS Data," to be circulated to the ATLAS collaboration in September 2020</li>
+  <li> Findings included in ATLAS internal note</li>
 </ul>
 </div>
 
+## Teaching and Service
+<dl>
+  <dt>Assistant in Instruction, PHY 105: Advanced Physics (Mechanics)</dt>
+  <dd>Fall 2021</dd>
+</dl>
+
+<dl>
+  <dt>Resident Graduate Student, Butler College</dt>
+  <dd>2021 &ndash;</dd>
+</dl>
+
 ## Skills
-Strong background in Python and C++ programming  
+Strong background in <code>Python</code> and <code>C++</code> programming  
 
-Significant experience with GNU/Linux computing environments  
+Significant experience with <code>GNU/Linux</code> computing environments  
 
-Extensive familiarity with LaTeX
+Extensive familiarity with <code>LaTeX</code>
 
 ## Honors and Awards
-Nancy and William McMinn Scholarship for Physics  
-2017--2020, Vanderbilt University Department of Physics
+<dl>
+  <dt>Joseph Henry Merit Prize</dt>
+  <dd>2020, Princeton University Department of Physics</dd>
+</dl>
 
-STEM and Business Scholarship  
-2016--2020, Scarlett Family Foundation
+<dl>
+  <dt>President's Fellowship</dt>
+  <dd>2020 & 2021, Princeton University Graduate School</dd>
+</dl>
 
-Inducted into the ΠΜΕ Mathematics Honors Society
+<dl>
+  <dt>Nancy and William McMinn Scholarship for Physics</dt>
+  <dd>2017 &ndash; 2020, Vanderbilt University Department of Physics</dd>
+</dl>
 
-Inducted into the ΣΠΣ Physics Honors Society
+<dl>
+  <dt>STEM and Business Scholarship</dt>
+  <dd>2016 &ndash; 2020, Scarlett Family Foundation</dd>
+</dl>
+
+<dl>
+  <dt>Pi Mu Epsilon Mathematics Honors Society</dt>
+  <dd>Inducted 2019</dd>
+</dl>
+<dl>
+  <dt>Sigma Pi Sigma Physics Honors Society</dt>
+  <dd>Inducted 2018</dd>
+</dl>
+
+
+
