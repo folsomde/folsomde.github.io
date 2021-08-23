@@ -42,7 +42,7 @@ sidebar_link: true
 </ul>
 </div>
 
-## Teaching and Service
+## Teaching, Mentorship, and Service
 <dl>
   <dt>Assistant in Instruction, PHY 105: Advanced Physics (Mechanics)</dt>
   <dd>Fall 2021</dd>
