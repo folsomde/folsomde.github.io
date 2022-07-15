@@ -1,28 +1,33 @@
 ---
 layout: default
 ---
+<h1 class="post-title">{{ page.title }}</h1>
 
 <div class="content">
 
   {{ content }}
-
-  {% assign posts = site.posts | where_exp: 'post', 'post.categories contains "Notes"' %}
+  <hr>
+  {% assign posts = site.posts 
+      | where_exp: 'post', "post.categories contains page.posts_to_show"
+  %}
   {% for post in posts %}
   <article class="post-body">
-    <h2 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
-    </h2>
+    </h3>
     {% include post-meta.html post=post %}
 
     {% if post.excerpt %}
+    <a class="plaintext" href="{{ post.url | relative_url }}">
       {{ post.excerpt }}
+      </a>
     {% else %}
       {{ post.content }}
     {% endif %}
 
-    {% if post.excerpt %}
+<!--     {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
       {% capture content_words %}
         {{ post.content | number_of_words }}
@@ -34,7 +39,7 @@ layout: default
       {% if content_words != excerpt_words %}
         <a href="{{ post.url | relative_url }}">More &hellip;</a>
       {% endif %}
-    {% endif %}
+    {% endif %} -->
   </article>
   {% endfor %}
 

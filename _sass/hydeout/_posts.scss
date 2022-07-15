@@ -24,6 +24,17 @@ h2.page-title {
   font-size: 2rem;
 }
 
+a.plaintext {
+  color:inherit;
+  text-decoration: none;
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}
+
 .post-tags a {
   font-size: 0.8em;
   margin-right: 0.5rem;
