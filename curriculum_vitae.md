@@ -7,50 +7,39 @@ sidebar_link: true
 ## Education
 <dl>
   <dt>Ph.D. in Physics</dt>
-  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash;</dd>
+  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; (est.) 2025</dd>
 
-  <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies</dt>
+  <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies<br>Minor in Computer Science</dt>
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
 </dl>
 
 ## Research Experience
 <dl>
   <dt>Undergraduate Honors Thesis Research</dt>
-  <dd>Thesis title: "Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 2019 &ndash; 2020</dd>
+  <dd>Thesis title: "Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 
+    Supervised by Dr.&nbsp;Joseph Haley and Dr.&nbsp;Will Johns <br> 
+    Earned highest departmental honors for the thesis and its defense <br>
+  2019 &ndash; 2020</dd>
 </dl>
-<div class="message">
-<ul>
-  <li> Supervised by Dr.&nbsp;Joseph Haley and Dr.&nbsp;Will Johns </li>
- <li> Used <code>MadGraph5_aMC@NLO</code> to generate samples of vector-like top partner pair production and decay in the <em>Wb+X</em> decay pathway, including showering in <code>Pythia</code> and analysis in <code>Delphes</code> </li>
- <li> Compared kinematics of the pair production events at leading-order and next-to-leading order in QCD perturbation</li>
- <li> Presented findings to the ATLAS Heavy Quarks and Top physics subgroup</li>
- <li> Findings included in ATLAS internal note</li>
- <li> Earned highest departmental honors for the thesis and its defense</li>
-</ul>
-</div>
 
 <dl>
   <dt>NSF Physics Research Experience for Undergraduates</dt>
-  <dd>at Oklahoma State University <br> Summer 2019</dd>
+  <dd>at Oklahoma State University, supervised by Dr.&nbsp;Joseph Haley <br> Summer 2019</dd>
 </dl>
-<div class="message">
-<ul>
-  <li> Supervised by Dr.&nbsp;Joseph Haley </li>
-  <li> Contributed to an analysis searching for vector-like top partners decaying to a Higgs boson and top quark, attending and presenting at weekly meetings </li>
-  <li> Analyzed data from RUN 2 of the ATLAS experiment at CERN to assess the efficiency of triggers used for the study, using the <code>ROOT</code> library </li>
-  <li> Findings included in ATLAS internal note</li>
-</ul>
-</div>
 
 ## Teaching, Mentorship, and Service
 <dl>
-  <dt>Assistant in Instruction, PHY 105: Advanced Physics (Mechanics)</dt>
-  <dd>Fall 2021</dd>
+  <dt>Assistant in Instruction</dt>
+  <dd>PHY 104: General Physics II (Electricity and Magnetism Lab), Spring 2023</dd>
+  <dd>PHY 115: Physics for Future Leaders, Fall 2022</dd>
+  <dd>PHY 110: General Physics II (Electricity and Magnetism), Summer 2022</dd>
+  <dd>PHY 109: Physics Methods and Applications (Mechanics), Spring 2022</dd>
+  <dd>PHY 105: Advanced Physics (Mechanics), Fall 2021</dd>
 </dl>
 
 <dl>
   <dt>Resident Graduate Student, Butler College</dt>
-  <dd>2021 &ndash;</dd>
+  <dd>2021 &ndash; 2022</dd>
 </dl>
 
 ## Skills

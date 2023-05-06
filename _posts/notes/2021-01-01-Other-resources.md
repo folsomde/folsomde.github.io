@@ -2,8 +2,9 @@
 title: "Other Resources"
 layout: post
 categories:
-  - Prelims
   - Notes
+tags:
+  - Prelim Notes
 permalink: /:categories/other-resources:output_ext
 excerpt: "Some mathematical facts that are good to know."
 comments: false

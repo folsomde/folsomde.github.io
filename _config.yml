@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Dylan Folsom
 tagline:          'Personal Website'
-description:      'Ph.D. Student at the Princeton University <a href="https://phy.princeton.edu" target="_blank">Department of Physics</a>.'
+description:      'Ph.D. Candidate at the Princeton University <a href="https://phy.princeton.edu" target="_blank">Department of Physics</a>.'
 url:              https://dfolsom.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"

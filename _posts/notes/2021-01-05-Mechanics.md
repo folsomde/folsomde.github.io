@@ -2,10 +2,9 @@
 title: "Mechanics Notes"
 layout: post
 categories:
-  - Prelims
   - Notes
 tags:
-  - Mechanics
+  - Prelim Notes
 permalink: /:categories/mechanics:output_ext
 excerpt: "Lagrangians, Hamiltonians, oscillations, central force motion, scattering theory, rigid body motion, and continuous media."
 comments: false
