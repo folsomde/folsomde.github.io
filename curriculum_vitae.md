@@ -13,10 +13,16 @@ sidebar_link: true
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
 </dl>
 
-## Research Experience
+## Research
 <dl>
-  <dt>Undergraduate Honors Thesis Research</dt>
-  <dd>Thesis title: "Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 
+  <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
+  <dd>Dylan Folsom, Oren Slone, Mariangela Lisanti, Fangzhou Jiang, Manoj Kaplinghat<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231105676F/abstract">arXiv:2311.05676</a>, To submit to MNRAS </dd>
+</dl>
+
+<dl>
+  <dt>Undergraduate Honors Thesis</dt>
+  <dd>"Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 
     Supervised by Dr.&nbsp;Joseph Haley and Dr.&nbsp;Will Johns <br> 
     Earned highest departmental honors for the thesis and its defense <br>
   2019 &ndash; 2020</dd>
@@ -27,10 +33,24 @@ sidebar_link: true
   <dd>at Oklahoma State University, supervised by Dr.&nbsp;Joseph Haley <br> Summer 2019</dd>
 </dl>
 
+## Talks
+<dl>
+  <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
+  <dd>Local Local Group Group <br>
+    Columbia University, December 2023</dd>
+</dl>
+
+<dl>
+  <dt>Semi-Analytic Inference of the Dark Matter Structure of Satellite Galaxies</dt>
+  <dd>Galactic Frontiers: Dwarf Galaxies in the Local Volume and Beyond <br>
+    Flatiron Institute, June 2023</dd>
+</dl>
+
 ## Teaching, Mentorship, and Service
 <dl>
   <dt>Assistant in Instruction</dt>
-  <dd>PHY 104: General Physics II (Electricity and Magnetism Lab), Spring 2023</dd>
+  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023</dd>
+  <dd>PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023</dd>
   <dd>PHY 115: Physics for Future Leaders, Fall 2022</dd>
   <dd>PHY 110: General Physics II (Electricity and Magnetism), Summer 2022</dd>
   <dd>PHY 109: Physics Methods and Applications (Mechanics), Spring 2022</dd>
