@@ -6,11 +6,6 @@ categories:
 tags:
   - Dark Matter
 permalink: /:categories/scattering:output_ext
-excerpt: "Elastic WIMP-nuclear scattering."
+excerpt: "Unwritten so far"
 comments: false
 ---
-
-testing latex: 
-<div>\[
-  S = \int \frac{\var{Q}}{T}
-\]</div>
