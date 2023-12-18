@@ -150,16 +150,18 @@ with $\sigma_i^2 = \ev*{v_i^2}$ and $$\sigma_{ij} = \ev*{v_i v_j}$$ (we're assum
 
 
 ## In practice
-Taking $-\dv{\Phi}{r} = -\frac{GM(<r)}{r^2}$, the spherical Jeans equation can be integrated to find a "velocity dispersion profile"
+While everything we've thought of so far is in terms of the collisionless system described by $f$, the potential $\Phi$ that governs its motion is something external! Take $-\dv{\Phi}{r} = -\frac{GM(<r)}{r^2}$ and the spherical Jeans equation can be integrated to find a "velocity dispersion profile"
 <div>\begin{gather}
   \sigma_r^2 = \frac{1}{n(r)g(r)}\int_r^\infty \frac{GM(\tilde{r})n(\tilde{r})}{\tilde{r}^2}g(\tilde{r})\dd{\tilde{r}} \\
   g(r) = \exp\qty(2\int\frac{\beta(r)}{r}\dd{r})
 \end{gather}</div>
+With $n$ and $\beta$ and everything describing the tracers of a total mass profile $M$. 
+Already, the mass--anisotropy degeneracy is clear: if you see a high dispersion, it's impossible to tell if it's because of a lot of mass or if it's because of anisotropy.
 Projecting this along the line of sight gives 
 <div>\[
   \sigma^2_\parallel(R) = \frac{2}{\Sigma(R)}\int_R^\infty \qty(1-\beta\frac{R^2}{r^2})\frac{n(r)\sigma_r^2(r)r}{\sqrt{r^2-R^2}}\dd{r}
 \]</div>
-Here, the bias mentioned above becomes apparent: $\beta$ 
+which is what people actually fit to. 
 
 Further extensions to the Jeans analysis method may use higher-order moments of the velocity distribution via "virial shape parameters" (cf. <a href="https://ui.adsabs.harvard.edu/abs/1990AJ.....99.1548M">Merrifield & Kent (1990)</a>, <a href="https://ui.adsabs.harvard.edu/abs/2014MNRAS.441.1584R/abstract">Richardson & Fairbairn (2014)</a>)
 <div>\begin{align}
@@ -173,9 +175,11 @@ which help constrain $\beta$ through velocities alone, which breaks some of the 
 [Return to Table of Contents](#toc)
 # Virial Equations <a name="3"></a>
 What if we took position moments instead of momentum moments? 
+_(coming soon)_
 
 [Return to Table of Contents](#toc)
 # Further reading <a name="resources"></a>
-Binney & Tremaine of course. This is a lot of Chapter 4
-Read & Steger (2017) --- <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.4541R/abstract">ADS Link</a>
-Read (2014): other ways of doing mass modeling --- <a href="https://ui.adsabs.harvard.edu/abs/2014JPhG...41f3101R/abstract">ADS Link</a>
+ - Binney & Tremaine of course. This is a lot of Chapter 4
+ - <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.4541R/abstract">Read & Steger (2017)</a>: nice mini-review
+ - <a href="https://ui.adsabs.harvard.edu/abs/2014JPhG...41f3101R/abstract">Read (2014)</a>: other ways of doing mass modeling
+ - <a href="https://galaxiesbook.org/chapters/I-04.-Equilibria-Spherical-Collisionless-Systems.html">Jo Bovy's book</a> which is basically this page but with code and greater depth/pedagogical utility
