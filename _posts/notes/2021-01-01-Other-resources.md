@@ -4,7 +4,8 @@ layout: post
 categories:
   - Notes
 tags:
-  - Prelim Notes
+  - Prelims
+  - Notes
 permalink: /:categories/other-resources:output_ext
 excerpt: "Some mathematical facts that are good to know."
 comments: false

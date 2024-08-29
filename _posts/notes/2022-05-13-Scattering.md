@@ -2,10 +2,13 @@
 title: "Scattering Notes"
 layout: post
 categories:
-  - Research
+  - Notes
 tags:
   - Dark Matter
+  - Research
+  - Notes
 permalink: /:categories/scattering:output_ext
 excerpt: "Unwritten so far"
 comments: false
+published: false
 ---

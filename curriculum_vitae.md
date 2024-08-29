@@ -15,9 +15,15 @@ sidebar_link: true
 
 ## Research
 <dl>
+  <dt>Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun? </dt>
+  <dd>Dylan Folsom, Mariangela Lisanti, Lina Necib, Danny Horta, Mark Vogelsberger, Lars Hernquist<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, To submit to ApJ </dd>
+</dl>
+
+<dl>
   <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
   <dd>Dylan Folsom, Oren Slone, Mariangela Lisanti, Fangzhou Jiang, Manoj Kaplinghat<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231105676F/abstract">arXiv:2311.05676</a>, To submit to MNRAS </dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231105676F/abstract">arXiv:2311.05676</a>, Submitted to MNRAS </dd>
 </dl>
 
 <dl>
@@ -36,7 +42,19 @@ sidebar_link: true
 ## Talks
 <dl>
   <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
-  <dd>Local Local Group Group <br>
+  <dd>TeV Particle Astrophysics &ndash; TeVPA <br>
+    University of Chicago, August 2024</dd>
+</dl>
+
+<dl>
+  <dt>Two Sausages, One Bun? GSEs in TNG <span style="font-weight:normal">(poster)</span></dt>
+  <dd>Small Galaxies, Cosmic Questions II<br>
+    Durham University, July 2024</dd>
+</dl>
+
+<dl>
+  <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
+  <dd>Local Local Group Group &ndash; L2G2<br>
     Columbia University, December 2023</dd>
 </dl>
 

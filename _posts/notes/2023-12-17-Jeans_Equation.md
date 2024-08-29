@@ -2,9 +2,11 @@
 title: "The Jeans Equation"
 layout: post
 categories:
-  - Research
+  - Notes
 tags:
   - Galactic Dynamics
+  - Research
+  - Notes
 permalink: /:categories/jeans:output_ext
 excerpt: "Essentially a highlight reel of Binney & Tremaine Chapter 4"
 comments: false
