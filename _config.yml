@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Dylan Folsom
-tagline:          'Personal Website'
+tagline:          'Homepage'
 description:      'Ph.D. Candidate at the Princeton University <a href="https://phy.princeton.edu" target="_blank">Department of Physics</a>.'
 url:              https://dfolsom.com
 baseurl:          '/'
@@ -18,8 +18,6 @@ author:
   name:           'Dylan Folsom'
   url:            https://github.com/folsomde
 
-# paginate:         5
-# paginate_path:    '/prelims/:num'
 
 
 plugins:
