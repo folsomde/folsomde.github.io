@@ -7,7 +7,7 @@ sidebar_link: true
 ## Education
 <dl>
   <dt>Ph.D. in Physics</dt>
-  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; (est.) 2025</dd>
+  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; 2026, est.</dd>
 
   <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies<br>Minor in Computer Science</dt>
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
@@ -29,14 +29,17 @@ sidebar_link: true
 <dl>
   <dt>Undergraduate Honors Thesis</dt>
   <dd>"Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 
-    Supervised by Dr.&nbsp;Joseph Haley and Dr.&nbsp;Will Johns <br> 
+    Supervised by Joseph Haley and Will Johns <br> 
     Earned highest departmental honors for the thesis and its defense <br>
+    Contributed to ATLAS internal note ATL-COM-PHYS-2020-152<br>
   2019 &ndash; 2020</dd>
 </dl>
 
 <dl>
   <dt>NSF Physics Research Experience for Undergraduates</dt>
-  <dd>at Oklahoma State University, supervised by Dr.&nbsp;Joseph Haley <br> Summer 2019</dd>
+  <dd>at Oklahoma State University, supervised by Joseph Haley <br> 
+  <dd>Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 <br> 
+  2019</dd>
 </dl>
 
 ## Talks
@@ -66,8 +69,14 @@ sidebar_link: true
 
 ## Teaching, Mentorship, and Service
 <dl>
+  <dt>Undergraduate Advising</dt>
+  <dd>Worked with Tal Shpigel on summer project "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation"</dd>
+  <dd>Continuing to advise Tal on Princeton Junior Paper research</dd>
+</dl>
+
+<dl>
   <dt>Assistant in Instruction</dt>
-  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023</dd>
+  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023, Fall 2024</dd>
   <dd>PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023</dd>
   <dd>PHY 115: Physics for Future Leaders, Fall 2022</dd>
   <dd>PHY 110: General Physics II (Electricity and Magnetism), Summer 2022</dd>
@@ -89,13 +98,18 @@ Extensive familiarity with <code>LaTeX</code>
 
 ## Honors and Awards
 <dl>
-  <dt>Joseph Henry Merit Prize</dt>
-  <dd>2020, Princeton University Department of Physics</dd>
+  <dt>Joseph H. Taylor Graduate Student Fellowship</dt>
+  <dd>2024, Princeton University Department of Physics</dd>
 </dl>
 
 <dl>
   <dt>President's Fellowship</dt>
   <dd>2020 & 2021, Princeton University Graduate School</dd>
+</dl>
+
+<dl>
+  <dt>Joseph Henry Merit Prize</dt>
+  <dd>2020, Princeton University Department of Physics</dd>
 </dl>
 
 <dl>
