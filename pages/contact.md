@@ -2,6 +2,7 @@
 layout: page
 title: Contact Me
 sidebar_link: true
+permalink: /contact
 ---
 
 You can visit my office at 307 Jadwin Hall if you're on the Princeton campus, or you may contact me via email at <a href='mailto:dfolsom@princeton.edu'>dfolsom@princeton.edu</a>

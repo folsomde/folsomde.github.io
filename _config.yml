@@ -27,6 +27,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-pdf-embed
+  - jekyll-redirect-from
 
 # Sidebar link settings
 sidebar_home_link:  false

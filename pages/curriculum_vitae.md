@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Curriculum Vit&aelig;
+permalink: /curriculum_vitae
 sidebar_link: true
+redirect_from: /cv
 ---
 
 ## Education

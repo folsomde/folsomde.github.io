@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-pdf-embed"
   gem "jekyll-gist"
   gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
 end

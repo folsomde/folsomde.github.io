@@ -1,6 +1,8 @@
 ---
 layout: page
 title: License
+permalink: /license
+redirect_from: /LICENSE
 ---
 
 ## Released under MIT License
