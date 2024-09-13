@@ -132,6 +132,7 @@ a[href^='#fnref:'] {
 // SVG Icons
 a svg {
   fill: $link-color;
+  pointer-events: none;
 }
 
 a svg,
