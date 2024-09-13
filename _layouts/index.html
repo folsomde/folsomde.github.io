@@ -18,7 +18,7 @@ layout: default
         {{ post.title }}
       </a>
     </h3>
-    {% include post-meta.html post=post %}
+    {% include post-meta-index.html post=post %}
 
     {% if post.excerpt %}
     <a class="plaintext" href="{{ post.url | relative_url }}">

@@ -7,8 +7,19 @@ tags:
   - Prelims
   - Notes
 permalink: /:categories/other-resources:output_ext
-excerpt: "Some mathematical facts that are good to know."
+excerpt: "Prelim-specific advice and some assorted mathematical facts."
 comments: false
+---
+
+## My prelims recommendations
+As far as general physics knowledge goes, my list of textbooks is pretty standard: <u>Thornton and Marion</u> and <u>Goldstein</u> for Mechanics, <u>Griffiths</u> and <u>Zangwill</u> for E&amp;M, <u>Townsend</u>, <u>Griffiths</u>, and <u>Shankar</u> for Quantum, and <u>Tong</u>'s notes for Statmech.
+
+Ross Dempsey and Andy Leifer have put together <a href='https://srossd.com/assets/pdf/Undergraduate_Physics_in_a_Hurry.pdf'>Undergraduate Physics in a Hurry</a>, a really well-typeset prep guide which is "one-third exposition, one-third worked prelim problems, and one-third bad jokes" &ndash; the worked examples here in particular are incredibly valuable.
+
+You should also be aware of <a href='https://www.dropbox.com/sh/peexovnmj1qg25l/AACMUMTgU717B4mOF_T6vv7Aa?dl=0'>this dropbox</a> contributed and maintained by some of the older grad students, as well as the <a href='http://princetonprelims.wikidot.com/'>solutions website</a>.
+
+There are some other heirloom Princeton resources which should be emailed out to you at some point, but this is my attempt at centralizing some of them.
+
 ---
 
 ## The Golden Rule
