@@ -137,6 +137,12 @@ a svg {
 a svg,
 .icon svg {
   height: 1em;
+  width: 1em;
+}
+
+.bigger svg {
+  height: 1.5em;
+  width: 1.5em;
 }
 
 .icon {
