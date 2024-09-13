@@ -15,34 +15,32 @@ sidebar_link: true
 
 ## Research
 <dl>
-  <dt>Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun? </dt>
+  <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd>Dylan Folsom, Mariangela Lisanti, Lina Necib, Danny Horta, Mark Vogelsberger, Lars Hernquist<br> 
     <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, To submit to ApJ </dd>
 </dl>
 
 <dl>
-  <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
+  <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
   <dd>Dylan Folsom, Oren Slone, Mariangela Lisanti, Fangzhou Jiang, Manoj Kaplinghat<br> 
     <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231105676F/abstract">arXiv:2311.05676</a>, Submitted to MNRAS </dd>
 </dl>
 
 <dl>
-  <dt>Undergraduate Honors Thesis</dt>
-  <dd>"Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson" <br> 
+  <dt>2020 &bullet; Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson</dt>
+  <dd>Undergraduate thesis, earned highest departmental honors <br>
     Supervised by Joseph Haley and Will Johns <br> 
-    Earned highest departmental honors for the thesis and its defense <br>
-    Contributed to ATLAS internal note ATL-COM-PHYS-2020-152<br>
-  2019 &ndash; 2020</dd>
+    Contributed to ATLAS internal note ATL-COM-PHYS-2020-152</dd>
 </dl>
 
 <dl>
-  <dt>NSF Physics Research Experience for Undergraduates</dt>
+  <dt>2019 &bullet; NSF Physics Research Experience for Undergraduates</dt>
   <dd>at Oklahoma State University, supervised by Joseph Haley <br> 
-  <dd>Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 <br> 
-  2019</dd>
+  Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 </dd>
 </dl>
 
 ## Talks
+
 <dl>
   <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
   <dd>TeV Particle Astrophysics &ndash; TeVPA <br>
