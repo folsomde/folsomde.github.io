@@ -12,7 +12,7 @@ I graduated from Vanderbilt University in 2020 with a B.A. *cum laude* in Physic
 
 --- 
 
-This is my personal website, a central hub for my academic online presence! Here you can find 
+Here you can find 
  - [how to contact me]({{ "/contact"|relative_url}}),
  - [my curriculum vit&aelig;]({{ "/curriculum_vitae"|relative_url}}),
  - [summaries]({{ "/research"|relative_url }}) of my work, as well as  
