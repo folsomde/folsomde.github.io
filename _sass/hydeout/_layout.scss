@@ -35,13 +35,18 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
+  font-weight: 500;
+  font-size: $large-font-size;
 
   .site-title {
-    font-family: 'Abril Fatface', serif;
+    font-family: 'Alegreya', serif;
     font-size: $large-font-size;
-    font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
+  }
+  .copyright, .site-version {
+    font-size: 0.75rem;
+    font-weight: normal;
   }
 
   .site-title .back-arrow { margin-right: 0.5rem; }
@@ -309,7 +314,6 @@ body {
 
 #sidebar nav > * {
   display: block;
-  line-height: 1.75;
 }
 
 #sidebar nav > .icon {

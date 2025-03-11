@@ -126,7 +126,8 @@ a[href^='#fnref:'] {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 400;
+  line-height: initial;
 }
 
 // SVG Icons
@@ -135,15 +136,12 @@ a svg {
   pointer-events: none;
 }
 
-a svg,
-.icon svg {
-  height: 1em;
-  width: 1em;
-}
 
-.bigger svg {
-  height: 1.5em;
-  width: 1.5em;
+#ads-link svg {
+  height: 2.3rem;
+  width: auto;
+  margin-top: -0.16rem;
+  margin-right: -0.16rem;
 }
 
 .icon {
@@ -157,4 +155,11 @@ a svg,
   justify-content: space-between; /* switched from default (flex-start, see below) */
   margin-bottom: 1rem;
   margin-top: 1rem;
+}
+
+.thumbnail img{
+  margin:auto;
+  @media (min-width: $large-breakpoint) {
+      width: 80%
+  }
 }
