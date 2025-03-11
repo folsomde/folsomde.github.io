@@ -18,5 +18,5 @@ Semi-analytic modelling furnishes an efficient avenue for characterizing dark ma
 
 <figure>
   <img src="/assets/research/2311_thumb.png" alt="The inferred v max and r max for the Fornax dwarf spheroidal, in two different feedback models.">
-  <figcaption>The inferred $v_\mathrm{max}$ and $r_\mathrm{max}$ for the Fornax dwarf spheroidal, in two different feedback models. Without strong feedback, the only way to generate a Fornax-like stellar mass and velocity dispersion simultaneously is via extreme tidal stripping. With the cores provided by strong feedback, Fornax-like galaxies are more consistent with larger $v_\mathrm{max}$ halos.</figcaption>
+  <figcaption class='message'>The inferred $v_\mathrm{max}$ and $r_\mathrm{max}$ for the Fornax dwarf spheroidal, in two different feedback models. Without strong feedback, the only way to generate a Fornax-like stellar mass and velocity dispersion simultaneously is via extreme tidal stripping. With the cores provided by strong feedback, Fornax-like galaxies are more consistent with larger $v_\mathrm{max}$ halos.</figcaption>
 </figure>

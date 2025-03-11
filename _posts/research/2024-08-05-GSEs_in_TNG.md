@@ -19,5 +19,5 @@ Observations of the Milky Way's stellar halo find that it is predominantly compr
 
 <figure>
   <img src="/assets/research/2408_thumb.png" alt="The infall times of GSE-like mergers, split into single-merger GSEs and two-merger GSEs.">
-  <figcaption>The infall times of GSE mergers, split into single-merger GSEs (in red) and two-merger GSEs (with the larger contributing merger in purple and the smaller in pink). Single-merger GSEs are typically accreted more recently than the galaxies in two-merger GSEs.</figcaption>
+  <figcaption class='message'>The infall times of GSE mergers, split into single-merger GSEs (in red) and two-merger GSEs (with the larger contributing merger in purple and the smaller in pink). Single-merger GSEs are typically accreted more recently than the galaxies in two-merger GSEs.</figcaption>
 </figure>
