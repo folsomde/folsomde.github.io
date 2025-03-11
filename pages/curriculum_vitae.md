@@ -46,7 +46,7 @@ redirect_from: /cv
 ## Talks
 <dl>
   <dt>Halo-to-Halo Similarity in IllustrisTNG Dark Matter Velocity Distributions <span style="font-weight:normal">(poster)</span></dt>
-  <dd>Dark Matter Symposium <br>
+  <dd>Dark Matter Symposium &ndash; UCLA DM<br>
     University of California, Los Angeles, March 2025</dd>
 </dl>
 
