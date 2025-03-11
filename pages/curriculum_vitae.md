@@ -5,8 +5,9 @@ permalink: /curriculum_vitae
 sidebar_link: true
 redirect_from: /cv
 ---
-
-## Education
+---
+<br>
+## <i class="fa-solid fa-graduation-cap"></i>&ensp;Education
 <dl>
   <dt>Ph.D. in Physics</dt>
   <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; 2026, est.</dd>
@@ -15,7 +16,8 @@ redirect_from: /cv
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
 </dl>
 
-## Research
+<br>
+## <i class="fa-solid fa-book-medical"></i>&ensp;Research
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
@@ -43,7 +45,9 @@ redirect_from: /cv
   Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 </dd>
 </dl>
 
-## Talks
+
+<br>
+## <i class="fa-solid fa-quote-left"></i>&ensp;Talks
 <dl>
   <dt>Halo-to-Halo Similarity in IllustrisTNG Dark Matter Velocity Distributions <span style="font-weight:normal">(poster)</span></dt>
   <dd>Dark Matter Symposium &ndash; UCLA DM<br>
@@ -74,7 +78,8 @@ redirect_from: /cv
     Flatiron Institute, June 2023</dd>
 </dl>
 
-## Teaching, Mentorship, and Service
+<br>
+## <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
 <dl>
   <dt>Undergraduate Advising</dt>
   <dd>Worked with Tal Shpigel on summer project "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation"</dd>
@@ -96,7 +101,8 @@ redirect_from: /cv
   <dd>2021 &ndash; 2022</dd>
 </dl>
 
-## Honors and Awards
+<br>
+## <i class="fa-solid fa-award"></i>&ensp;Honors and Awards
 <dl>
   <dt>Joseph H. Taylor Graduate Student Fellowship</dt>
   <dd>2024, Princeton University Department of Physics</dd>
@@ -130,6 +136,3 @@ redirect_from: /cv
   <dt>Sigma Pi Sigma Physics Honors Society</dt>
   <dd>Inducted 2018</dd>
 </dl>
-
-
-
