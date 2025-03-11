@@ -7,4 +7,4 @@ sidebar_sort_order: 11
 permalink: /research
 ---
 
-This page has brief overviews of the papers I've written. See the posts for more details!
+This page holds a summary post for each paper I've written; in this feed, you can find a brief description and key figure. See the posts themselves for more details!

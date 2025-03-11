@@ -18,30 +18,37 @@ redirect_from: /cv
 ## Research
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
-  <dd>Dylan Folsom, Mariangela Lisanti, Lina Necib, Danny Horta, Mark Vogelsberger, Lars Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, To submit to ApJ </dd>
+  <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, Accepted to ApJ </dd>
 </dl>
 
 <dl>
   <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
-  <dd>Dylan Folsom, Oren Slone, Mariangela Lisanti, Fangzhou Jiang, Manoj Kaplinghat<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231105676F/abstract">arXiv:2311.05676</a>, Submitted to MNRAS </dd>
+  <dd><b>DF</b>, O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">MNRAS, <b>536</b>, 2891 (2025)</a></dd>
 </dl>
+
+<hr>
 
 <dl>
   <dt>2020 &bullet; Next-to-Leading Order Simulation of Singlet Vector-like Quarks Decaying to a Bottom Quark and <em>W</em> Boson</dt>
   <dd>Undergraduate thesis, earned highest departmental honors <br>
-    Supervised by Joseph Haley and Will Johns <br> 
+    Supervised by J. Haley and W. Johns <br> 
     Contributed to ATLAS internal note ATL-COM-PHYS-2020-152</dd>
 </dl>
 
 <dl>
   <dt>2019 &bullet; NSF Physics Research Experience for Undergraduates</dt>
-  <dd>at Oklahoma State University, supervised by Joseph Haley <br> 
+  <dd>at Oklahoma State University, supervised by J. Haley <br> 
   Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 </dd>
 </dl>
 
 ## Talks
+<dl>
+  <dt>Halo-to-Halo Similarity in IllustrisTNG Dark Matter Velocity Distributions <span style="font-weight:normal">(poster)</span></dt>
+  <dd>Dark Matter Symposium <br>
+    University of California, Los Angeles, March 2025</dd>
+</dl>
 
 <dl>
   <dt>Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
@@ -88,13 +95,6 @@ redirect_from: /cv
   <dt>Resident Graduate Student, Butler College</dt>
   <dd>2021 &ndash; 2022</dd>
 </dl>
-
-## Skills
-Strong background in <code>Python</code> and <code>C++</code> programming  
-
-Significant experience with <code>GNU/Linux</code> computing environments  
-
-Extensive familiarity with <code>LaTeX</code>
 
 ## Honors and Awards
 <dl>
