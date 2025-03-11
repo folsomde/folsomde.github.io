@@ -14,7 +14,8 @@
     <a href="{{ tags_page.url | relative_url }}#{{ tag | slugify }}">
     {% else %}<span>{% endif %}
       <span class="icon">
-        {% include svg/tags.svg %}
+        <!-- {% include svg/tags.svg %} -->
+      <i class="fa-solid fa-tag"></i>
       </span>&nbsp;<span class="tag-name">{{ tag }}</span>
     {% if tags_page %}</a>{% else %}</span>{% endif %}
   {% endfor %}
