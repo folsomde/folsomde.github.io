@@ -38,7 +38,7 @@ which judicious application of Hamilton's equations allows us to write as
 
 This is particularly nice when \\(H = \frac{1}{2}v^2 + \Phi(\vb{x},t)\\): 
 <div class = "message">\[
-  \pdv{f}{t} + \dot{\vb{v}}\cdot\pdv{f}{\vb{x}} - \pdv{\Phi}{\vb{x}}\cdot\pdv{f}{\vb{v}} = 0.
+  \pdv{f}{t} + \vb{v}\cdot\pdv{f}{\vb{x}} - \pdv{\Phi}{\vb{x}}\cdot\pdv{f}{\vb{v}} = 0.
 \]</div>
 
 Note we have made the assumption that probability is conserved: this is not necessarily true for objects with finite lifetimes. It is still a decent approximation as long as the left hand side (which has characteristic scale \\(1/t_\mathrm{cross}\\)) is much greater than any source/sink rates.

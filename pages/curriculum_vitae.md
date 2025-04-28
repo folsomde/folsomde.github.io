@@ -21,7 +21,7 @@ redirect_from: /cv
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, Accepted to ApJ </dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">ApJ, <b>983</b>, 119 (2025)</a></dd>
 </dl>
 
 <dl>

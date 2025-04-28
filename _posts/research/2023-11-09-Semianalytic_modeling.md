@@ -9,7 +9,7 @@ tags:
 permalink: /:categories/semianalytic_modeling:output_ext
 excerpt: In this paper, I establish a procedure to infer internal and orbital properties of Milky Way satellites using the <code>SatGen</code> semi-analytic model. In particular, I provide values for $v_\mathrm{max}$ and $r_\mathrm{max}$ for the classical satellites, varying over astrophysical uncertainties such as the stellar mass&ndash;halo mass relation and baryonic feedback perscriptions. I also show inferred values for the central densities, pericenters, probability of group accretion, and more. The method is easily extensible to other properties, and my code is publicly available.
 comments: false
-thumbnail: "/assets/research/2311_thumb.png"
+# thumbnail: "/assets/research/2311_thumb.png"
 ---
 <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, published in <a href="https://doi.org/10.1093/mnras/stae2736">MNRAS, <b>536</b>, 2891 (2025)</a>
 
