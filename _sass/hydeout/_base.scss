@@ -123,3 +123,29 @@ input[type='submit'] {
     color: #fff;
   }
 }
+
+a.button {  
+  font-size: 80%;
+  line-height: 0;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: $padding-v $padding-h;
+  margin: 5px;
+  text-decoration: none;
+
+  background: transparent;
+  border-color: $border-color;
+  color: $link-color;
+  cursor: pointer;
+  transition:
+    color 0.3s ease-in-out,
+    border-color 0.3s ease-in-out,
+    background 0.3s ease-in-out;
+
+  &:hover {
+    background: $link-color;
+    border-color: $link-color;
+    box-shadow: $default-box-shadow;
+    color: #fff;
+  }
+}

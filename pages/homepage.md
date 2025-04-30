@@ -10,10 +10,9 @@ In particular, I use computational methods to study Milky Way satellites, Galact
 
 I graduated from Vanderbilt University in 2020 with a B.A. *cum laude* in Physics, Mathematics, and Classical Studies.
 
---- 
+<br>
+<div class = "message">
+To learn more about my work, check out <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
+</div>
 
-Here you can find 
- - [how to contact me]({{ "/contact"|relative_url}}),
- - [my curriculum vit&aelig;]({{ "/curriculum_vitae"|relative_url}}),
- - [summaries]({{ "/research"|relative_url }}) of my work, as well as  
- - [my personal notes]({{ "/notes"|relative_url}}) on various physics topics.
+

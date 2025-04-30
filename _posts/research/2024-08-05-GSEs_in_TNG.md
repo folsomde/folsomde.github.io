@@ -11,7 +11,7 @@ excerpt: In this paper, I search Milky Way&ndash;like galaxies in <code>Illustri
 comments: false
 # thumbnail: "/assets/research/2408_thumb.png"
 ---
-<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240802723F/abstract">arXiv:2408.02723</a>, ApJ accepted
+<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, published in <a href="https://doi.org/10.3847/1538-4357/adbe31">ApJ, <b>983</b>, 119 (2025)</a>
 
 ---
 
