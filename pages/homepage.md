@@ -12,7 +12,7 @@ I graduated from Vanderbilt University in 2020 with a B.A. *cum laude* in Physic
 
 <br>
 <div class = "message">
-To learn more about my work, check out <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
+<h3 style='margin-top:0.25rem'>Want to learn more?</h3> Check out <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
 </div>
 
 
