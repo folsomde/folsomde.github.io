@@ -6,7 +6,6 @@ sidebar_link: true
 redirect_from: /cv
 ---
 ---
-<br>
 ## <i class="fa-solid fa-graduation-cap"></i>&ensp;Education
 <dl>
   <dt>Ph.D. in Physics</dt>
@@ -18,6 +17,13 @@ redirect_from: /cv
 
 <br>
 ## <i class="fa-solid fa-book-medical"></i>&ensp;Research
+<dl>
+  <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
+  <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, to submit to PRL</dd>
+</dl>
+
+
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
