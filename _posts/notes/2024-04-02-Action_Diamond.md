@@ -7,7 +7,7 @@ tags:
   - Galactic Dynamics
   - Research
   - Notes
-permalink: /:categories/action_diamond:output_ext
+permalink: /:categories/action_diamond
 excerpt: "An explanation of that weird plot"
 comments: false
 published: false

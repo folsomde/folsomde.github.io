@@ -6,7 +6,7 @@ categories:
 tags:
   - Papers
   - Research
-permalink: /:categories/GSEs_in_TNG:output_ext
+permalink: /:categories/GSEs_in_TNG
 excerpt: In this paper, I search Milky Way&ndash;like galaxies in <code>IllustrisTNG50</code> for mergers that resemble the GSE, our most recent major merger, and find them a third of the time. I allow for the GSE to be comprised of two mergers, rather than necessarily being a single merger; these pairs account for approimately a third of the GSEs. It's hard to tell single- from two-merger GSEs apart, except that the single mergers are typically accreted more recently.
 comments: false
 # thumbnail: "/assets/research/2408_thumb.png"

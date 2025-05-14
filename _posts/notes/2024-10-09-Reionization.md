@@ -7,7 +7,7 @@ tags:
   - Cosmology
   - Research
   - Notes
-permalink: /:categories/thermal_history:output_ext
+permalink: /:categories/thermal_history
 excerpt: "Very very very under construction"
 comments: false
 published: false

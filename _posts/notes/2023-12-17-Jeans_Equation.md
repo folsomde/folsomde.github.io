@@ -7,7 +7,7 @@ tags:
   - Galactic Dynamics
   - Research
   - Notes
-permalink: /:categories/jeans:output_ext
+permalink: /:categories/jeans
 excerpt: "Essentially a highlight reel of Binney & Tremaine Chapter 4"
 comments: false
 ---

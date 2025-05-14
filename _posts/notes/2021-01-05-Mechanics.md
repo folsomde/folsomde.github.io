@@ -6,7 +6,7 @@ categories:
 tags:
   - Prelims
   - Notes
-permalink: /:categories/mechanics:output_ext
+permalink: /:categories/mechanics
 excerpt: "Lagrangians, Hamiltonians, oscillations, central force motion, scattering theory, rigid body motion, and continuous media &ndash; my quick summary of Goldstein, plus some prelims prep material."
 comments: false
 ---

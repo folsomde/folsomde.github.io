@@ -7,7 +7,7 @@ tags:
   - Galactic Dynamics
   - Research
   - Notes
-permalink: /:categories/lane_emden:output_ext
+permalink: /:categories/lane_emden
 excerpt: "Very very very under construction"
 comments: false
 published: false

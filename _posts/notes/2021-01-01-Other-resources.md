@@ -6,7 +6,7 @@ categories:
 tags:
   - Prelims
   - Notes
-permalink: /:categories/other-resources:output_ext
+permalink: /:categories/other-resources
 excerpt: "Prelim-specific advice and some assorted mathematical facts."
 comments: false
 ---

@@ -7,7 +7,7 @@ tags:
   - Dark Matter
   - Research
   - Notes
-permalink: /:categories/scattering:output_ext
+permalink: /:categories/scattering
 excerpt: "Unwritten so far"
 comments: false
 published: false
