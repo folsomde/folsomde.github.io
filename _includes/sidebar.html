@@ -1,6 +1,5 @@
 <div id="sidebar">
   <header>
-      {% comment %}<img class="headshot" src="https://images.squarespace-cdn.com/content/v1/58a8b368d1758e8411790a59/38216b13-9b1d-4d40-96ea-3f634032e813/dylan_folsom.jpg?format=300w">{% endcomment %}
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}

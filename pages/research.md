@@ -21,4 +21,8 @@ In this feed, you can find a summary post for each paper I've written. See the p
 <a class="button" href="https://orcid.org/0000-0002-1544-1381" aria-label='ORCID'>
 	<i class="fa-brands fa-orcid"></i>&nbsp;&nbsp;<b>ORCID</b>
 </a>
+
+<a class="button" href="https://inspirehep.net/authors/2917145" aria-label='INSPIRE HEP'>
+	<i class="fa-solid fa-circle-exclamation" style='transform:scaleY(-1)'></i>&nbsp;&nbsp;<b>INSPIRE HEP</b>
+</a>
 </div>
