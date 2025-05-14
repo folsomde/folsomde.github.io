@@ -1,11 +1,9 @@
 ---
 layout: page
-title: License
+title: Released under MIT License
 permalink: /license
 redirect_from: /LICENSE
 ---
-
-## Released under MIT License
 
 Copyright (c) 2013 Mark Otto  
 Copyright (c) 2017 Andrew Fong  
