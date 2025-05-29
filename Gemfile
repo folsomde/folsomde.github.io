@@ -1,12 +1,9 @@
 source "https://rubygems.org"
-gemspec
-gem "webrick", "~> 1.7"
-gem "json"
+
+gem "jekyll-theme-hydeout", "~> 5.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-pdf-embed"
-  gem "jekyll-gist"
-  gem "jekyll-paginate"
   gem "jekyll-redirect-from"
 end

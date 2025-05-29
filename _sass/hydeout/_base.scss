@@ -1,3 +1,5 @@
+@use "variables";
+
 // Body resets
 //
 // Update the foundational and global aspects of the page.
@@ -13,13 +15,13 @@ body {
 }
 
 html {
-  font-family: $root-font-family;
+  font-family: variables.$root-font-family;
   font-weight: 400;
-  font-size: $root-font-size;
-  line-height: $root-line-height;
+  font-size: variables.$root-font-size;
+  line-height: variables.$root-line-height;
 
-  @media (min-width: $large-breakpoint) {
-    font-size: $large-font-size;
+  @media (min-width: variables.$large-breakpoint) {
+    font-size: variables.$large-font-size;
   }
 }
 
@@ -35,7 +37,7 @@ section {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: $link-color;
+  color: variables.$link-color;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -68,11 +70,11 @@ table.empty td,th {
 
 table.empty tbody tr:nth-child(odd) td,
 table.empty tbody tr:nth-child(odd) th {
-  background-color: $body-bg;
+  background-color: variables.$body-bg;
 }
 
 table {
-  border: 1px solid $border-color;
+  border: 1px solid variables.$border-color;
   border-collapse: collapse;
   font-size: 85%;
   margin-bottom: 1rem;
@@ -81,7 +83,7 @@ table {
 
 td,
 th {
-  border: 1px solid $border-color;
+  border: 1px solid variables.$border-color;
   padding: 0.25rem 0.5rem;
 }
 
@@ -91,7 +93,7 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: $gray-1;
+  background-color: variables.$gray-1;
 }
 
 
@@ -100,16 +102,16 @@ input[type='text'],
 input[type='email'],
 input[type='search'],
 input[type='submit'] {
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  padding: $padding-v $padding-h;
+  border: 1px solid variables.$border-color;
+  border-radius: variables.$border-radius;
+  padding: variables.$padding-v variables.$padding-h;
 }
 
 button,
 input[type='submit'] {
   background: transparent;
-  border-color: $border-color;
-  color: $link-color;
+  border-color: variables.$border-color;
+  color: variables.$link-color;
   cursor: pointer;
   transition:
     color 0.3s ease-in-out,
@@ -117,9 +119,9 @@ input[type='submit'] {
     background 0.3s ease-in-out;
 
   &:hover {
-    background: $link-color;
-    border-color: $link-color;
-    box-shadow: $default-box-shadow;
+    background: variables.$link-color;
+    border-color: variables.$link-color;
+    box-shadow: variables.$default-box-shadow;
     color: #fff;
   }
 }
@@ -127,15 +129,15 @@ input[type='submit'] {
 a.button {  
   font-size: 80%;
   line-height: 0;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  padding: $padding-v $padding-h;
+  border: 1px solid variables.$border-color;
+  border-radius: variables.$border-radius;
+  padding: variables.$padding-v variables.$padding-h;
   margin: 5px;
   text-decoration: none;
 
   background: transparent;
-  border-color: $border-color;
-  color: $link-color;
+  border-color: variables.$border-color;
+  color: variables.$link-color;
   cursor: pointer;
   transition:
     color 0.3s ease-in-out,
@@ -143,9 +145,9 @@ a.button {
     background 0.3s ease-in-out;
 
   &:hover {
-    background: $link-color;
-    border-color: $link-color;
-    box-shadow: $default-box-shadow;
+    background: variables.$link-color;
+    border-color: variables.$link-color;
+    box-shadow: variables.$default-box-shadow;
     color: #fff;
   }
 }

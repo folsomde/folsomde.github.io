@@ -1,3 +1,5 @@
+@use "variables";
+
 .tags-list a {
   margin-right: 0.5em;
   opacity: 0.75;
@@ -5,7 +7,7 @@
 }
 
 .tags-list a .tag-count {
-  background: $link-color;
+  background: variables.$link-color;
   border-radius: 1000px;
   color: rgba(255, 255, 255, 0.8);
   font-size: 0.75em;
@@ -17,13 +19,13 @@
 
 
 .tags-list a .zero-count {
-  background: $sidebar-bg-color;
+  background: variables.$sidebar-bg-color;
   opacity:0.5;
 }
 
 .tags-list a .zero-text {
   opacity:0.5;
-  color: $sidebar-bg-color;
+  color: variables.$sidebar-bg-color;
 }
 
 
