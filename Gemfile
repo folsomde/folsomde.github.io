@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-hydeout", "~> 5.0"
+gem "jekyll-theme-hydeout", ">= 5.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
