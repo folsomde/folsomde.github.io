@@ -20,7 +20,7 @@ redirect_from: /cv
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
   <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, to submit to PRL</dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, submitted to PRL</dd>
 </dl>
 
 
