@@ -110,6 +110,11 @@ redirect_from: /cv
 <br>
 ## <i class="fa-solid fa-award"></i>&ensp;Honors and Awards
 <dl>
+  <dt>Kusaka Memorial Prize in Physics</dt>
+  <dd>2025, Princeton University Department of Physics</dd>
+</dl>
+
+<dl>
   <dt>Joseph H. Taylor Graduate Student Fellowship</dt>
   <dd>2024, Princeton University Department of Physics</dd>
 </dl>
