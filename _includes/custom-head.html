@@ -1,9 +1,15 @@
 <meta name="description" content="Personal academic website for Dylan Folsom, Physics Ph.D. student at Princeton University">
 <meta name="author" content="Dylan Folsom">
 
+<!-- Analytics -->
 <script data-goatcounter="https://dfolsom.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+{% if page.noindex %}
+<meta name="robots" content="noindex,nofollow,noarchive,nocache,nosnippet"/>
+{% endif %} 
+
+ <!-- MathJax rendering -->
 <script>
 MathJax = {
   tex: {
