@@ -103,8 +103,8 @@ redirect_from: /cv
 ## <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
 <dl>
   <dt>Undergraduate Advising</dt>
-  <dd>Worked with Tal Shpigel on summer project "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation"</dd>
-  <dd>Continuing to advise Tal on Princeton Junior Paper research</dd>
+  <dd>Worked with Tal Shpigel on summer project "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>)</dd>
+  <dd>Continued to advise Tal on Princeton Junior Paper research, culminating in <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251021914S/abstract">arXiv:2510.21914</a></dd>
 </dl>
 
 <dl>
