@@ -108,7 +108,7 @@ redirect_from: /cv
 </dl>
 
 <dl>
-  <dt>Assistant in Instruction</dt>
+  <dt>Teaching Assistant</dt>
   <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023, Fall 2024, Fall 2025</dd>
   <dd>PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023</dd>
   <dd>PHY 115: Physics for Future Leaders, Fall 2022</dd>
