@@ -18,7 +18,7 @@ redirect_from: /cv
 <br>
 
 ## <i class="fa-solid fa-book-medical"></i>&ensp;Research
-> **At a glance:**{: style="color: #515151"} _Three refereed publications, one preprint for review, one forthcoming draft._
+> **At a glance:**{: style="color: #515151"} _Three refereed publications, one preprint, one forthcoming draft._
 
 <dl>
   <dt>2025 &bullet; Are Milky Way Ultra-faint Dwarf Galaxies Denser Than Expected?</dt>
