@@ -16,18 +16,33 @@ redirect_from: /cv
 </dl>
 
 <br>
+
 ## <i class="fa-solid fa-book-medical"></i>&ensp;Research
+> **At a glance:**{: style="color: #515151"} _Three refereed publications, one preprint for review, one forthcoming draft._
+
+<dl>
+  <dt>2025 &bullet; Are Milky Way Ultra-faint Dwarf Galaxies Denser Than Expected?</dt>
+  <dd><b>DF</b>, M. Kaplinghat, M. Lisanti, Y. Park, K. Raman, B. Safdi<br> 
+    Appearing on arXiv in late 2025</dd>
+</dl>
+
+<dl>
+  <dt>2025 &bullet; How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood</dt>
+  <dd>T. Shpigel, <b>DF</b>, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251021914S/abstract">arXiv:2510.21914</a>, to submit to Astrophys. J.</dd>
+</dl>
+
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
   <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, submitted to PRL</dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, Accepted <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett.</a></dd>
 </dl>
 
 
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">ApJ, <b>983</b>, 119 (2025)</a></dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a></dd>
 </dl>
 
 <dl>
