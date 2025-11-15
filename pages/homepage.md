@@ -12,10 +12,16 @@ I am in the final year of my PhD at Princeton University, where I work with [Mar
 I'm interested broadly in the physics of dwarf galaxies, galactic dynamics, and how these inform the study of dark matter around our Galaxy.
 In particular, I use computational methods to study Milky Way satellites, Galactic archaeology, and (in)direct detection of dark matter. 
 
-
 <br>
-<div class = "message">
-<h3 style='margin-top:0.25rem'>Want to learn more?</h3> Check out <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
+## Want to learn more?
+<div style="justify-content: space-between;display: flex;flex-flow: row wrap;">
+<div class = "message" style='width:49%'>
+<h3 style='margin-top:0.25rem'>For scientists:</h3>
+ See <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
+</div>
+<div class = "message" style='width:49%'>
+<h3 style='margin-top:0.25rem'>For the public:</h3> Check out <a href="/research/about"><b>this page</b></a> for a short, approachable introduction to my research.
+</div>
 </div>
 
 

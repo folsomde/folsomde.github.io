@@ -7,7 +7,7 @@ sidebar_sort_order: 11
 permalink: /research
 ---
 
-My research broadly aims to uncover what we can learn about the dark matter in our own backyard. Whether that's quite literally in your backyard on Earth (and perhaps directly detectable) or in the Local Group of nearby galaxies, I study how it is distributed, how it got here, and how confidently we can trust the answers we get to these questions.
+My research broadly aims to uncover what we can learn about the dark matter in our own backyard. Whether that's quite literally in your backyard on Earth (and perhaps directly detectable) or in the Local Group of nearby galaxies, I study how it is distributed, how it got here, and how we can detect it. For more, see <a href="/research/about"><b>this page</b></a>, which gives a short, approachable introduction to my research.
 
 ## Publications
 
