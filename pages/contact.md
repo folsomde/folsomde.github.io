@@ -9,7 +9,7 @@ You can visit my office at 360 Jadwin Hall if you're on the Princeton campus, or
 
 
 ## Online
-You can also follow these links to my accounts on the following sites:
+You can also follow these links to find me elsewhere:
 <div style="justify-content: space-evenly;display: flex;flex-flow: row wrap;">
 
 {% comment %}
@@ -33,6 +33,11 @@ You can also follow these links to my accounts on the following sites:
 <a class="button" href="https://bsky.app/profile/dfolsom.com" aria-label='Bluesky'>
 	<i class="fa-brands fa-bluesky"></i>&nbsp;&nbsp;<b>Bluesky</b>
 </a>
+
+<a class="button" href="https://blog.dfolsom.com" aria-label='Blog'>
+	<i class="fa-solid fa-rss"></i>&nbsp;&nbsp;<b>Blog</b>
+</a>
+
 </div>
 
 
