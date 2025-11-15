@@ -15,11 +15,11 @@ In particular, I use computational methods to study Milky Way satellites, Galact
 <br>
 ## Want to learn more?
 <div style="justify-content: space-between;display: flex;flex-flow: row wrap;">
-<div class = "message" style='width:49%'>
+<div class = "message" style='width:49%; min-width: 12em;'>
 <h3 style='margin-top:0.25rem'>For scientists:</h3>
  See <a href="/research"><b>this feed</b></a> with quick summaries of my publications, or view <a href="/curriculum_vitae"><b>my full CV</b></a>.
 </div>
-<div class = "message" style='width:49%'>
+<div class = "message" style='width:49%; min-width: 12em;'>
 <h3 style='margin-top:0.25rem'>For the public:</h3> Check out <a href="/research/about"><b>this page</b></a> for a short, approachable introduction to my research.
 </div>
 </div>
