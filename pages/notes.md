@@ -7,4 +7,4 @@ sidebar_sort_order: 12
 permalink: /notes
 ---
 
-This page contains notes for myself on various topics relevant to my research, as well as the notes that I used to prepare for the Princeton prelim exam. These are primarily for my own self-reference and may or may not be helpful to the reader. For less-refined thoughts, see [my blog](https://blog.dfolsom.com)!
+This page contains notes for myself on various topics relevant to my research, as well as the notes that I used to prepare for the Princeton prelim exam. These are primarily for my own self-reference and may or may not be helpful to the reader. **See my [blog](https://blog.dfolsom.com)**{: style="color: #515151"} for even less-refined thoughts!
