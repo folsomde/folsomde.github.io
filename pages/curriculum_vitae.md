@@ -35,7 +35,7 @@ redirect_from: /cv
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
   <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, Accepted <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett.</a></dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
 </dl>
 
 
@@ -48,7 +48,7 @@ redirect_from: /cv
 <dl>
   <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
   <dd><b>DF</b>, O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">MNRAS, <b>536</b>, 2891 (2025)</a></dd>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">Mon. Not. R. Astron. Soc., <b>536</b>, 2891 (2025)</a></dd>
 </dl>
 
 <hr>
