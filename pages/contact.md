@@ -26,6 +26,10 @@ You can also follow these links to find me elsewhere:
 </a>
 {% endcomment %}
 
+<a class="button" href="https://www.linkedin.com/in/dylan-folsom-8962a7123/" aria-label='LinkedIn'>
+	<i class="fa-brands fa-linkedin"></i>&nbsp;&nbsp;<b>LinkedIn</b>
+</a>
+
 <a class="button" href="https://github.com/folsomde" aria-label='GitHub'>
 	<i class="fa-brands fa-github"></i>&nbsp;&nbsp;<b>GitHub</b>
 </a>
