@@ -10,19 +10,29 @@ redirect_from: /cv
   Download PDF</a></b>
 </div>
 ---
-## <i class="fa-solid fa-graduation-cap"></i>&ensp;Education
-<dl>
+
+<div class="collapsible-container">
+  <input type="checkbox" id="education" class="collapsible-input" checked>
+  <label for="education" class="collapsible-header">
+    <i class="fa-solid fa-graduation-cap"></i>&ensp;Education
+  </label>
+  <dl class="collapsible-content">
   <dt>Ph.D. in Physics</dt>
   <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; present</dd>
 
   <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies<br>Minor in Computer Science</dt>
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
-</dl>
-
-<br>
-
-## <i class="fa-solid fa-book-medical"></i>&ensp;Research
-> **At a glance:**{: style="color: #515151"} _Four refereed publications, two forthcoming works, five papers as lead or co-lead author._
+  </dl>
+</div>
+<div class="collapsible-container">
+  <input type="checkbox" id="research" class="collapsible-input" checked>
+  <label for="research" class="collapsible-header">
+    <i class="fa-solid fa-book-medical"></i>&ensp;Research
+  </label>
+<blockquote>
+  <strong style="color: #515151">At a glance:</strong> <em>Four refereed publications, two forthcoming manuscripts, five papers as lead or co-lead author.</em>
+</blockquote>
+  <div class="collapsible-content">
 {% comment %}
 <dl style='color: #7a7a7a'>
   <dt>2026 &bullet; Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
@@ -55,7 +65,6 @@ redirect_from: /cv
     <a href="https://arxiv.org/abs/2505.07924">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
 </dl>
 
-
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
@@ -82,12 +91,16 @@ redirect_from: /cv
   <dd>at Oklahoma State University, supervised by J. Haley <br> 
   Contributed to ATLAS internal note ATL-COM-PHYS-2019-1026 </dd>
 </dl>
+  </div>
+</div>
 
-
-<br>
-
-## <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
-{% comment %}
+<div class="collapsible-container">
+  <input type="checkbox" id="teaching" class="collapsible-input" checked>
+  <label for="teaching" class="collapsible-header">
+    <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
+  </label>
+  <div class="collapsible-content">
+    {% comment %}
 <dl>
   <dt>Instructor, Prison Teaching Initiative</dt>
   <dd>
@@ -97,7 +110,7 @@ redirect_from: /cv
 {% endcomment %}
 
 <dl>
-  <dt>Scientific Thought and Practice Assistant, Coding Foundations of Resarch Internship Program</dt>
+  <dt>Scientific Thought and Practice Assistant, Coding Foundations of Research Internship Program</dt>
   <dd>
   <b>Summer 2026 &bullet;</b> Will lead interns to discover the practices of scientific inquiry, to design and conduct experiments, and to develop skills of observation and critical thinking
   </dd>
@@ -106,15 +119,13 @@ redirect_from: /cv
 <dl>
   <dt>Teaching Assistantship, Princeton University Department of Physics</dt>
   <dd>
-  <b>2021 &ndash; present &bullet;</b> Focusing specifically on introductory sequence labs, worked closely with the lab director to emphasize structured quantitative inquiry
+  <b>2021 &ndash; present &bullet;</b> Focusing specifically on introductory sequence labs, worked closely with the lab director to emphasize structured quantitative inquiry<br>
+  <ul>
+    <li> PHY 105 Lab (Advanced Physics, Mechanics) Fall 2023, 2024, 2025</li>
+    <li> PHY 104 Lab (General Physics II, Electricity and Magnetism) Spring 2023</li>
+  </ul>
+    Additionally assissted in PHY 115 (Fall 2022), PHY 110 (Summer 2022), PHY 109 (Spring 2022), PHY 105 (Fall 2021)
 </dd>
-  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023, Fall 2024, Fall 2025<br>
-      PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023<br>
-      PHY 115: Physics for Future Leaders, Fall 2022<br>
-      PHY 110: General Physics II (Electricity and Magnetism), Summer 2022<br>
-      PHY 109: Physics Methods and Applications (Mechanics), Spring 2022<br>
-      PHY 105: Advanced Physics (Mechanics), Fall 2021
-  </dd>
 </dl>
 
 <dl>
@@ -126,11 +137,16 @@ redirect_from: /cv
   <dt>Resident Graduate Student, Butler College</dt>
   <dd><b>2021 &ndash; 2022 &bullet;</b> Coordinated monthly community-building activities for the residential college; mentored a group of sixteen first-year students</dd>
 </dl>
+  </div>
+</div>
 
-<br>
-
-## <i class="fa-solid fa-quote-left"></i>&ensp;Talks
-<dl>
+<div class="collapsible-container">
+  <input type="checkbox" id="talks" class="collapsible-input" checked>
+  <label for="talks" class="collapsible-header">
+    <i class="fa-solid fa-quote-left"></i>&ensp;Talks
+  </label>
+  <div class="collapsible-content">
+    <dl>
   <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
   <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
     Center for Computational Astrophysics, January 2026</dd>
@@ -165,11 +181,16 @@ redirect_from: /cv
   <dd>Galactic Frontiers: Dwarf Galaxies in the Local Volume and Beyond <br>
     Flatiron Institute, June 2023</dd>
 </dl>
+  </div>
+</div>
 
-<br>
-
-## <i class="fa-solid fa-award"></i>&ensp;Honors and Awards
-<dl>
+<div class="collapsible-container">
+  <input type="checkbox" id="awards" class="collapsible-input" checked>
+  <label for="awards" class="collapsible-header">
+    <i class="fa-solid fa-award"></i>&ensp;Honors and Awards
+  </label>
+  <div class="collapsible-content">
+    <dl>
   <dt>Kusaka Memorial Prize in Physics</dt>
   <dd>2025, Princeton University Department of Physics</dd>
 </dl>
@@ -207,3 +228,6 @@ redirect_from: /cv
   <dt>Sigma Pi Sigma Physics Honors Society</dt>
   <dd>Inducted 2018</dd>
 </dl>
+
+  </div>
+</div>

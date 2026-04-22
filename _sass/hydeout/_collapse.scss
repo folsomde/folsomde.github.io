@@ -1,0 +1,59 @@
+@use "variables";
+
+/* Collapsible headers */
+.collapsible-input {
+  display: none; /* Hide the checkbox */
+}
+/* By default, hide the content */
+.collapsible-content {
+  max-height: 0; /* Collapse content */
+  overflow: hidden; /* Hide overflow when collapsed */
+  transition: max-height 0.3s ease; /* Smooth transition */
+  margin-left:0.5rem;
+}
+ 
+/* When checkbox is checked, show content */
+.collapsible-input:checked ~ .collapsible-content {
+  max-height: 5000px; /* Adjust based on content size */
+}
+
+.collapsible-header {
+  color: variables.$heading-color;
+  background: #eee;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-top: variables.$heading-spacing;
+  margin-bottom: variables.$heading-spacing;
+  margin-left: 0;
+  border-radius: 0.5rem;
+  text-rendering: optimizeLegibility;
+  display: block; /* Make label a block element to fill width */
+  padding: 1rem; /* Add spacing */
+  cursor: pointer; /* Show pointer on hover */
+  user-select: none; /* Prevent text selection on click */
+  transition: background 0.2s ease; /* Smooth background change */
+}
+ 
+/* Hover effect */
+.collapsible-header:hover {
+  background: variables.$gray-2; /* Darken on hover */
+}
+
+.collapsible-header::after {
+  content: "»"; /* Down chevron when closed */
+  transform: rotate(0); /* Rotate to point right */
+  transform-origin: 50% 60%;
+  transition: transform 0.3s ease;
+  display: inline-block;
+  float:right;
+  margin-right: 1rem; /* Space between icon and text */
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1;
+}
+ 
+.collapsible-input:checked ~ .collapsible-header::after {
+  transform: rotate(90deg); /* Rotate to point down when open */
+  transform-origin: 50% 60%;
+}
