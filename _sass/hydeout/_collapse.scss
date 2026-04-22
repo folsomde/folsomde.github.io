@@ -49,7 +49,8 @@
   transition: transform 0.3s ease;
   display: inline-block;
   float:right;
-  margin-right: -1rem; /* Space between icon and text */
+  margin-right: -1rem; 
+  margin-top: -0.15em;/* adjusts baseline */
   font-weight: 600;
   font-size: 2rem;
   line-height: 1;
