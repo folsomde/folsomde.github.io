@@ -30,6 +30,7 @@
   text-rendering: optimizeLegibility;
   display: block; /* Make label a block element to fill width */
   padding: 1rem; /* Add spacing */
+  padding-right:2.5rem;
   cursor: pointer; /* Show pointer on hover */
   user-select: none; /* Prevent text selection on click */
   transition: background 0.2s ease; /* Smooth background change */
@@ -41,16 +42,18 @@
 }
 
 .collapsible-header::after {
+  overflow:hidden;
   content: "»"; /* Down chevron when closed */
   transform: rotate(0); /* Rotate to point right */
   transform-origin: 50% 60%;
   transition: transform 0.3s ease;
   display: inline-block;
   float:right;
-  margin-right: 1rem; /* Space between icon and text */
+  margin-right: -1rem; /* Space between icon and text */
   font-weight: 600;
   font-size: 2rem;
   line-height: 1;
+  height:1.25;
 }
  
 .collapsible-input:checked ~ .collapsible-header::after {
