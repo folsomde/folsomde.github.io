@@ -11,7 +11,7 @@ excerpt: It can be difficult to extrapolate from observed properties of dwarf ga
 comments: false
 # thumbnail: "/assets/research/2311_thumb.png"
 ---
-<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, published in <a href="https://doi.org/10.1093/mnras/stae2736">MNRAS, <b>536</b>, 2891 (2025)</a>.  
+<a href="https://arxiv.org/abs/2311.05676">arXiv:2311.05676</a>, published in <a href="https://doi.org/10.1093/mnras/stae2736">MNRAS, <b>536</b>, 2891 (2025)</a>.  
 Data available <a href='https://github.com/folsomde/Semianalytic_Inference'>on GitHub</a>
 
 ---

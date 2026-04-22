@@ -11,7 +11,7 @@ excerpt: In this paper, I search Milky Way&ndash;like galaxies in <code>TNG50</c
 comments: false
 # thumbnail: "/assets/research/2408_thumb.png"
 ---
-<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, published in <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a>  
+<a href="https://arxiv.org/abs/2408.02723">arXiv:2408.02723</a>, published in <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a>  
 Supplemental figures available <a href="https://github.com/folsomde/Stellar_Halos_with_GSEs">on GitHub</a>
 
 ---

@@ -11,7 +11,7 @@ excerpt: This paper shows how to leverage <i>ex situ</i> stellar kinematics as t
 comments: false
 ---
 
-<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251021914S/abstract">arXiv:2510.21914</a>, to submit to Astrophys. J.  
+<a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, accepted to Astrophys. J.  
 Data available <a href='https://github.com/Tal-Shpigel/stellar-dm-velocity-distributions'>on GitHub</a>
 
 ---
@@ -19,5 +19,5 @@ The dark matter flux in a direct detection experiment depends on its local speed
 
 <figure>
   <img src="/assets/research/2510_thumb.png" alt="Local dark matter speed distribution reconstruction">
-  <figcaption class='message'>Our reconstruction of the dark matter speed distribution around the Sun. We use <i>Gaia</i> stellar data (solid orange) to model the dark matter contributed by the GSE merger (dashed orange). This is added to a Maxwell&ndash;Boltzmann distribution (black) to yield the full model, sampling over our reconstruction uncertainties (green band). </figcaption>
+  <figcaption class='message'>Our reconstruction of the dark matter speed distribution around the Sun. We use the kinematics of observed GSE stars (solid orange) to model the dark matter contributed by the GSE merger (dashed orange). This is added to a Maxwell&ndash;Boltzmann distribution (black) to yield the full model, sampling over our reconstruction uncertainties (green band). </figcaption>
 </figure>

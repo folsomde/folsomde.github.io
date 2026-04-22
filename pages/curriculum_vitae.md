@@ -5,11 +5,15 @@ permalink: /curriculum_vitae
 sidebar_link: true
 redirect_from: /cv
 ---
+<div class = "message" style='width:49%; min-width: 12em;'>
+<b><a href="/assets/Folsom-CV.pdf"> <i class="fa-solid fa-file-arrow-down"></i>&ensp;
+  Download PDF</a></b>
+</div>
 ---
 ## <i class="fa-solid fa-graduation-cap"></i>&ensp;Education
 <dl>
   <dt>Ph.D. in Physics</dt>
-  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; 2026, est.</dd>
+  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; present</dd>
 
   <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies<br>Minor in Computer Science</dt>
   <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
@@ -18,37 +22,50 @@ redirect_from: /cv
 <br>
 
 ## <i class="fa-solid fa-book-medical"></i>&ensp;Research
-> **At a glance:**{: style="color: #515151"} _Three refereed publications, one preprint, one forthcoming draft._
+> **At a glance:**{: style="color: #515151"} _Four refereed publications, two forthcoming works, five papers as lead or co-lead author._
+{% comment %}
+<dl style='color: #7a7a7a'>
+  <dt>2026 &bullet; Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
+  <dd><b>DF</b>, C. Blanco, M. Lisanti<br> 
+    Appearing on arXiv in summer 2026</dd>
+</dl>
+{% endcomment %}
 
-<dl>
-  <dt>2025 &bullet; Are Milky Way Ultra-faint Dwarf Galaxies Denser Than Expected?</dt>
-  <dd><b>DF</b>, M. Kaplinghat, M. Lisanti, Y. Park, K. Raman, B. Safdi<br> 
-    Appearing on arXiv in late 2025</dd>
+<dl style='color: #7a7a7a'>
+  <dt>2026 &bullet; The Information Washout of the Milky Way Merger History</dt>
+  <dd>L. Necib, <b>DF</b>, E. Davies, N. Starkman, A. Thoyas<br> 
+    Appearing on arXiv in early 2026</dd>
+</dl>
+
+<dl style='color: #7a7a7a'>
+  <dt>2026 &bullet; Semi-analytic Inference of Dwarf Galaxy Densities and Implications for Dark Matter Searches</dt>
+  <dd>K. Raman, <b>DF</b>, M. Kaplinghat, M. Lisanti, B. Safdi<br> 
+    Appearing on arXiv in early 2026</dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood</dt>
   <dd>T. Shpigel, <b>DF</b>, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251021914S/abstract">arXiv:2510.21914</a>, to submit to Astrophys. J.</dd>
+    <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, Accepted to Astrophys. J.</dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
   <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250507924F/abstract">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
+    <a href="https://arxiv.org/abs/2505.07924">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
 </dl>
 
 
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
   <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...983..119F/abstract">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a></dd>
+    <a href="https://arxiv.org/abs/2408.02723">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a></dd>
 </dl>
 
 <dl>
   <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
   <dd><b>DF</b>, O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
-    <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2891F/abstract">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">Mon. Not. R. Astron. Soc., <b>536</b>, 2891 (2025)</a></dd>
+    <a href="https://arxiv.org/abs/2311.05676">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">Mon. Not. R. Astron. Soc., <b>536</b>, 2891 (2025)</a></dd>
 </dl>
 
 <hr>
@@ -68,9 +85,59 @@ redirect_from: /cv
 
 
 <br>
+
+## <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
+{% comment %}
+<dl>
+  <dt>Instructor, Prison Teaching Initiative</dt>
+  <dd>
+  <b>Fall 2026 &bullet;</b>
+  </dd>
+</dl>
+{% endcomment %}
+
+<dl>
+  <dt>Scientific Thought and Practice Assistant, Coding Foundations of Resarch Internship Program</dt>
+  <dd>
+  <b>Summer 2026 &bullet;</b> Will lead interns to discover the practices of scientific inquiry, to design and conduct experiments, and to develop skills of observation and critical thinking
+  </dd>
+</dl>
+
+<dl>
+  <dt>Teaching Assistantship, Princeton University Department of Physics</dt>
+  <dd>
+  <b>2021 &ndash; present &bullet;</b> Focusing specifically on introductory sequence labs, worked closely with the lab director to emphasize structured quantitative inquiry
+</dd>
+  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023, Fall 2024, Fall 2025<br>
+      PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023<br>
+      PHY 115: Physics for Future Leaders, Fall 2022<br>
+      PHY 110: General Physics II (Electricity and Magnetism), Summer 2022<br>
+      PHY 109: Physics Methods and Applications (Mechanics), Spring 2022<br>
+      PHY 105: Advanced Physics (Mechanics), Fall 2021
+  </dd>
+</dl>
+
+<dl>
+  <dt>Undergraduate Mentees</dt>
+  <dd><b>2024 &ndash; 2026 &bullet; Tal Shpigel</b>, Advised during his OURSIP internship project, "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>), which culminated in his Princeton Junior Paper and a publication, <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a></dd>
+</dl>
+
+<dl>
+  <dt>Resident Graduate Student, Butler College</dt>
+  <dd><b>2021 &ndash; 2022 &bullet;</b> Coordinated monthly community-building activities for the residential college; mentored a group of sixteen first-year students</dd>
+</dl>
+
+<br>
+
 ## <i class="fa-solid fa-quote-left"></i>&ensp;Talks
 <dl>
-  <dt>Halo-to-Halo Similarity in IllustrisTNG Dark Matter Velocity Distributions <span style="font-weight:normal">(poster)</span></dt>
+  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
+  <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
+    Center for Computational Astrophysics, January 2026</dd>
+</dl>
+
+<dl>
+  <dt>Halo-to-Halo Similarity in IllustrisTNG Dark Matter Velocity Distributions&nbsp;<span style="font-weight:normal">(poster)</span></dt>
   <dd>Dark Matter Symposium &ndash; UCLA DM<br>
     University of California, Los Angeles, March 2025</dd>
 </dl>
@@ -82,7 +149,7 @@ redirect_from: /cv
 </dl>
 
 <dl>
-  <dt>Two Sausages, One Bun? GSEs in TNG <span style="font-weight:normal">(poster)</span></dt>
+  <dt>Two Sausages, One Bun? GSEs in TNG&nbsp;<span style="font-weight:normal">(poster)</span></dt>
   <dd>Small Galaxies, Cosmic Questions II<br>
     Durham University, July 2024</dd>
 </dl>
@@ -100,29 +167,7 @@ redirect_from: /cv
 </dl>
 
 <br>
-## <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
-<dl>
-  <dt>Undergraduate Advising</dt>
-  <dd>Worked with Tal Shpigel on summer project "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>)</dd>
-  <dd>Continued to advise Tal on Princeton Junior Paper research, culminating in <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251021914S/abstract">arXiv:2510.21914</a></dd>
-</dl>
 
-<dl>
-  <dt>Teaching Assistant</dt>
-  <dd>PHY 105: Advanced Physics (Mechanics, Lab), Fall 2023, Fall 2024, Fall 2025</dd>
-  <dd>PHY 104: General Physics II (Electricity and Magnetism, Lab), Spring 2023</dd>
-  <dd>PHY 115: Physics for Future Leaders, Fall 2022</dd>
-  <dd>PHY 110: General Physics II (Electricity and Magnetism), Summer 2022</dd>
-  <dd>PHY 109: Physics Methods and Applications (Mechanics), Spring 2022</dd>
-  <dd>PHY 105: Advanced Physics (Mechanics), Fall 2021</dd>
-</dl>
-
-<dl>
-  <dt>Resident Graduate Student, Butler College</dt>
-  <dd>2021 &ndash; 2022</dd>
-</dl>
-
-<br>
 ## <i class="fa-solid fa-award"></i>&ensp;Honors and Awards
 <dl>
   <dt>Kusaka Memorial Prize in Physics</dt>
