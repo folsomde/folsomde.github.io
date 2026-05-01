@@ -42,7 +42,7 @@ redirect_from: /cv
 {% endcomment %}
 
 <dl style='color: #7a7a7a'>
-  <dt>2026 &bullet; The Information Washout of the Milky Way Merger History</dt>
+  <dt>2026 &bullet; Galactic Amnesia: The Information Washout of the Milky Way Merger History</dt>
   <dd>L. Necib, <b>DF</b>, E. Davies, N. Starkman, A. Thoyas<br> 
     Appearing on arXiv in early 2026</dd>
 </dl>
@@ -146,7 +146,12 @@ redirect_from: /cv
     <i class="fa-solid fa-quote-left"></i>&ensp;Talks
   </label>
   <div class="collapsible-content">
-    <dl>
+<dl>
+  <dt> Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
+  <dd>Phenomenology Symposium &ndash; PHENO<br>
+    University of Pittsburgh, May 2026</dd>
+</dl>
+<dl>
   <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
   <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
     Center for Computational Astrophysics, January 2026</dd>
