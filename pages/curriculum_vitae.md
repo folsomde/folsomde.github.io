@@ -30,27 +30,25 @@ redirect_from: /cv
     <i class="fa-solid fa-book-medical"></i>&ensp;Research
   </label>
 <blockquote>
-  <strong style="color: #515151">At a glance:</strong> <em>Four refereed publications, two forthcoming manuscripts, five papers as lead or co-lead author.</em>
+  <strong style="color: #515151">At a glance:</strong> <em>Four refereed publications, five total papers, four as lead or co-lead author.</em>
 </blockquote>
   <div class="collapsible-content">
-{% comment %}
 <dl style='color: #7a7a7a'>
   <dt>2026 &bullet; Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
   <dd><b>DF</b>, C. Blanco, M. Lisanti<br> 
-    Appearing on arXiv in summer 2026</dd>
-</dl>
-{% endcomment %}
-
-<dl style='color: #7a7a7a'>
-  <dt>2026 &bullet; Galactic Amnesia: The Information Washout of the Milky Way Merger History</dt>
-  <dd>L. Necib, <b>DF</b>, E. Davies, N. Starkman, A. Thoyas<br> 
-    Appearing on arXiv in early 2026</dd>
+    In prepration, expected summer 2026</dd>
 </dl>
 
 <dl style='color: #7a7a7a'>
   <dt>2026 &bullet; Semi-analytic Inference of Dwarf Galaxy Densities and Implications for Dark Matter Searches</dt>
   <dd>K. Raman, <b>DF</b>, M. Kaplinghat, M. Lisanti, B. Safdi<br> 
-    Appearing on arXiv in early 2026</dd>
+    In preparation, expected spring 2026</dd>
+</dl>
+
+<dl>
+  <dt>2026 &bullet; Galactic Amnesia: The Information Washout of the Milky Way Merger History</dt>
+  <dd>L. Necib, <b>DF</b>, E. Davies, N. Starkman, A. Thoyas<br> 
+    <a href="https://arxiv.org/abs/2605.04138">arXiv:2605.04138</a>, to submit to Astrophys. J.</dd>
 </dl>
 
 <dl>
@@ -150,6 +148,11 @@ redirect_from: /cv
   <dt> Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
   <dd>Phenomenology Symposium &ndash; PHENO<br>
     University of Pittsburgh, May 2026</dd>
+</dl>
+<dl>
+  <dt>The Dark Matter Around the Milky Way</dt>
+  <dd>TIPOTS Graduate Student Colloquium<br>
+    Princeton University, May 2026</dd>
 </dl>
 <dl>
   <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
