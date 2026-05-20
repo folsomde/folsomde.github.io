@@ -17,7 +17,7 @@ comments: false
   <i class="ai ai-arxiv ai-lg" style="color:#b31b1b"></i>&nbsp;&nbsp;<b>arXiv:2510.21914</b>
 </a>
 
-<a class='button' href="https://arxiv.org/abs/2510.21914" aria-label='arXiv link' style="line-height: 1.5">
+<a class='button' href="https://doi.org/10.3847/1538-4357/ae60fd" aria-label='Journal link' style="line-height: 1.5">
   <i class="ai ai-doi fa-lg"></i>&nbsp;&nbsp;<b>Astrophys. J.</b>
 </a>
 
@@ -37,7 +37,7 @@ comments: false
 </span>
 &nbsp;&nbsp;<b>arXiv:2510.21914</b>
 </a>
-<a href="https://arxiv.org/abs/2510.21914" aria-label='Journal link' style="color: inherit;">
+<a href="https://doi.org/10.3847/1538-4357/ae60fd" aria-label='Journal link' style="color: inherit;">
 <i class="ai ai-doi ai-2x" style='vertical-align: middle;'></i>
 &nbsp;&nbsp;<b>Astrophys. J.</b>
 </a>

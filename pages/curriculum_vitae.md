@@ -54,7 +54,7 @@ redirect_from: /cv
 <dl>
   <dt>2025 &bullet; How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood</dt>
   <dd>T. Shpigel, <b>DF</b>, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
-    <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, Accepted to Astrophys. J.</dd>
+    <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, Published <a href="https://doi.org/10.3847/1538-4357/ae60fd">Astrophys. J., <b>1003</b>, 102 (2026)</a></dd>
 </dl>
 
 <dl>
