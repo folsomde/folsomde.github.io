@@ -18,10 +18,11 @@ redirect_from: /cv
   </label>
   <dl class="collapsible-content">
   <dt>Ph.D. in Physics</dt>
-  <dd>Princeton University, Princeton, NJ<br> 2020 &ndash; present</dd>
+  <dd><b>2027,</b> est. <b>&bullet;</b> Princeton University, Princeton, NJ<br>Advised by M. Lisanti</dd>
 
-  <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies<br>Minor in Computer Science</dt>
-  <dd>Vanderbilt University, Nashville, TN <br> 2016 &ndash; 2020</dd>
+  <dt>B.A. <em>cum laude</em> in Physics, Mathematics, and Classical Studies</dt> 
+  <dd><b>2020 &bullet;</b> Vanderbilt University, Nashville, TN <br>
+  Minor in Computer Science, Highest departmental honors in Physics</dd>
   </dl>
 </div>
 <div class="collapsible-container">
@@ -30,48 +31,54 @@ redirect_from: /cv
     <i class="fa-solid fa-book-medical"></i>&ensp;Research
   </label>
 <blockquote>
-  <strong style="color: #515151">At a glance:</strong> <em>Four refereed publications, five total papers, four as lead or co-lead author.</em>
+  <strong style="color: #515151">At a glance:</strong> <em>Eight total papers, four refereed publications</em>
 </blockquote>
-  <div class="collapsible-content">
-<dl style='color: #7a7a7a'>
+  <div class="collapsible-content">{% comment %} <dl style='color: #7a7a7a'> {% endcomment %}
+<dl>
   <dt>2026 &bullet; Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
-  <dd><b>DF</b>, C. Blanco, M. Lisanti<br> 
-    In prepration, expected summer 2026</dd>
+  <dd><b>DF, </b> C. Blanco, M. Lisanti, M. Vogelsberger<br> 
+    <a href="https://arxiv.org/abs/2608.00161">arXiv:2608.00161</a>, to submit to Phys. Rev. Lett.</dd>
 </dl>
 
-<dl style='color: #7a7a7a'>
-  <dt>2026 &bullet; Semi-analytic Inference of Dwarf Galaxy Densities and Implications for Dark Matter Searches</dt>
-  <dd>K. Raman, <b>DF</b>, M. Kaplinghat, M. Lisanti, B. Safdi<br> 
-    In preparation, expected spring 2026</dd>
+<dl>
+  <dt>2026 &bullet; Semi-analytic Inference of Cold Dark Matter Satellite Densities, I: Comparison to Ultra-faint Dwarf Kinematics</dt>
+  <dd>K. Raman, <b>DF, </b> M. Kaplinghat, M. Lisanti, B. Safdi<br> 
+    <a href="https://arxiv.org/abs/2607.27316">arXiv:2607.27316</a>, to submit to Astrophys. J.</dd>
+</dl>
+
+<dl>
+  <dt>2026 &bullet; Semi-analytic Inference of Cold Dark Matter Satellite Densities, II: Implications for Dark Matter Indirect Detection Constraints</dt>
+  <dd>K. Raman, <b>DF, </b> M. Kaplinghat, M. Lisanti, B. Safdi<br> 
+    <a href="https://arxiv.org/abs/2607.27326">arXiv:2607.27326</a>, to submit to Astrophys. J.</dd>
 </dl>
 
 <dl>
   <dt>2026 &bullet; Galactic Amnesia: The Information Washout of the Milky Way Merger History</dt>
-  <dd>L. Necib, <b>DF</b>, E. Davies, N. Starkman, A. Thoyas<br> 
-    <a href="https://arxiv.org/abs/2605.04138">arXiv:2605.04138</a>, to submit to Astrophys. J.</dd>
+  <dd>L. Necib, <b>DF, </b> E. Davies, N. Starkman, A. Thoyas<br> 
+    <a href="https://arxiv.org/abs/2605.04138">arXiv:2605.04138</a>, submitted to Astrophys. J.</dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood</dt>
-  <dd>T. Shpigel, <b>DF</b>, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+  <dd>T. Shpigel, <b>DF, </b> M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, Published <a href="https://doi.org/10.3847/1538-4357/ae60fd">Astrophys. J., <b>1003</b>, 102 (2026)</a></dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
-  <dd><b>DF</b>, C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+  <dd><b>DF, </b> C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2505.07924">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
 </dl>
 
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
-  <dd><b>DF</b>, M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
+  <dd><b>DF, </b> M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2408.02723">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a></dd>
 </dl>
 
 <dl>
   <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
-  <dd><b>DF</b>, O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
+  <dd><b>DF, </b> O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
     <a href="https://arxiv.org/abs/2311.05676">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">Mon. Not. R. Astron. Soc., <b>536</b>, 2891 (2025)</a></dd>
 </dl>
 
@@ -97,27 +104,34 @@ redirect_from: /cv
   <label for="teaching" class="collapsible-header">
     <i class="fa-solid fa-child-reaching"></i>&ensp;Teaching, Mentorship, and Service
   </label>
-  <div class="collapsible-content">
-    {% comment %}
+<div class="collapsible-content">
+
 <dl>
-  <dt>Instructor, Prison Teaching Initiative</dt>
+  <dt>Course Coordinator &amp; Instructor, Prison Teaching Initiative</dt>
   <dd>
-  <b>Fall 2026 &bullet;</b>
+  <b>Fall 2026 &bullet;</b> Facilitated syllabus creation, instructional team meetings, and course logistics for MATH 101 and MATH 070 at Garden State Youth Correctional Facility, for which I also volunteered as an instructor
   </dd>
 </dl>
-{% endcomment %}
 
 <dl>
   <dt>Scientific Thought and Practice Assistant, Coding Foundations of Research Internship Program</dt>
   <dd>
-  <b>Summer 2026 &bullet;</b> Will lead interns to discover the practices of scientific inquiry, to design and conduct experiments, and to develop skills of observation and critical thinking
+  <b>Summer 2026 &bullet;</b> Led interns to discover the practices of scientific inquiry, to design and conduct experiments, and to develop skills of observation and critical thinking
   </dd>
 </dl>
 
 <dl>
-  <dt>Teaching Assistantship, Princeton University Department of Physics</dt>
+  <dt>Teaching Assistant, Princeton University Department of Physics</dt>
   <dd>
-  <b>2021 &ndash; present &bullet;</b> Focusing specifically on introductory sequence labs, worked closely with the lab director to emphasize structured quantitative inquiry<br>
+
+  <b>2026 &bullet;</b> Helped develop new curricula for the Quantum Mechanics sequence, incorporating computational approaches to problem-solving and developing students' Python skills<br>
+  <ul>
+    <li> PHY 207 (From Classical to Quantum Mechanics) Fall 2026</li>
+  {% comment %}
+    <li> PHY 208 (Principles of Quantum Mechanics) Spring 2027</li>
+  {% endcomment %}
+  </ul>
+  <b>2021 &ndash; 2025 &bullet;</b> Worked closely with the lab director to emphasize structured quantitative inquiry in the first-year physics courses<br>
   <ul>
     <li> PHY 105 Lab (Advanced Physics, Mechanics) Fall 2023, 2024, 2025</li>
     <li> PHY 104 Lab (General Physics II, Electricity and Magnetism) Spring 2023</li>
@@ -127,7 +141,7 @@ redirect_from: /cv
 </dl>
 
 <dl>
-  <dt>Undergraduate Mentees</dt>
+  <dt>Undergraduate Mentor</dt>
   <dd><b>2024 &ndash; 2026 &bullet; Tal Shpigel</b>, Advised during his OURSIP internship project, "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>), which culminated in his Princeton Junior Paper and a publication, <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a></dd>
 </dl>
 
