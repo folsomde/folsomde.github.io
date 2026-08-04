@@ -8,7 +8,7 @@ tags:
   - Research
   - Simulations
 permalink: /:categories/how_to_build_fv
-excerpt: This paper shows how to leverage <i>ex situ</i> stellar kinematics as tracers for the speed distribution of accreted dark matter. This allows us to go beyond the simple Maxwell&ndash;Boltzmann approximation by folding in knowledge about a galaxy's assembly history. We apply this to the Milky Way itself, using <i>Gaia</i> data to quantify how modeling the dark matter from the GSE merger impacts the inferred speed distribution. 
+excerpt: Accreted stellar populations carry information about the mergers that contributed them. This allows us to go beyond the simple Maxwell&ndash;Boltzmann approximation for dark matter speeds by folding in knowledge about a galaxy's assembly history. We quantify the relationship between accreted stellar and dark matter velocities, then apply this to the Milky Way itself, using <i>Gaia</i> data to determine how modeling the dark matter from the GSE merger impacts the inferred speed distribution. 
 comments: false
 ---
 {% comment %}
