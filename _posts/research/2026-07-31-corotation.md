@@ -38,6 +38,6 @@ We use a sample of nearly one hundred Milky Way&ndash;like galaxies from the `TN
 This uncertainty is not irreducible, however: it is strongly correlated with the rotational velocity. If studies of the Milky Way's formation history determine the rotation speed, this astrophysical uncertainty is reduced to 7%.
 
 <figure>
-  <img src="/assets/research/2607_thumb.png" alt="Dark matter speed distributions, colored by the corotation speed">
+  <img src="/assets/research/2608_thumb.png" alt="Dark matter speed distributions, colored by the corotation speed">
   <figcaption class='message'>Geocentric speed distributions for dark matter in the solar neighborhood. The <code>TNG50</code> halos are colored by the median dark matter azimuthal velocity. Halos with stronger corotation (blue) exhibit slower geocentric speeds. Halos that rotate in the opposite direction from the baryonic disk (red) have a headwind from this rotation, boosting the geocentric speeds relative to the standard halo model (dashed black).</figcaption>
 </figure>
