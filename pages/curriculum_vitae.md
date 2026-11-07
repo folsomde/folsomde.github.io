@@ -49,7 +49,7 @@ redirect_from: /cv
 <dl>
   <dt>2026 &bullet; Semi-analytic Inference of Cold Dark Matter Satellite Densities, II: Implications for Dark Matter Indirect Detection Constraints</dt>
   <dd>K. Raman, <b>DF, </b> M. Kaplinghat, M. Lisanti, B. Safdi<br> 
-    <a href="https://arxiv.org/abs/2607.27326">arXiv:2607.27326</a>, to submit to Astrophys. J.</dd>
+    <a href="https://arxiv.org/abs/2607.27326">arXiv:2607.27326</a>, to submit to Phys. Rev. D</dd>
 </dl>
 
 <dl>
@@ -109,7 +109,7 @@ redirect_from: /cv
 <dl>
   <dt>Course Coordinator &amp; Instructor, Prison Teaching Initiative</dt>
   <dd>
-  <b>Fall 2026 &bullet;</b> Facilitated syllabus creation, instructional team meetings, and course logistics for MATH 101 and MATH 070 at Garden State Youth Correctional Facility, for which I also volunteered as an instructor
+  <b>Fall 2026 &bullet;</b> Facilitated syllabus creation, instructional team meetings, and course logistics for MATH 101/070 (Number Systems with Review) at Garden State Youth Correctional Facility, where I also volunteered as an instructor
   </dd>
 </dl>
 
@@ -142,7 +142,7 @@ redirect_from: /cv
 
 <dl>
   <dt>Undergraduate Mentor</dt>
-  <dd><b>2024 &ndash; 2026 &bullet; Tal Shpigel</b>, Advised during his OURSIP internship project, "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>), which culminated in his Princeton Junior Paper and a publication, <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a></dd>
+  <dd><b>2024 &ndash; 2026 &bullet; Tal Shpigel</b>, Advised during his OURSIP internship project, "Stellar Tracers of Dark Matter Kinematics in GSE-like Mergers from the IllustrisTNG Simulation" (see <a href="https://mediacentral.princeton.edu/media/OURSIP+Intern+-+Tal+Shpigel/1_htcbj25u">his colloquium here!</a>), which culminated in his Princeton Junior Paper and a publication, <a href="https://doi.org/10.3847/1538-4357/ae60fd">Astrophys. J., <b>1003</b>, 102 (2026)</a></dd>
 </dl>
 
 <dl>
@@ -158,18 +158,36 @@ redirect_from: /cv
     <i class="fa-solid fa-quote-left"></i>&ensp;Talks
   </label>
   <div class="collapsible-content">
+<blockquote>
+  <strong style="color: #515151">Invited talks </strong><em>are indicated with an asterisk:</em>&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i>
+</blockquote>
+<dl>
+  <dt>Definitively Tracing Dark Matter in the Local Universe&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dd>Gravity, Astroparticle, and Particle Physics Seminar<br>
+    The Pennsylvania State University, November 2026</dd>
+</dl>
+<dl>
+  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dd>New High Energy Theory Center Seminar<br>
+    Rutgers University, October 2026</dd>
+</dl>
+<dl>
+  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dd>Center for Neutrino Physics Seminar<br>
+    Virginia Polytechnic Institute and State University, September 2026</dd>
+</dl>
 <dl>
   <dt> Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
   <dd>Phenomenology Symposium &ndash; PHENO<br>
     University of Pittsburgh, May 2026</dd>
 </dl>
 <dl>
-  <dt>The Dark Matter Around the Milky Way</dt>
+  <dt>The Dark Matter Around the Milky Way&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>TIPOTS Graduate Student Colloquium<br>
     Princeton University, May 2026</dd>
 </dl>
 <dl>
-  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
+  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
     Center for Computational Astrophysics, January 2026</dd>
 </dl>
