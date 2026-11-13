@@ -4,7 +4,7 @@ layout: post
 categories:
   - Notes
 tags:
-  - Galactic Dynamics
+  - Galactic dynamics
   - Research
   - Notes
 permalink: /:categories/jeans

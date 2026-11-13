@@ -7,6 +7,7 @@ tags:
   - Papers
   - Research
   - Semianalytics
+  - Dwarf densities
 permalink: /:categories/semianalytic_modeling
 excerpt: It can be difficult to extrapolate from observed properties of dwarf galaxies to properties of their dark matter halos. I propose a procedure to do this using the <code>SatGen</code> semi-analytic model, which efficiently samples over astrophysical uncertainties such as the stellar mass&ndash;halo mass relation and baryonic feedback perscriptions. This approach provides realistic correlated uncertainties and aids interpretability beyond simple empirical scaling relations. The method is easily extensible and my code is publicly available.
 comments: false

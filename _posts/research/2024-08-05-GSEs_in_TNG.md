@@ -7,6 +7,7 @@ tags:
   - Papers
   - Research
   - Simulations
+  - Galactic archaeology
 permalink: /:categories/GSEs_in_TNG
 excerpt: I search Milky Way&ndash;like galaxies in <code>TNG50</code> for mergers that resemble the GSE&mdash;our most recent major merger&mdash;and find them a third of the time. I allow for the GSE to be comprised of two mergers, rather than necessarily being a single merger, and these pairs account for approimately a third of the GSEs. It's hard to tell single-merger GSEs apart from two-merger GSEs, except that the single mergers are typically accreted more recently.
 comments: false

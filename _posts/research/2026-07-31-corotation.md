@@ -7,6 +7,8 @@ tags:
   - Papers
   - Research
   - Simulations
+  - DM velocity
+  - Direct detection
 permalink: /:categories/corotation
 excerpt: "I show that the halo-to-halo variance that sets the astrophysical uncertainty in direct detection limits is not irreducible, but instead depends on a measurable property of the Milky Way: the rotational velocity of the dark halo. Dark matter halos generically rotate with the baryonic disk, and the degree of this rotation correlates strongly with the expected signal rates in terrestrial detectors."
 comments: false

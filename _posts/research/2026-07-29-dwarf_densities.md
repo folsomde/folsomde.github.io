@@ -7,6 +7,8 @@ tags:
   - Papers
   - Research
   - Semianalytics
+  - Dwarf densities
+  - Indirect detection
 permalink: /:categories/dwarf_densities
 excerpt: In Part I of this series, we show a discrepancy between UFD velocity dispersions and expectations for these kinematics from their luminosities. In Part II, we explore the implications of this for the indirect detection of dark matter, showing that it results in a factor of 2&ndash;4 uncertainty in the upper limits for the annihilation cross section.
 comments: false
