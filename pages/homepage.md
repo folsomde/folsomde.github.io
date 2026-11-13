@@ -9,8 +9,8 @@ permalink: /
 
 
 I am in the final year of my PhD at Princeton University, where I work with [Mariangela Lisanti](https://phy.princeton.edu/people/mariangela-lisanti). 
-I'm interested broadly in the physics of dwarf galaxies, galactic dynamics, and how these inform the study of dark matter around our Galaxy.
-In particular, I use computational methods to study Milky Way satellites, Galactic archaeology, and (in)direct detection of dark matter. 
+I am interested broadly in dark matter in the local Universe, with a research program that uses computational tools to bridge the gap between observation, astrophysical theory, and the particle physics of dark matter. 
+In particular, I use simulations and semi-analytic models to study galactic dynamics, the Milky Way's satellites, and Galactic archaeology, linking these to particle physics constraints via the direct and indirect detection of dark matter.
 
 <br>
 ## Want to learn more?
