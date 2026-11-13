@@ -11,10 +11,12 @@ My research broadly aims to uncover what we can learn about the dark matter in o
 
 ## Publications
 
-In the feed below, you can find a summary post for each paper I've led or co-led. See the posts themselves for more details, or view my full publication record on the following databases:
+In the feed below, you can find a summary post for each paper I've led or co-led. 
+<!-- You may also browse by tag&nbsp;&nbsp;<a href='/tags'><i class='fa-solid fa-tag'></i>&nbsp;<strong>here.</strong></a>  -->
+See the posts themselves for more details, or view my full publication record on the following databases:
 
 <div style="justify-content: space-evenly;display: flex;flex-flow: row wrap;">
-{% comment %}<a class="button" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1544-1381&sort=date+desc" aria-label='NASA/ADS'>
+{% comment %}<a class="button" href="https://scixplorer.org/search?q=orcid:0000-0002-1544-1381&sort=date+desc" aria-label='NASA/ADS'>
 	<i class="fa fa-search" style='transform:scaleX(-1)'></i>&nbsp;&nbsp;<b>NASA/ADS</b>
 </a>
 {% endcomment %}
