@@ -159,20 +159,20 @@ redirect_from: /cv
   </label>
   <div class="collapsible-content">
 <blockquote>
-  <strong style="color: #515151">Invited talks </strong><em>are indicated with an asterisk:</em>&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i>
+  <strong style="color: #515151">Invited talks </strong><em>are indicated with an asterisk:</em>&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>
 </blockquote>
 <dl>
-  <dt>Definitively Tracing Dark Matter in the Local Universe&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt>Definitively Tracing Dark Matter in the Local Universe&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>Gravity, Astroparticle, and Particle Physics Seminar<br>
     The Pennsylvania State University, November 2026</dd>
 </dl>
 <dl>
-  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>New High Energy Theory Center Seminar<br>
     Rutgers University, October 2026</dd>
 </dl>
 <dl>
-  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>Center for Neutrino Physics Seminar<br>
     Virginia Polytechnic Institute and State University, September 2026</dd>
 </dl>
@@ -182,12 +182,12 @@ redirect_from: /cv
     University of Pittsburgh, May 2026</dd>
 </dl>
 <dl>
-  <dt>The Dark Matter Around the Milky Way&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt>The Dark Matter Around the Milky Way&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>TIPOTS Graduate Student Colloquium<br>
     Princeton University, May 2026</dd>
 </dl>
 <dl>
-  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection&puncsp;<i class="fa-solid fa-asterisk" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
   <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
     Center for Computational Astrophysics, January 2026</dd>
 </dl>
