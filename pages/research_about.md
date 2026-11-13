@@ -3,16 +3,19 @@ layout: page
 title: About my research
 permalink: /research/about
 ---
+<a name="top"></a>
 
-<div class = "message">
+<div class = "message" style="background-color: #FFFFDF;">
 <h3 style='margin-top:0.25rem'><i class="fa-duotone fa-solid fa-triangle-exclamation"></i> Warning!</h3> This page is still under construction. Feel free to read what's here now, but check back soon to see it all polished up.
 </div>
 
-The fundamental aim of my research is to better understand the Universe around us. In particular, we think that everything we can see, all the "normal stuff," (what astrophysicists call "baryonic matter") is only a small fraction of what's actually present around us. The rest of the matter in the Universe is given the label "dark matter." I study dark matter in and around the Milky Way galaxy&mdash;where we live&mdash;and the satellite galaxies that are in orbit around the Milky Way. Throughout this page, I've included links to&nbsp;&nbsp;<a href='/tags#papers'><i class='fa-solid fa-tag'></i>&nbsp;<strong>my papers</strong></a>, which you can follow to read about my specific contributions.
+The fundamental aim of my research is to better understand the Universe around us. In particular, we think that everything we can see, all the "normal stuff," (what astrophysicists call "baryonic matter") is only a small fraction of what's actually present around us. The rest of the matter in the Universe is given the label "dark matter." I study dark matter in and around the Milky Way galaxy&mdash;where we live&mdash;and the satellite galaxies that are in orbit around the Milky Way. Keep reading for some background about our Galaxy and dark matter, or jump ahead to read about <a href='#my-research'><strong>my specific research questions.</strong></a>
+
+Throughout this page, I've included links to&nbsp;&nbsp;<a href='/tags#papers'><i class='fa-solid fa-tag'></i>&nbsp;<strong>my papers</strong></a>, which you can follow to read about my specific contributions. 
 
 
 <div class="collapsible-container">
-  <input type="checkbox" id="background" class="collapsible-input">
+  <input type="checkbox" id="background" class="collapsible-input" checked>
   <label for="background" class="collapsible-header">
     <i class="fa-solid fa-landmark"></i>&ensp;Background: Things we know
   </label>
@@ -38,7 +41,7 @@ The fundamental aim of my research is to better understand the Universe around u
 <p>This means that there's dark matter all around us! I'm especially interested in what we can learn about dark matter by observing the nearby Universe, specifically within the Milky Way itself and by looking at the satellite galaxies nearby us. In the next section, I describe exactly how I'm doing this.</p>
 </div></div>
 
-<a name="toc"></a>
+<a name="my-research"></a>
 <div class="collapsible-container">
   <input type="checkbox" id="research" class="collapsible-input" checked>
   <label for="research" class="collapsible-header">
@@ -53,14 +56,14 @@ The fundamental aim of my research is to better understand the Universe around u
   <li><a href='#satellites'><b>Satellite modeling:</b> How can we better understand accreted dark matter halos?</a></li>
 </ul>
 <!-- </div> -->
-<h3>Direct detection<a name="direct-detection" href='#toc'>↩</a></h3>
+<h3>Direct detection<a name="direct-detection" href='#my-research'>↩</a></h3>
 <p>Scientists are still trying to figure out more about dark matter. For example, we'd love to know if it is completely collisionless&mdash;never bumping into itself or into us&mdash;or if it has some sort of interactions. There are good reasons to expect interactions (for example, the fact that there's similar amounts of dark matter and normal stuff is way easier to explain if there are interactions between the two), but we haven't seen concrete evidence of these interactions yet.</p>
 <p>One way that we're searching for these interactions is &nbsp;&nbsp;<a href='/tags#direct-detection'><i class='fa-solid fa-tag'></i>&nbsp;<strong>direct detection</strong></a>, essentially setting up some apparatus in a lab (often a giant vat of some liquid) and waiting for dark matter to run into it. We then constantly monitor the material in the detector to see if it gets bumped by dark matter passing through the lab. There are two properties of dark matter that affect our chances of seeing it this way that are hard to tell apart: the interaction probability and the dark matter's speed. </p>
 <p>When a dark matter particle enters the detector, it has some small chance to bump into each drop of liquid in the detector. If we don't see anything, one possible explanation is that those chances are just too slim, and it passed through the detector without ever bumping into anything. We describe this interaction probability as a "cross section," and it's analogous to an actual size. If the dark matter&ndash;detector cross section is small, it's like playing darts with a microscopic dartboard: it's very unlikely for any of the dark matter "darts" to actually hit the detector's "dartboard."</p>
 <p>However, there is another possible explanation: maybe a dark matter particle <em>did</em> interact with the detector, but it didn't manage to bump it hard enough for us to notice. The metaphorical dartboard could be huge, but the darts are invisible! If they don't impact the detector hard enough, we'd never be able to tell. The ability to deposit energy in the detector depends on how fast the dark matter is going as it passes through the Earth. Therefore, to truly understand what the cross section is, we also need to understand the&nbsp;&nbsp;<a href='/tags#dm-velocity'><i class='fa-solid fa-tag'></i>&nbsp;<strong>DM velocity</strong></a>, which is one key branch of my research.</p>
 
 
-<h3>Galactic archaeology<a name="archaeology" href='#toc'>↩</a></h3>
+<h3>Galactic archaeology<a name="archaeology" href='#my-research'>↩</a></h3>
 <p>We know that the Milky Way, like all galaxies, has emerged as the result of a complex series of galaxy mergers. Other galaxies have been caught in our gravitational pull, and deposited their material as they merge with our own (see below for a video!). The field of&nbsp;&nbsp;<a href='/tags#galactic-archaeology'><i class='fa-solid fa-tag'></i>&nbsp;<strong>Galactic archaeology</strong></a> aims to uncover the history of this process. We want to work out exactly how our Galaxy assembled: when did mergers happen, how much material did they contribute, what were their orbits like, and so on? When we look at the stars, we have identified some that were not formed in the Milky Way. These stars were accreted during these historical mergers, and they serve as a fossil record by which we can determine our Galaxy's past.</p>
 <figure style="display:inline-grid">
 <video width="100%" controls>
@@ -71,30 +74,30 @@ The fundamental aim of my research is to better understand the Universe around u
 <p>A better understanding of the assembly history also gives us insight into the current state of the dark matter halo. This is because infalling galaxies deposit their stars in the Milky Way (which lets us know that the merger happened), but they also deposit dark matter. Since both stars and dark matter were deposited as part of the same merger process, they retain similar orbital properties as a result. This means if we can work out the trajectories of the deposited stars, that gives us information about how the dark matter might be distributed.</p>
 <p>There are many telescopes&mdash;both on the ground and in space&mdash;that are actively helping us measure the properties of accreted stars. As these data are collected, I am working to determine what this accreted material tells us about the dark matter that gets left near Earth, both in terms of how much of it there is (its local density) and how fast it's moving (the&nbsp;&nbsp;<a href='/tags#dm-velocity'><i class='fa-solid fa-tag'></i>&nbsp;<strong>DM velocity</strong></a>), tying this thread of research back to the direct detection of dark matter discussed above.</p>
 
-<h3>Indirect detection<a name="indirect-detection" href='#toc'>↩</a></h3>
+<h3>Indirect detection<a name="indirect-detection" href='#my-research'>↩</a></h3>
 <p>Detecting dark matter in a lab on Earth requires a lot of R&D work. We need to design a detector to catch the particles, pay to build it, and then constantly monitor it for signs of dark matter running into it. However, we can also use the laboratories that nature has provided us: galaxies! Small galaxies especially are dark matter&ndash;rich, with hundreds or thousands of times more dark matter than stars. We can leverage these dense pockets of dark matter to measure the interactions between dark matter and normal matter.</p>
-<p>The central idea of this field is that whenever you bring two dark matter particles close together, they have a chance to interact with each other, perhaps producing something visible in their collision. Because there is <i>so much</i> dark matter present in the centers of dwarf galaxies, there are many, many chances for such an interaction to occur. <a href='/tags#indirect-detection'><i class='fa-solid fa-tag'></i>&nbsp;<strong>Indirect detection</strong></a> is the search for these signals in the Universe at large, looking for the effects of dark matter converting into visible material in any ways we can. I'm especially interested in indirect detection via dwarf galaxies, but there are many other clever ways scientists have studied for the products of these dark matter reactions.</p>
+<p>The central idea of this field is that whenever you bring two dark matter particles close together, they have a chance to interact with each other, perhaps producing something visible in their collision. Because there is <em>so much</em> dark matter present in the centers of dwarf galaxies, there are many, many chances for such an interaction to occur. <a href='/tags#indirect-detection'><i class='fa-solid fa-tag'></i>&nbsp;<strong>Indirect detection</strong></a> is the search for these signals in the Universe at large, looking for the effects of dark matter converting into visible material in any ways we can. I'm especially interested in indirect detection via dwarf galaxies, but there are many other clever ways scientists have studied for the products of these dark matter reactions.</p>
 <p>The amount of visible material that we expect to be produced in dwarf galaxies depends strongly on the structure of the dwarf galaxy dark matter halo: if the halo is very dense, there are more chances for the dark matter particles to run into each other, so we expect more visible signal. If the halo is diffuse, this becomes less likely, and it's less surprising if we don't see a distinct glow. Therefore, we can only determine the properties of dark matter this way if we really understand the structure of the satellite galaxy halos, discussed below.</p>
 
 
-<h3>Satellite modeling<a name="satellites" href='#toc'>↩</a></h3>
-
+<h3>Satellite modeling<a name="satellites" href='#my-research'>↩</a></h3>
+<p style="margin-left: 2em;"><i class="fa-duotone fa-solid fa-triangle-exclamation"></i> Coming soon...</p>
 
 </div></div>
 
 {% comment %}
-### What is the Milky Way? <a name="MW" href='#toc'>↩</a>
+### What is the Milky Way? <a name="MW" href='#my-research'>↩</a>
 {: style='margin-top: 0'}
 <figure>
   <iframe width="100%" src="https://player.vimeo.com/video/370153200" frameborder="0" allowfullscreen="" style="aspect-ratio: 16/9;"></iframe>
   <figcaption class='message'>This video starts at the location of the Sun inside the Milky Way, looking toward the Galactic center. The camera then moves outward to show the Galaxy as a whole, and includes some of the neighboring dwarf galaxies! In the video, you can see the Galaxy's disk, which is made up of gas and dust and stars.<br><small><i>Animation by Stefan Payne-Wardenaar</i></small></figcaption>
 </figure>
-### What is dark matter? <a name="DM" href='#toc'>↩</a>
+### What is dark matter? <a name="DM" href='#my-research'>↩</a>
 By the 1970s, we had telescopes that were good enough to measure how fast stars move in galaxies like the Milky Way. An influential paper by [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin) showed that these stars are moving faster than expected, which means that they are experiencing a stronger gravitational pull than they should&mdash;there's more stuff in a galaxy than what we can see. Since this extra stuff is invisible (it gives off no light), it was given the name "dark matter." The dark matter provides the extra gravitational pull that moves these stars around. This is pretty much all we know must be true of dark matter; it has to be dark, and it has to have a gravitational pull. There also needs to be enough of it to explain the excess gravitational force we see: there is about five times as much dark matter as normal matter.
 
 The current understanding is that in the very early Universe, dark matter started to clump together through its gravitational pull. These clumps, or "halos," then pulled in gas, which eventually formed the galaxies that we see today. This means every galaxy sits in the middle of one of these dark matter halos. The Milky Way's halo is about ten times the size of the galaxy itself!
 
-#### Disambiguation: What *isn't* dark matter? <a name="others" href='#toc'>↩</a>
+#### Disambiguation: What *isn't* dark matter? <a name="others" href='#my-research'>↩</a>
 {: style='color:#515151'}
 Scientists aren't great at naming things, and the terminology can get a little confusing. In particular, dark matter often gets confused with
 
@@ -108,7 +111,7 @@ Black holes don't give off light,[^hawking] and they do exert a gravitational pu
 [^cosmo]: This is another topic of active debate: in 2025, the Dark Energy Spectroscopic Instrument (DESI) released data that suggest the actual nature of dark energy doesn't quite agree with the cosmological constant model. Cosmologists are trying to figure out what models best describe these data.
 [^hawking]: Black holes do glow *super* faintly (too faintly to actually be visible) through a process called [Hawking radiation](https://en.wikipedia.org/wiki/Hawking_radiation), and if the black hole is surrounded by an [accretion disk](https://en.wikipedia.org/wiki/Accretion_disk) of gas and dust, that material can give off light too. This is actually quite common in galaxies, where a central black hole causes a ton of energy to be emitted: we call these [active galactic nuclei](https://en.wikipedia.org/wiki/Active_galactic_nucleus).
 
-### Can we detect dark matter? <a name="detection" href='#toc'>↩</a>
+### Can we detect dark matter? <a name="detection" href='#my-research'>↩</a>
 The precise properties of dark matter are still undetermined. It doesn't seem to interact through any of the forces except gravity. This means we haven't seen light from it or touched it directly; we can only tell it's there because of its gravitational pull. Even then, it takes a lot of dark matter before we start to notice, and we have only seen its effects on very large structures in the Universe like galaxies. If dark matter does ever interact with normal matter, it must do so very rarely, since we haven't noticed any concrete evidence of this yet. 
 
 We're still trying to make sure of this, though: the theory behind particle physics tells us it's pretty strange for something to be *completely* noninteracting. There are good reasons from the theory to expect that it does still interact with normal matter, just very weakly. For this reason, scientists are trying to detect these interactions. 
@@ -118,7 +121,7 @@ There are three main ways we could notice interactions between dark matter and n
   2. We might **directly detect** dark matter by setting up a big tank in a lab with a high concentration of normal matter. Even though it's unlikely for dark matter to interact with any individual atom, we can cram a bunch of normal matter into a detector to maximize the chances for an interaction. We can then look for signs that dark matter bumped into one of the atoms in the detector.
   3. We can also **indirectly detect** dark matter "decay" or "annihilation." Just like how normal matter might convert into dark matter in a collider, it's possible for dark matter to convert into normal stuff, especially if there's a lot of dark matter around, like there is surrounding galaxies. The dark matter around the Milky Way might give off a faint glow of visible light through these processes.
 
-## What is my contribution to this? <a name="my research" href='#toc'>↩</a>
+## What is my contribution to this? <a name="my research" href='#my-research'>↩</a>
 My research has applications to direct and indirect detection, which I'll explain  
 I study dark matter through the evolution of galaxies and the halos they live in. The Milky Way, like all galaxies, assembled hierarchically. That means that it grows by accreting other, smaller galaxies; these "dwarf galaxies" get pulled in by the Milky Way's gravity until they eventually merge completely with it. These galaxies all live in their own dark matter halos, and so the Milky Way accretes their dark matter too.
 <!-- <iframe width="100%" src="https://www.youtube.com/embed/O674AZ_UKZk" frameborder="0" allowfullscreen="" style="aspect-ratio: 16/9;"></iframe> -->
