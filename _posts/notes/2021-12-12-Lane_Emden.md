@@ -4,9 +4,9 @@ layout: post
 categories:
   - Notes
 tags:
+  - Notes
   - Galactic Dynamics
   - Research
-  - Notes
 permalink: /:categories/lane_emden
 excerpt: "Very very very under construction"
 comments: false

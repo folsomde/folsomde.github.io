@@ -4,9 +4,9 @@ layout: post
 categories:
   - Notes
 tags:
+  - Notes
   - Galactic dynamics
   - Research
-  - Notes
 permalink: /:categories/jeans
 excerpt: "Essentially a highlight reel of Binney & Tremaine Chapter 4"
 comments: false

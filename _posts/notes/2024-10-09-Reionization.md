@@ -4,9 +4,9 @@ layout: post
 categories:
   - Notes
 tags:
+  - Notes
   - Cosmology
   - Research
-  - Notes
 permalink: /:categories/thermal_history
 excerpt: "Very very very under construction"
 comments: false

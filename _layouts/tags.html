@@ -36,7 +36,7 @@ layout: page
             <h3>
               <a href="{{ post.url | relative_url }}">
                 {{ post.title }}
-                <small>{{ post.date | date:"%B %Y" }}</small>
+                <small>{{ post.tags | find_exp:"t", "t != tag"}} &bullet; {{ post.date | date:"%B %Y" }}</small>
               </a>
             </h3>
           </li>

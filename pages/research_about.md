@@ -12,7 +12,7 @@ The fundamental aim of my research is to better understand the Universe around u
 
 
 <div class="collapsible-container">
-  <input type="checkbox" id="background" class="collapsible-input" checked>
+  <input type="checkbox" id="background" class="collapsible-input">
   <label for="background" class="collapsible-header">
     <i class="fa-solid fa-landmark"></i>&ensp;Background: Things we know
   </label>
@@ -28,8 +28,8 @@ The fundamental aim of my research is to better understand the Universe around u
 <p>The current understanding is that all galaxies are embedded in "halos" of dark matter, huge clouds of material extending many times the size of the galaxy. These halos form early on in the Universe's history, and their gravity pulls together the gas that eventually forms the galaxies we see today. For a sense of scale, a picture of a simulated Milky Way-like galaxy is included below, where you can see the stars toward the center of the image (including a satellite galaxy in the upper right!). Hovering over the image reveals the halo of dark matter surrounding everything.</p>
 
 <figure style='margin-top: 2rem;'>
-<img src='/assets/research/Stellar-density.png' onmouseover="this.src='/assets/research/DM-density.png';" onmouseout="this.src='/assets/research/Stellar-density.png';" />
-  <figcaption class='message'>A computer-generated figure of a galaxy similar to the Milky Way. By default, the image shows the location of the galaxy's stars (blue-green being fewer stars per pixel and orange-red being more). If you hover over the image, you will see the dark matter distribution. The dark matter "halo" is much larger than the galaxy! You can also see smaller clumps of stars and dark matter, corresponding to satellite objects caught in the gravitational pull of this central host.
+<img style='margin:0' src='/assets/research/Stellar-density.png' onmouseover="this.src='/assets/research/DM-density.png';" onmouseout="this.src='/assets/research/Stellar-density.png';" />
+<figcaption class='message'>A computer-generated figure of a galaxy similar to the Milky Way. By default, the image shows the location of the galaxy's stars (blue-green being fewer stars per pixel and orange-red being more). If you hover over the image, you will see the dark matter distribution. The dark matter "halo" is much larger than the galaxy! You can also see smaller clumps of stars and dark matter, corresponding to satellite objects caught in the gravitational pull of this central host.
   <!-- Furthermore, there are some satellite galaxies around the central host: there's one currently merging with the host, very close to the disk, and another in the top right of the image. There are many more clumps of dark matter than just these two; these clumps either host very faint galaxies or are too small to have formed stars at all -->
   <br>
   <small><i>Data from the <code>TNG50</code> simulation</i></small></figcaption>
@@ -62,14 +62,21 @@ The fundamental aim of my research is to better understand the Universe around u
 
 <h3>Galactic archaeology<a name="archaeology" href='#toc'>↩</a></h3>
 <p>We know that the Milky Way, like all galaxies, has emerged as the result of a complex series of galaxy mergers. Other galaxies have been caught in our gravitational pull, and deposited their material as they merge with our own (see below for a video!). The field of&nbsp;&nbsp;<a href='/tags#galactic-archaeology'><i class='fa-solid fa-tag'></i>&nbsp;<strong>Galactic archaeology</strong></a> aims to uncover the history of this process. We want to work out exactly how our Galaxy assembled: when did mergers happen, how much material did they contribute, what were their orbits like, and so on? When we look at the stars, we have identified some that were not formed in the Milky Way. These stars were accreted during these historical mergers, and they serve as a fossil record by which we can determine our Galaxy's past.</p>
-<figure>
+<figure style="display:inline-grid">
 <video width="100%" controls>
-  <source  src="https://www.tng-project.org/movies/tng/tng50_single_galaxy_formation_g1_1080p_clean_stars.mp4">
-    Video not supported.
-</video>
+  <source  src="https://www.tng-project.org/movies/tng/tng50_single_galaxy_formation_g1_1080p_clean_stars.mp4">Video not supported.</video>
 <figcaption class='message'>A simulation of a galaxy forming. I've set the video to start pretty late into the simulation (feel free to rewind to check out the beginning, though!) when the stars have settled into a disk. You can occasionally see this galaxy accrete satellites; at around 1:03 one of its satellites makes a flyby before coming back to finally merge around 1:12&ndash;1:20<br><small><i>Video by the TNG Collaboration: see more <a href="https://www.tng-project.org/media/">here</a></i></small></figcaption>
 </figure>
+
+<p>A better understanding of the assembly history also gives us insight into the current state of the dark matter halo. This is because infalling galaxies deposit their stars in the Milky Way (which lets us know that the merger happened), but they also deposit dark matter. Since both stars and dark matter were deposited as part of the same merger process, they retain similar orbital properties as a result. This means if we can work out the trajectories of the deposited stars, that gives us information about how the dark matter might be distributed.</p>
+<p>There are many telescopes&mdash;both on the ground and in space&mdash;that are actively helping us measure the properties of accreted stars. As these data are collected, I am working to determine what this accreted material tells us about the dark matter that gets left near Earth, both in terms of how much of it there is (its local density) and how fast it's moving (the&nbsp;&nbsp;<a href='/tags#dm-velocity'><i class='fa-solid fa-tag'></i>&nbsp;<strong>DM velocity</strong></a>), tying this thread of research back to the direct detection of dark matter discussed above.</p>
+
 <h3>Indirect detection<a name="indirect-detection" href='#toc'>↩</a></h3>
+<p>Detecting dark matter in a lab on Earth requires a lot of R&D work. We need to design a detector to catch the particles, pay to build it, and then constantly monitor it for signs of dark matter running into it. However, we can also use the laboratories that nature has provided us: galaxies! Small galaxies especially are dark matter&ndash;rich, with hundreds or thousands of times more dark matter than stars. We can leverage these dense pockets of dark matter to measure the interactions between dark matter and normal matter.</p>
+<p>The central idea of this field is that whenever you bring two dark matter particles close together, they have a chance to interact with each other, perhaps producing something visible in their collision. Because there is <i>so much</i> dark matter present in the centers of dwarf galaxies, there are many, many chances for such an interaction to occur. <a href='/tags#indirect-detection'><i class='fa-solid fa-tag'></i>&nbsp;<strong>Indirect detection</strong></a> is the search for these signals in the Universe at large, looking for the effects of dark matter converting into visible material in any ways we can. I'm especially interested in indirect detection via dwarf galaxies, but there are many other clever ways scientists have studied for the products of these dark matter reactions.</p>
+<p>The amount of visible material that we expect to be produced in dwarf galaxies depends strongly on the structure of the dwarf galaxy dark matter halo: if the halo is very dense, there are more chances for the dark matter particles to run into each other, so we expect more visible signal. If the halo is diffuse, this becomes less likely, and it's less surprising if we don't see a distinct glow. Therefore, we can only determine the properties of dark matter this way if we really understand the structure of the satellite galaxy halos, discussed below.</p>
+
+
 <h3>Satellite modeling<a name="satellites" href='#toc'>↩</a></h3>
 
 

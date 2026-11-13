@@ -4,9 +4,9 @@ layout: post
 categories:
   - Notes
 tags:
+  - Notes
   - Dark Matter
   - Research
-  - Notes
 permalink: /:categories/scattering
 excerpt: "Unwritten so far"
 comments: false
