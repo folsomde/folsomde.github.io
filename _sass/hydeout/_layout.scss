@@ -24,11 +24,14 @@
   and then fill in the .container or .content elements depending on how far
   we want the sidebar or header to stretch.
 */
+:root {
+  --star-data: url("/assets/starchart.svg");
+}
 
 body {
   background-attachment: fixed;
   background-color: variables.$sidebar-bg-color;
-  background-image: linear-gradient(to bottom, color.adjust(variables.$sidebar-bg-color, $lightness: 7%), color.adjust(variables.$sidebar-bg-color, $lightness: -7%));
+  background-image: linear-gradient(to bottom, color.adjust(variables.$sidebar-bg-color, $lightness: 7%, $alpha: -0.7), color.adjust(variables.$sidebar-bg-color, $lightness: -7%)), var(--star-data, none);
   color: variables.$sidebar-text-color;
   display: flex;
   flex-direction: column;
