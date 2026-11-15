@@ -36,49 +36,49 @@ redirect_from: /cv
   <div class="collapsible-content">{% comment %} <dl style='color: #7a7a7a'> {% endcomment %}
 <dl>
   <dt>2026 &bullet; Ubiquitous Corotation of Dark Matter Halos: Implications for Direct Detection</dt>
-  <dd><b>DF, </b> C. Blanco, M. Lisanti, M. Vogelsberger<br> 
+  <dd><b>DF, </b>&nbsp;C. Blanco, M. Lisanti, M. Vogelsberger<br> 
     <a href="https://arxiv.org/abs/2608.00161">arXiv:2608.00161</a>, to submit to Phys. Rev. Lett.</dd>
 </dl>
 
 <dl>
   <dt>2026 &bullet; Semi-analytic Inference of Cold Dark Matter Satellite Densities, I: Comparison to Ultra-faint Dwarf Kinematics</dt>
-  <dd>K. Raman, <b>DF, </b> M. Kaplinghat, M. Lisanti, B. Safdi<br> 
+  <dd>K. Raman, <b>DF, </b>&nbsp;M. Kaplinghat, M. Lisanti, B. Safdi<br> 
     <a href="https://arxiv.org/abs/2607.27316">arXiv:2607.27316</a>, to submit to Astrophys. J.</dd>
 </dl>
 
 <dl>
   <dt>2026 &bullet; Semi-analytic Inference of Cold Dark Matter Satellite Densities, II: Implications for Dark Matter Indirect Detection Constraints</dt>
-  <dd>K. Raman, <b>DF, </b> M. Kaplinghat, M. Lisanti, B. Safdi<br> 
+  <dd>K. Raman, <b>DF, </b>&nbsp;M. Kaplinghat, M. Lisanti, B. Safdi<br> 
     <a href="https://arxiv.org/abs/2607.27326">arXiv:2607.27326</a>, to submit to Phys. Rev. D</dd>
 </dl>
 
 <dl>
   <dt>2026 &bullet; Galactic Amnesia: The Information Washout of the Milky Way Merger History</dt>
-  <dd>L. Necib, <b>DF, </b> E. Davies, N. Starkman, A. Thoyas<br> 
+  <dd>L. Necib, <b>DF, </b>&nbsp;E. Davies, N. Starkman, A. Thoyas<br> 
     <a href="https://arxiv.org/abs/2605.04138">arXiv:2605.04138</a>, submitted to Astrophys. J.</dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood</dt>
-  <dd>T. Shpigel, <b>DF, </b> M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+  <dd>T. Shpigel, <b>DF, </b>&nbsp;M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2510.21914">arXiv:2510.21914</a>, Published <a href="https://doi.org/10.3847/1538-4357/ae60fd">Astrophys. J., <b>1003</b>, 102 (2026)</a></dd>
 </dl>
 
 <dl>
   <dt>2025 &bullet; Dark Matter Velocity Distributions for Direct Detection: Astrophysical Uncertainties are Smaller Than They Appear</dt>
-  <dd><b>DF, </b> C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
+  <dd><b>DF, </b>&nbsp;C. Blanco, M. Lisanti, L. Necib, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2505.07924">arXiv:2505.07924</a>, Published <a href="https://doi.org/10.1103/wmpq-mw4h">Phys. Rev. Lett., <b>135</b>, 211004 (2025)</a></dd>
 </dl>
 
 <dl>
   <dt>2024 &bullet; Cosmological Simulations of Stellar Halos with <i>Gaia</i> Sausage&ndash;Enceladus Analogues: Two Sausages, One Bun?</dt>
-  <dd><b>DF, </b> M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
+  <dd><b>DF, </b>&nbsp;M. Lisanti, L. Necib, D. Horta, M. Vogelsberger, L. Hernquist<br> 
     <a href="https://arxiv.org/abs/2408.02723">arXiv:2408.02723</a>, Published <a href="https://doi.org/10.3847/1538-4357/adbe31">Astrophys. J., <b>983</b>, 119 (2025)</a></dd>
 </dl>
 
 <dl>
   <dt>2023 &bullet; Probabilistic Inference of the Structure and Orbit of Milky Way Satellites with Semi-Analytic Modeling</dt>
-  <dd><b>DF, </b> O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
+  <dd><b>DF, </b>&nbsp;O. Slone, M. Lisanti, F. Jiang, M. Kaplinghat<br> 
     <a href="https://arxiv.org/abs/2311.05676">arXiv:2311.05676</a>, Published <a href="https://doi.org/10.1093/mnras/stae2736">Mon. Not. R. Astron. Soc., <b>536</b>, 2891 (2025)</a></dd>
 </dl>
 
@@ -107,14 +107,18 @@ redirect_from: /cv
 <div class="collapsible-content">
 
 <dl>
-  <dt>Course Coordinator &amp; Instructor, Prison Teaching Initiative</dt>
+  <dt>Course Coordinator &amp; Instructor of Record, <a href="https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative">Prison Teaching Initiative&ensp;<i class="fa-solid fa-arrow-up-right-from-square"></i></a></dt>
   <dd>
-  <b>Fall 2026 &bullet;</b> Facilitated syllabus creation, instructional team meetings, and course logistics for MATH 101/070 (Number Systems with Review) at Garden State Youth Correctional Facility, where I also volunteered as an instructor
+  <b>2026 &ndash; 2027 &bullet;</b> Developed syllabi, facilitated instructional team meetings and course logistics, and taught NJ-STEP classes at Garden State Youth Correctional Facility
+  <ul>
+    <li> MATH 101/070 (Number Systems with Review) Fall 2026</li>
+    <li style='color: #7a7a7a'> MATH 015C (Basic Mathematics) Spring 2027</li>
+  </ul>
   </dd>
 </dl>
 
 <dl>
-  <dt>Scientific Thought and Practice Assistant, Coding Foundations of Research Internship Program</dt>
+  <dt>Scientific Thought and Practice Assistant, <a href="https://undergraduateresearch.princeton.edu/programs/summer-programs/coding-foundations-research">Coding Foundations of Research Internship Program&ensp;<i class="fa-solid fa-arrow-up-right-from-square"></i></a></dt>
   <dd>
   <b>Summer 2026 &bullet;</b> Led interns to discover the practices of scientific inquiry, to design and conduct experiments, and to develop skills of observation and critical thinking
   </dd>
@@ -124,12 +128,10 @@ redirect_from: /cv
   <dt>Teaching Assistant, Princeton University Department of Physics</dt>
   <dd>
 
-  <b>2026 &bullet;</b> Helped develop new curricula for the Quantum Mechanics sequence, incorporating computational approaches to problem-solving and developing students' Python skills<br>
+  <b>2026 &ndash; 2027 &bullet;</b> Helped develop new curricula for the Quantum Mechanics sequence, incorporating computational approaches to problem-solving and developing students' Python skills<br>
   <ul>
     <li> PHY 207 (From Classical to Quantum Mechanics) Fall 2026</li>
-  {% comment %}
-    <li> PHY 208 (Principles of Quantum Mechanics) Spring 2027</li>
-  {% endcomment %}
+    <li style='color: #7a7a7a'> PHY 208 (Principles of Quantum Mechanics) Spring 2027</li>
   </ul>
   <b>2021 &ndash; 2025 &bullet;</b> Worked closely with the lab director to emphasize structured quantitative inquiry in the first-year physics courses<br>
   <ul>
@@ -162,17 +164,17 @@ redirect_from: /cv
   <strong style="color: #515151">Invited talks </strong><em>are indicated with an asterisk:</em>&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>
 </blockquote>
 <dl>
-  <dt>Definitively Tracing Dark Matter in the Local Universe&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt><i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>&puncsp;Definitively Tracing Dark Matter in the Local Universe</dt>
   <dd>Gravity, Astroparticle, and Particle Physics Seminar<br>
     The Pennsylvania State University, November 2026</dd>
 </dl>
 <dl>
-  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt><i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>&puncsp;Determining the Local Dark Matter Distribution</dt>
   <dd>New High Energy Theory Center Seminar<br>
     Rutgers University, October 2026</dd>
 </dl>
 <dl>
-  <dt>Determining the Local Dark Matter Distribution&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt><i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>&puncsp;Determining the Local Dark Matter Distribution</dt>
   <dd>Center for Neutrino Physics Seminar<br>
     Virginia Polytechnic Institute and State University, September 2026</dd>
 </dl>
@@ -182,12 +184,12 @@ redirect_from: /cv
     University of Pittsburgh, May 2026</dd>
 </dl>
 <dl>
-  <dt>The Dark Matter Around the Milky Way&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt><i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>&puncsp;The Dark Matter Around the Milky Way</dt>
   <dd>TIPOTS Graduate Student Colloquium<br>
     Princeton University, May 2026</dd>
 </dl>
 <dl>
-  <dt>Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection&puncsp;<i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i></dt>
+  <dt><i class="fa-solid fa-asterisk fa-2xs" aria-hidden="true" style="color: #CC5533"></i>&puncsp;Diversity in Ultra-faint Dwarf Densities and Implications for Indirect Detection</dt>
   <dd>Particle Astrophysics and Cosmology Meeting Around NYC &ndash; PACMAN<br>
     Center for Computational Astrophysics, January 2026</dd>
 </dl>
